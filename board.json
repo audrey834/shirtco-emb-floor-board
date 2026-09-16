@@ -1,18 +1,18 @@
 {
-  "generated_at_ct": "2026-09-16 12:27:01 CDT",
+  "generated_at_ct": "2026-09-16 14:19:44 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74761, 74922, 75129, 75895",
+    "Printavo Sewout AR approved: 74761, 75129, 75895",
     "Printavo task no-sewout / sewout not required: 75994"
   ],
   "counts": {
-    "ready_to_sew": 12,
-    "needs_barcode": 11,
+    "ready_to_sew": 14,
+    "needs_barcode": 16,
     "sewout": 4,
     "on_machine": 5,
-    "total": 32
+    "total": 39
   },
   "columns": {
     "ready_to_sew": {
@@ -55,7 +55,7 @@
           "invoice_id": "24122301",
           "nickname": "EMB- TACKLE TWILL- VCA-  4 PCS",
           "company": "Christian (Veritas) High School",
-          "production_due": "2026-09-01",
+          "production_due": "2026-08-31",
           "customer_due": "2026-09-01",
           "rush": false,
           "firm": false,
@@ -83,6 +83,38 @@
           "url": "https://www.printavo.com/invoices/24370397",
           "shelf": "shelf 90",
           "sewout_badge": "approved"
+        },
+        {
+          "visual_id": "75760",
+          "invoice_id": "24370684",
+          "nickname": "B354388 Maryland Heights Fire 2026 - Batched 09/07/2026 EMB - LC/RC - WHITE OUTLINE - 53562 - (1 of 3)",
+          "company": "Maryland Heights Fire Department",
+          "production_due": "2026-09-14",
+          "customer_due": "2026-09-21",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24370684",
+          "shelf": "shelf e3"
+        },
+        {
+          "visual_id": "75876",
+          "invoice_id": "24402004",
+          "nickname": "EMB - FHHS Marching Band Viking Head - 28 PCS",
+          "company": "FRANCIS HOWELL MARCHING BAND ",
+          "production_due": "2026-09-15",
+          "customer_due": "2026-09-16",
+          "rush": false,
+          "firm": false,
+          "qty": 28,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24402004",
+          "shelf": "shelf 95"
         },
         {
           "visual_id": "75895",
@@ -151,23 +183,6 @@
           "sewout_badge": "approved"
         },
         {
-          "visual_id": "75129",
-          "invoice_id": "24217619",
-          "nickname": "EMB - Creating for a Cause crews - 105pc",
-          "company": "Weymouth Watson",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-23",
-          "rush": false,
-          "firm": false,
-          "qty": 105,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24217619",
-          "shelf": "shelf end",
-          "sewout_badge": "approved"
-        },
-        {
           "visual_id": "76145",
           "invoice_id": "24463835",
           "nickname": "587046 Barnwell Summer Spirit Store 2026 EMB-FF-D2-73681 - (5 of 6)",
@@ -214,6 +229,22 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24451813",
           "shelf": "shelf e2"
+        },
+        {
+          "visual_id": "76267",
+          "invoice_id": "24498883",
+          "nickname": "EMB-NEW ATRI LOGO- 28 PCS",
+          "company": "A&A Towing",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 28,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24498883",
+          "shelf": "SHELF 89"
         }
       ]
     },
@@ -221,20 +252,52 @@
       "title": "Needs barcode",
       "cards": [
         {
-          "visual_id": "75876",
-          "invoice_id": "24402004",
-          "nickname": "EMB - FHHS Marching Band Viking Head - 28 PCS",
-          "company": "FRANCIS HOWELL MARCHING BAND ",
-          "production_due": "2026-09-15",
-          "customer_due": "2026-09-16",
+          "visual_id": "75794",
+          "invoice_id": "24381025",
+          "nickname": "610846 Wright City Fire Department 2026  EMB - LC/RC/LS OR CUFF -  NON-UNION - 42956 -  (11 of 11)",
+          "company": "Wright City Fire Department",
+          "production_due": "2026-09-11",
+          "customer_due": "2026-09-18",
           "rush": false,
           "firm": false,
-          "qty": 28,
+          "qty": 4,
           "status_id": "462838",
           "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
           "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24402004",
-          "shelf": "shelf 95"
+          "url": "https://www.printavo.com/invoices/24381025",
+          "shelf": "shelf e3"
+        },
+        {
+          "visual_id": "76022",
+          "invoice_id": "24433891",
+          "nickname": "EMB - Skyline Pullovers - 1 PC",
+          "company": "SKYLINE MISSOURI REALTY",
+          "production_due": "2026-09-17",
+          "customer_due": "2026-09-18",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24433891",
+          "shelf": "shelf e3"
+        },
+        {
+          "visual_id": "76065",
+          "invoice_id": "24444830",
+          "nickname": "EMB - Chef Coat and Polos (CPG) - Qty 3",
+          "company": "Top Golf Chesterfield",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-21",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24444830",
+          "shelf": null
         },
         {
           "visual_id": "76095",
@@ -299,6 +362,38 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24454597",
           "shelf": "shelf e2"
+        },
+        {
+          "visual_id": "76105",
+          "invoice_id": "24454599",
+          "nickname": "566144 Central County Emergency 911 EMB - PANTS - 61091 -  (13 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24454599",
+          "shelf": "shelf e3"
+        },
+        {
+          "visual_id": "76146",
+          "invoice_id": "24463840",
+          "nickname": "587046 Barnwell Summer Spirit Store 2026 EMB-LC-D1-73681 -  (6 of 6)",
+          "company": "Barnwell Middle School",
+          "production_due": "2026-09-20",
+          "customer_due": "2026-09-27",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24463840",
+          "shelf": "shelf e3"
         },
         {
           "visual_id": "75854",
@@ -381,6 +476,22 @@
           "shelf": null
         },
         {
+          "visual_id": "76183",
+          "invoice_id": "24475004",
+          "nickname": "EMB - All Souls Student Shirts - 110pc",
+          "company": "All Souls Catholic Church",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 110,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24475004",
+          "shelf": "shelf end"
+        },
+        {
           "visual_id": "76184",
           "invoice_id": "24476578",
           "nickname": "EMB/ FUSZ BUICK RED AND BLACK POLOS SHIP TO BUICK ",
@@ -444,7 +555,7 @@
           "invoice_id": "24350199",
           "nickname": "EMB - PO60903164C - UVA OPHTHALMOLOGY - 44PC",
           "company": "Kaeser & Blair, INC",
-          "production_due": "2026-09-15",
+          "production_due": "2026-09-14",
           "customer_due": "2026-09-15",
           "rush": false,
           "firm": false,
@@ -483,28 +594,11 @@
       "title": "On machine",
       "cards": [
         {
-          "visual_id": "74922",
-          "invoice_id": "24161150",
-          "nickname": "EMB - MHFD Versa Polo - 57",
-          "company": "Maryland Heights Fire Department",
-          "production_due": "2026-09-16",
-          "customer_due": "2026-09-16",
-          "rush": false,
-          "firm": false,
-          "qty": 60,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24161150",
-          "shelf": "shelf 91",
-          "sewout_badge": "approved"
-        },
-        {
           "visual_id": "75497",
           "invoice_id": "24302926",
           "nickname": "EMB - Illusions Hats & Visors - 50 PCS",
           "company": "Illusions Softball",
-          "production_due": "2026-09-17",
+          "production_due": "2026-09-16",
           "customer_due": "2026-09-17",
           "rush": false,
           "firm": false,
@@ -514,6 +608,23 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24302926",
           "shelf": "shelf 92"
+        },
+        {
+          "visual_id": "75129",
+          "invoice_id": "24217619",
+          "nickname": "EMB - Creating for a Cause crews - 105pc",
+          "company": "Weymouth Watson",
+          "production_due": "2026-09-17",
+          "customer_due": "2026-09-23",
+          "rush": false,
+          "firm": false,
+          "qty": 105,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24217619",
+          "shelf": "shelf end",
+          "sewout_badge": "approved"
         },
         {
           "visual_id": "76011",
@@ -542,9 +653,9 @@
           "rush": false,
           "firm": false,
           "qty": 4,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24454553",
           "shelf": "shelf e1"
         },
