@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-09-17 11:32:47 CDT",
+  "generated_at_ct": "2026-09-17 11:52:46 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 75751, 75957",
+    "Printavo Sewout AR approved: 75707, 75751, 75957",
     "Printavo task no-sewout / sewout not required: 75994",
     "76293: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76131: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -16,9 +16,9 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 12,
+    "ready_to_sew": 13,
     "needs_barcode": 11,
-    "sewout": 7,
+    "sewout": 6,
     "on_machine": 8,
     "total": 38
   },
@@ -43,6 +43,23 @@
           "shelf": "shelf e3"
         },
         {
+          "visual_id": "75707",
+          "invoice_id": "24358844",
+          "nickname": "EMB - MOUNTAIN MOVERS FACADES TOPS 5PC",
+          "company": "Mountain Mover Facades",
+          "production_due": "2026-09-16",
+          "customer_due": "2026-09-17",
+          "rush": false,
+          "firm": false,
+          "qty": 5,
+          "status_id": "338846",
+          "status_name": "EMB - SEWOUT APPROVED",
+          "short_status": "Sewout approved",
+          "url": "https://www.printavo.com/invoices/24358844",
+          "shelf": null,
+          "sewout_badge": "approved"
+        },
+        {
           "visual_id": "75798",
           "invoice_id": "24382271",
           "nickname": "DTF/EMB  TRY TO SHIP FAST ALONG  ",
@@ -59,27 +76,11 @@
           "shelf": "shelf 13"
         },
         {
-          "visual_id": "75868",
-          "invoice_id": "24401521",
-          "nickname": "EMB bigjexpress hat - 8pc ",
-          "company": "Big J Express",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-18",
-          "rush": false,
-          "firm": false,
-          "qty": 8,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24401521",
-          "shelf": "shelf 92"
-        },
-        {
           "visual_id": "75982",
           "invoice_id": "24422395",
           "nickname": "EMB - Black Sheep Hats - 24pc",
           "company": "",
-          "production_due": "2026-09-18",
+          "production_due": "2026-09-17",
           "customer_due": "2026-09-18",
           "rush": false,
           "firm": false,
@@ -95,7 +96,7 @@
           "invoice_id": "24426240",
           "nickname": "EMB - PO2005156 - Rate - 50PC",
           "company": "All Things Swag",
-          "production_due": "2026-09-18",
+          "production_due": "2026-09-17",
           "customer_due": "2026-09-24",
           "rush": false,
           "firm": false,
@@ -106,6 +107,22 @@
           "url": "https://www.printavo.com/invoices/24426240",
           "shelf": "shelf 93",
           "sewout_badge": "approved"
+        },
+        {
+          "visual_id": "75868",
+          "invoice_id": "24401521",
+          "nickname": "EMB bigjexpress hat - 8pc ",
+          "company": "Big J Express",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-18",
+          "rush": false,
+          "firm": false,
+          "qty": 8,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24401521",
+          "shelf": "shelf 92"
         },
         {
           "visual_id": "76065",
@@ -242,6 +259,38 @@
           "shelf": "shelf e1"
         },
         {
+          "visual_id": "76058",
+          "invoice_id": "24442791",
+          "nickname": "EMB - RYVAL HATS- QTY 6 (1 of 3)",
+          "company": "RYVAL STUDIOS",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-21",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24442791",
+          "shelf": "shelf 93"
+        },
+        {
+          "visual_id": "76095",
+          "invoice_id": "24454557",
+          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - NAVY - NON UNION - ASST SUPERVISORS- 61410 -  (3 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 5,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24454557",
+          "shelf": "shelf 91"
+        },
+        {
           "visual_id": "76097",
           "invoice_id": "24454561",
           "nickname": "566144 Central County Emergency 911 EMB - LC/RC - NAVY - NON UNION - Shift Supervisors - 61410 -  (5 of 13)",
@@ -290,38 +339,6 @@
           "shelf": "shelf e2"
         },
         {
-          "visual_id": "76058",
-          "invoice_id": "24442791",
-          "nickname": "EMB - RYVAL HATS- QTY 6 (1 of 3)",
-          "company": "RYVAL STUDIOS",
-          "production_due": "2026-09-19",
-          "customer_due": "2026-09-21",
-          "rush": false,
-          "firm": false,
-          "qty": 6,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24442791",
-          "shelf": "shelf 93"
-        },
-        {
-          "visual_id": "76095",
-          "invoice_id": "24454557",
-          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - NAVY - NON UNION - ASST SUPERVISORS- 61410 -  (3 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-19",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 5,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24454557",
-          "shelf": "shelf 91"
-        },
-        {
           "visual_id": "76077",
           "invoice_id": "24450726",
           "nickname": "B361768 HC Sharp - Batched 09/14/2026 EMB-LC/HAT-74447 -  (2 of 3)",
@@ -342,7 +359,7 @@
           "invoice_id": "24463665",
           "nickname": "REPRINT EMB - DISCOVERY RIDGE ELEM. 1/4 ZIPS- qty 1",
           "company": "Discovery Ridge Elementary",
-          "production_due": "2026-09-22",
+          "production_due": "2026-09-21",
           "customer_due": "2026-09-22",
           "rush": false,
           "firm": false,
@@ -390,7 +407,7 @@
           "invoice_id": "24490995",
           "nickname": "B364641 Pride of Pattonville Marching Band Apparel 2026 - Batched 09/16/2026 EMB - HATS - 54874 - (1 of 3)",
           "company": "Pride of Pattonville Marching Band",
-          "production_due": "2026-09-24",
+          "production_due": "2026-09-23",
           "customer_due": "2026-09-23",
           "rush": false,
           "firm": false,
@@ -426,30 +443,11 @@
           "blocker": "needed"
         },
         {
-          "visual_id": "75707",
-          "invoice_id": "24358844",
-          "nickname": "EMB - MOUNTAIN MOVERS FACADES TOPS 5PC",
-          "company": "Mountain Mover Facades",
-          "production_due": "2026-09-16",
-          "customer_due": "2026-09-17",
-          "rush": false,
-          "firm": false,
-          "qty": 5,
-          "status_id": "466183",
-          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
-          "short_status": "DST+barcode \u00b7 no goods",
-          "url": "https://www.printavo.com/invoices/24358844",
-          "shelf": null,
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed",
-          "blocker": "needed"
-        },
-        {
           "visual_id": "76242",
           "invoice_id": "24494034",
           "nickname": "EMB - POOLSIDE LIVING HATS - QTY 18 (2 OF 2)",
           "company": "Poolside Living",
-          "production_due": "2026-09-24",
+          "production_due": "2026-09-23",
           "customer_due": "2026-09-24",
           "rush": false,
           "firm": false,
@@ -483,6 +481,25 @@
           "blocker": "needed"
         },
         {
+          "visual_id": "76000",
+          "invoice_id": "24427628",
+          "nickname": "EMB - HBCSD Polos - 126 PCS",
+          "company": "SUNSET SCREEN PRINTING",
+          "production_due": "2026-09-16",
+          "customer_due": "2026-09-17",
+          "rush": false,
+          "firm": false,
+          "qty": 126,
+          "status_id": "338845",
+          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
+          "short_status": "Sewout sent",
+          "url": "https://www.printavo.com/invoices/24427628",
+          "shelf": "shelf end",
+          "sewout_badge": "sent",
+          "sewout_reason": "new art + approval needed",
+          "blocker": "sent"
+        },
+        {
           "visual_id": "74924",
           "invoice_id": "24161893",
           "nickname": "EMB -SHOW ME PEPSI CLUB- 4 pcs",
@@ -497,25 +514,6 @@
           "short_status": "Sewout sent",
           "url": "https://www.printavo.com/invoices/24161893",
           "shelf": "shelf e1",
-          "sewout_badge": "sent",
-          "sewout_reason": "new art + approval needed",
-          "blocker": "sent"
-        },
-        {
-          "visual_id": "76000",
-          "invoice_id": "24427628",
-          "nickname": "EMB - HBCSD Polos - 126 PCS",
-          "company": "SUNSET SCREEN PRINTING",
-          "production_due": "2026-09-17",
-          "customer_due": "2026-09-17",
-          "rush": false,
-          "firm": false,
-          "qty": 126,
-          "status_id": "338845",
-          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
-          "short_status": "Sewout sent",
-          "url": "https://www.printavo.com/invoices/24427628",
-          "shelf": "shelf end",
           "sewout_badge": "sent",
           "sewout_reason": "new art + approval needed",
           "blocker": "sent"
@@ -596,6 +594,22 @@
           "shelf": "shelf 95"
         },
         {
+          "visual_id": "76122",
+          "invoice_id": "24458613",
+          "nickname": "RESTITCH - 610846 Wright City Fire Department 2026  EMB - LC/RC/FB - NON- UNION- COAT - 50773 -  (10 of 11)",
+          "company": "Wright City Fire Department",
+          "production_due": "2026-09-15",
+          "customer_due": "2026-09-15",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24458613",
+          "shelf": "shelf 91"
+        },
+        {
           "visual_id": "75497",
           "invoice_id": "24302926",
           "nickname": "EMB - Illusions Hats & Visors - 50 PCS",
@@ -610,22 +624,6 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24302926",
           "shelf": "shelf 92"
-        },
-        {
-          "visual_id": "76122",
-          "invoice_id": "24458613",
-          "nickname": "RESTITCH - 610846 Wright City Fire Department 2026  EMB - LC/RC/FB - NON- UNION- COAT - 50773 -  (10 of 11)",
-          "company": "Wright City Fire Department",
-          "production_due": "2026-09-16",
-          "customer_due": "2026-09-15",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24458613",
-          "shelf": "shelf 91"
         },
         {
           "visual_id": "76011",
@@ -690,10 +688,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 4,
+    "needed": 3,
     "sent": 3,
     "approved": 0,
     "status_based": 3,
-    "override": 4
+    "override": 3
   }
 }
