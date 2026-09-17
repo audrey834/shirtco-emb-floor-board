@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-17 13:36:56 CDT",
+  "generated_at_ct": "2026-09-17 13:51:51 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -17,10 +17,10 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 17,
+    "ready_to_sew": 16,
     "needs_barcode": 10,
     "sewout": 4,
-    "on_machine": 6,
+    "on_machine": 7,
     "total": 37
   },
   "columns": {
@@ -75,22 +75,6 @@
           "url": "https://www.printavo.com/invoices/24358844",
           "shelf": "shelf 95",
           "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "75798",
-          "invoice_id": "24382271",
-          "nickname": "DTF/EMB SHIP SOME TO PA",
-          "company": "SPARTAN X",
-          "production_due": "2026-09-16",
-          "customer_due": "2026-09-17",
-          "rush": false,
-          "firm": false,
-          "qty": 24,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24382271",
-          "shelf": "shelf 13"
         },
         {
           "visual_id": "74400",
@@ -602,6 +586,22 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24302926",
           "shelf": "shelf 92"
+        },
+        {
+          "visual_id": "75798",
+          "invoice_id": "24382271",
+          "nickname": "DTF/EMB SHIP SOME TO PA",
+          "company": "SPARTAN X",
+          "production_due": "2026-09-16",
+          "customer_due": "2026-09-17",
+          "rush": false,
+          "firm": false,
+          "qty": 24,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24382271",
+          "shelf": "shelf 13"
         },
         {
           "visual_id": "76011",
