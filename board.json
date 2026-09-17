@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-17 11:52:46 CDT",
+  "generated_at_ct": "2026-09-17 12:08:29 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -8,6 +8,7 @@
     "Printavo task no-sewout / sewout not required: 75994",
     "76293: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76131: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
+    "75707: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "75423: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "75320: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "75317: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -17,10 +18,10 @@
   ],
   "counts": {
     "ready_to_sew": 13,
-    "needs_barcode": 11,
+    "needs_barcode": 10,
     "sewout": 6,
     "on_machine": 8,
-    "total": 38
+    "total": 37
   },
   "columns": {
     "ready_to_sew": {
@@ -43,26 +44,9 @@
           "shelf": "shelf e3"
         },
         {
-          "visual_id": "75707",
-          "invoice_id": "24358844",
-          "nickname": "EMB - MOUNTAIN MOVERS FACADES TOPS 5PC",
-          "company": "Mountain Mover Facades",
-          "production_due": "2026-09-16",
-          "customer_due": "2026-09-17",
-          "rush": false,
-          "firm": false,
-          "qty": 5,
-          "status_id": "338846",
-          "status_name": "EMB - SEWOUT APPROVED",
-          "short_status": "Sewout approved",
-          "url": "https://www.printavo.com/invoices/24358844",
-          "shelf": null,
-          "sewout_badge": "approved"
-        },
-        {
           "visual_id": "75798",
           "invoice_id": "24382271",
-          "nickname": "DTF/EMB  TRY TO SHIP FAST ALONG  ",
+          "nickname": "DTF/EMB SHIP SOME TO PA",
           "company": "SPARTAN X",
           "production_due": "2026-09-16",
           "customer_due": "2026-09-17",
@@ -74,6 +58,22 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24382271",
           "shelf": "shelf 13"
+        },
+        {
+          "visual_id": "74400",
+          "invoice_id": "24059505",
+          "nickname": "584235 American Legion Post 312 Baseball 2026 EMB - HATS - 55160 -  (5 of 8)",
+          "company": "American Legion Post 312 Baseball",
+          "production_due": "2026-09-17",
+          "customer_due": "2026-09-18",
+          "rush": false,
+          "firm": false,
+          "qty": 10,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24059505",
+          "shelf": "shelf e1"
         },
         {
           "visual_id": "75982",
@@ -242,22 +242,6 @@
     "needs_barcode": {
       "title": "Needs barcode",
       "cards": [
-        {
-          "visual_id": "74400",
-          "invoice_id": "24059505",
-          "nickname": "584235 American Legion Post 312 Baseball 2026 EMB - HATS - 55160 -  (5 of 8)",
-          "company": "American Legion Post 312 Baseball",
-          "production_due": "2026-09-17",
-          "customer_due": "2026-09-18",
-          "rush": false,
-          "firm": false,
-          "qty": 10,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24059505",
-          "shelf": "shelf e1"
-        },
         {
           "visual_id": "76058",
           "invoice_id": "24442791",
