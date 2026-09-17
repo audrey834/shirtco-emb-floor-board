@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-17 15:27:39 CDT",
+  "generated_at_ct": "2026-09-17 15:38:00 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -18,11 +18,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 16,
+    "ready_to_sew": 17,
     "needs_barcode": 10,
     "sewout": 4,
     "on_machine": 7,
-    "total": 37
+    "total": 38
   },
   "columns": {
     "ready_to_sew": {
@@ -240,6 +240,22 @@
           "shelf": "shelf e3"
         },
         {
+          "visual_id": "76183",
+          "invoice_id": "24475004",
+          "nickname": "EMB - All Souls Student Shirts - 110pc",
+          "company": "All Souls Catholic Church",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 110,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24475004",
+          "shelf": "shelf end"
+        },
+        {
           "visual_id": "76184",
           "invoice_id": "24476578",
           "nickname": "EMB/ FUSZ BUICK RED AND BLACK POLOS SHIP TO BUICK ",
@@ -310,6 +326,22 @@
           "shelf": "shelf 125"
         },
         {
+          "visual_id": "76094",
+          "invoice_id": "24454556",
+          "nickname": "566144 Central County Emergency 911 EMB - LC ONLY - COAT - 61434 -  (2 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24454556",
+          "shelf": null
+        },
+        {
           "visual_id": "76095",
           "invoice_id": "24454557",
           "nickname": "566144 Central County Emergency 911 EMB - LC/RC - NAVY - NON UNION - ASST SUPERVISORS- 61410 -  (3 of 13)",
@@ -372,22 +404,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24454597",
           "shelf": "shelf e2"
-        },
-        {
-          "visual_id": "76183",
-          "invoice_id": "24475004",
-          "nickname": "EMB - All Souls Student Shirts - 110pc",
-          "company": "All Souls Catholic Church",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 110,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24475004",
-          "shelf": "shelf end"
         },
         {
           "visual_id": "76216",
