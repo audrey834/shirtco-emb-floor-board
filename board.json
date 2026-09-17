@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-09-17 13:06:27 CDT",
+  "generated_at_ct": "2026-09-17 13:24:52 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 75707, 75751, 75887, 75957",
+    "Printavo Sewout AR approved: 74924, 75707, 75751, 75887, 75957",
     "Printavo task no-sewout / sewout not required: 75994",
     "76293: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76131: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -17,11 +17,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 16,
+    "ready_to_sew": 17,
     "needs_barcode": 10,
-    "sewout": 5,
-    "on_machine": 7,
-    "total": 38
+    "sewout": 4,
+    "on_machine": 6,
+    "total": 37
   },
   "columns": {
     "ready_to_sew": {
@@ -32,7 +32,7 @@
           "invoice_id": "24381025",
           "nickname": "610846 Wright City Fire Department 2026  EMB - LC/RC/LS OR CUFF -  NON-UNION - 42956 -  (11 of 11)",
           "company": "Wright City Fire Department",
-          "production_due": "2026-09-11",
+          "production_due": "2026-09-12",
           "customer_due": "2026-09-18",
           "rush": false,
           "firm": false,
@@ -60,11 +60,28 @@
           "shelf": null
         },
         {
+          "visual_id": "74924",
+          "invoice_id": "24161893",
+          "nickname": "EMB -SHOW ME PEPSI CLUB- 4 pcs",
+          "company": "OZARK MOUNTAIN PEPSI COLA COLLECTORS CLUB",
+          "production_due": "2026-09-17",
+          "customer_due": "2026-09-18",
+          "rush": false,
+          "firm": false,
+          "qty": 4,
+          "status_id": "338846",
+          "status_name": "EMB - SEWOUT APPROVED",
+          "short_status": "Sewout approved",
+          "url": "https://www.printavo.com/invoices/24161893",
+          "shelf": "shelf e1",
+          "sewout_badge": "approved"
+        },
+        {
           "visual_id": "75707",
           "invoice_id": "24358844",
           "nickname": "EMB - MOUNTAIN MOVERS FACADES TOPS 5PC",
           "company": "Mountain Mover Facades",
-          "production_due": "2026-09-16",
+          "production_due": "2026-09-17",
           "customer_due": "2026-09-17",
           "rush": false,
           "firm": false,
@@ -81,7 +98,7 @@
           "invoice_id": "24382271",
           "nickname": "DTF/EMB SHIP SOME TO PA",
           "company": "SPARTAN X",
-          "production_due": "2026-09-16",
+          "production_due": "2026-09-17",
           "customer_due": "2026-09-17",
           "rush": false,
           "firm": false,
@@ -91,22 +108,6 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24382271",
           "shelf": "shelf 13"
-        },
-        {
-          "visual_id": "74400",
-          "invoice_id": "24059505",
-          "nickname": "584235 American Legion Post 312 Baseball 2026 EMB - HATS - 55160 -  (5 of 8)",
-          "company": "American Legion Post 312 Baseball",
-          "production_due": "2026-09-17",
-          "customer_due": "2026-09-18",
-          "rush": false,
-          "firm": false,
-          "qty": 10,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24059505",
-          "shelf": "shelf e1"
         },
         {
           "visual_id": "75982",
@@ -142,20 +143,20 @@
           "sewout_badge": "approved"
         },
         {
-          "visual_id": "75868",
-          "invoice_id": "24401521",
-          "nickname": "EMB bigjexpress hat - 8pc ",
-          "company": "Big J Express",
+          "visual_id": "74400",
+          "invoice_id": "24059505",
+          "nickname": "584235 American Legion Post 312 Baseball 2026 EMB - HATS - 55160 -  (5 of 8)",
+          "company": "American Legion Post 312 Baseball",
           "production_due": "2026-09-18",
           "customer_due": "2026-09-18",
           "rush": false,
           "firm": false,
-          "qty": 8,
+          "qty": 10,
           "status_id": "227037",
           "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
           "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24401521",
-          "shelf": "shelf 92"
+          "url": "https://www.printavo.com/invoices/24059505",
+          "shelf": "shelf e1"
         },
         {
           "visual_id": "76058",
@@ -206,6 +207,22 @@
           "shelf": "shelf e3"
         },
         {
+          "visual_id": "75868",
+          "invoice_id": "24401521",
+          "nickname": "EMB bigjexpress hat - 8pc ",
+          "company": "Big J Express",
+          "production_due": "2026-09-19",
+          "customer_due": "2026-09-18",
+          "rush": false,
+          "firm": false,
+          "qty": 8,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24401521",
+          "shelf": "shelf 92"
+        },
+        {
           "visual_id": "76146",
           "invoice_id": "24463840",
           "nickname": "587046 Barnwell Summer Spirit Store 2026 EMB-LC-D1-73681 -  (6 of 6)",
@@ -226,7 +243,7 @@
           "invoice_id": "24398716",
           "nickname": "EMB  CJDR VINCENNES POLOS  SHIP TO VINCENNES ",
           "company": "Lou Fusz Chrysler Vincennes",
-          "production_due": "2026-09-21",
+          "production_due": "2026-09-22",
           "customer_due": "2026-09-22",
           "rush": false,
           "firm": false,
@@ -242,7 +259,7 @@
           "invoice_id": "24399533",
           "nickname": "EMB MATT BROWN COACH TRUCKER CAPS ",
           "company": "",
-          "production_due": "2026-09-21",
+          "production_due": "2026-09-22",
           "customer_due": "2026-09-22",
           "rush": false,
           "firm": false,
@@ -514,25 +531,6 @@
           "blocker": "sent"
         },
         {
-          "visual_id": "74924",
-          "invoice_id": "24161893",
-          "nickname": "EMB -SHOW ME PEPSI CLUB- 4 pcs",
-          "company": "OZARK MOUNTAIN PEPSI COLA COLLECTORS CLUB",
-          "production_due": "2026-09-17",
-          "customer_due": "2026-09-18",
-          "rush": false,
-          "firm": false,
-          "qty": 4,
-          "status_id": "338845",
-          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
-          "short_status": "Sewout sent",
-          "url": "https://www.printavo.com/invoices/24161893",
-          "shelf": "shelf e1",
-          "sewout_badge": "sent",
-          "sewout_reason": "new art + approval needed",
-          "blocker": "sent"
-        },
-        {
           "visual_id": "75251",
           "invoice_id": "24248581",
           "nickname": "EMB - Sitelines CPG - 5 PCS",
@@ -557,29 +555,11 @@
       "title": "On machine",
       "cards": [
         {
-          "visual_id": "75671",
-          "invoice_id": "24350199",
-          "nickname": "EMB - PO60903164C - UVA OPHTHALMOLOGY - 44PC",
-          "company": "Kaeser & Blair, INC",
-          "production_due": "2026-09-14",
-          "customer_due": "2026-09-15",
-          "rush": false,
-          "firm": false,
-          "qty": 44,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24350199",
-          "shelf": "shelf under",
-          "sewout_badge": "needed",
-          "sewout_reason": "new art + approval needed"
-        },
-        {
           "visual_id": "75751",
           "invoice_id": "24370397",
           "nickname": "EMB - Purple Bee Farm Dad Hats - 80PC",
           "company": "Purple Bee Farm",
-          "production_due": "2026-09-14",
+          "production_due": "2026-09-15",
           "customer_due": "2026-09-22",
           "rush": false,
           "firm": false,
@@ -596,7 +576,7 @@
           "invoice_id": "24402004",
           "nickname": "EMB - FHHS Marching Band Viking Head - 28 PCS",
           "company": "FRANCIS HOWELL MARCHING BAND ",
-          "production_due": "2026-09-15",
+          "production_due": "2026-09-16",
           "customer_due": "2026-09-16",
           "rush": false,
           "firm": false,
@@ -612,7 +592,7 @@
           "invoice_id": "24302926",
           "nickname": "EMB - Illusions Hats & Visors - 50 PCS",
           "company": "Illusions Softball",
-          "production_due": "2026-09-16",
+          "production_due": "2026-09-17",
           "customer_due": "2026-09-17",
           "rush": false,
           "firm": false,
@@ -687,9 +667,9 @@
   "sewout_breakdown": {
     "declined": 0,
     "needed": 2,
-    "sent": 3,
+    "sent": 2,
     "approved": 0,
-    "status_based": 3,
+    "status_based": 2,
     "override": 2
   }
 }
