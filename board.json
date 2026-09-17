@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-17 10:07:37 CDT",
+  "generated_at_ct": "2026-09-17 10:41:27 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -20,8 +20,8 @@
     "ready_to_sew": 13,
     "needs_barcode": 8,
     "sewout": 7,
-    "on_machine": 10,
-    "total": 38
+    "on_machine": 9,
+    "total": 37
   },
   "columns": {
     "ready_to_sew": {
@@ -541,9 +541,9 @@
           "rush": false,
           "firm": false,
           "qty": 1,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24370684",
           "shelf": "shelf e3"
         },
@@ -594,22 +594,6 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24302926",
           "shelf": "shelf 92"
-        },
-        {
-          "visual_id": "75951",
-          "invoice_id": "24416670",
-          "nickname": "EMB - PO32769-2 - KPS Shawl - 50PC",
-          "company": "BRANDFUSE",
-          "production_due": "2026-09-17",
-          "customer_due": "2026-09-23",
-          "rush": false,
-          "firm": false,
-          "qty": 50,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24416670",
-          "shelf": "shelf 95"
         },
         {
           "visual_id": "76011",
@@ -670,9 +654,9 @@
           "rush": false,
           "firm": false,
           "qty": 1,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24451813",
           "shelf": "shelf e2"
         }
