@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-17 12:27:23 CDT",
+  "generated_at_ct": "2026-09-17 12:40:39 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 75707, 75751, 75957",
+    "Printavo Sewout AR approved: 75707, 75751, 75887, 75957",
     "Printavo task no-sewout / sewout not required: 75994",
     "76293: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76131: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
-    "75707: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
+    "75887: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "75423: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "75320: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "75317: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -17,9 +17,9 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 14,
+    "ready_to_sew": 15,
     "needs_barcode": 10,
-    "sewout": 6,
+    "sewout": 5,
     "on_machine": 7,
     "total": 37
   },
@@ -42,6 +42,23 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24381025",
           "shelf": "shelf e3"
+        },
+        {
+          "visual_id": "75707",
+          "invoice_id": "24358844",
+          "nickname": "EMB - MOUNTAIN MOVERS FACADES TOPS 5PC",
+          "company": "Mountain Mover Facades",
+          "production_due": "2026-09-16",
+          "customer_due": "2026-09-17",
+          "rush": false,
+          "firm": false,
+          "qty": 5,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24358844",
+          "shelf": "shelf 95",
+          "sewout_badge": "approved"
         },
         {
           "visual_id": "75798",
@@ -462,25 +479,6 @@
           "blocker": "needed"
         },
         {
-          "visual_id": "75887",
-          "invoice_id": "24404198",
-          "nickname": "EMB - AKWA Polos Western Reserve - 39 - PO #9937",
-          "company": "ADTEK PROMOTIONS",
-          "production_due": "2026-10-15",
-          "customer_due": "2026-10-16",
-          "rush": false,
-          "firm": false,
-          "qty": 39,
-          "status_id": "466183",
-          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
-          "short_status": "DST+barcode \u00b7 no goods",
-          "url": "https://www.printavo.com/invoices/24404198",
-          "shelf": null,
-          "sewout_badge": "needed",
-          "sewout_reason": "new art + approval needed",
-          "blocker": "needed"
-        },
-        {
           "visual_id": "76000",
           "invoice_id": "24427628",
           "nickname": "EMB - HBCSD Polos - 126 PCS",
@@ -672,10 +670,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 3,
+    "needed": 2,
     "sent": 3,
     "approved": 0,
     "status_based": 3,
-    "override": 3
+    "override": 2
   }
 }
