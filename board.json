@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-17 07:55:41 CDT",
+  "generated_at_ct": "2026-09-17 08:06:05 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -8,10 +8,10 @@
     "Printavo task no-sewout / sewout not required: 75994"
   ],
   "counts": {
-    "ready_to_sew": 15,
+    "ready_to_sew": 14,
     "needs_barcode": 12,
     "sewout": 4,
-    "on_machine": 5,
+    "on_machine": 6,
     "total": 36
   },
   "columns": {
@@ -98,23 +98,6 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24402004",
           "shelf": "shelf 95"
-        },
-        {
-          "visual_id": "75895",
-          "invoice_id": "24406406",
-          "nickname": "EMB - AAG JanSport Backpacks - 16pc 3OF5",
-          "company": "All American Gymnastics",
-          "production_due": "2026-09-16",
-          "customer_due": "2026-09-18",
-          "rush": false,
-          "firm": false,
-          "qty": 16,
-          "status_id": "338846",
-          "status_name": "EMB - SEWOUT APPROVED",
-          "short_status": "Sewout approved",
-          "url": "https://www.printavo.com/invoices/24406406",
-          "shelf": "shelf under",
-          "sewout_badge": "approved"
         },
         {
           "visual_id": "75982",
@@ -544,6 +527,23 @@
     "on_machine": {
       "title": "On machine",
       "cards": [
+        {
+          "visual_id": "75895",
+          "invoice_id": "24406406",
+          "nickname": "EMB - AAG JanSport Backpacks - 16pc 3OF5",
+          "company": "All American Gymnastics",
+          "production_due": "2026-09-16",
+          "customer_due": "2026-09-18",
+          "rush": false,
+          "firm": false,
+          "qty": 16,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24406406",
+          "shelf": "shelf under",
+          "sewout_badge": "approved"
+        },
         {
           "visual_id": "75497",
           "invoice_id": "24302926",
