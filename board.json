@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-09-17 15:11:57 CDT",
+  "generated_at_ct": "2026-09-17 15:27:39 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74924, 75707, 75751, 75887, 75957",
+    "Printavo Sewout AR approved: 74924, 75707, 75887, 75957",
     "Printavo task no-sewout / sewout not required: 75994",
     "76293: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76287: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -18,11 +18,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 17,
+    "ready_to_sew": 16,
     "needs_barcode": 10,
     "sewout": 4,
-    "on_machine": 8,
-    "total": 39
+    "on_machine": 7,
+    "total": 37
   },
   "columns": {
     "ready_to_sew": {
@@ -126,22 +126,6 @@
           "url": "https://www.printavo.com/invoices/24426240",
           "shelf": "shelf 93",
           "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "75868",
-          "invoice_id": "24401521",
-          "nickname": "EMB bigjexpress hat - 8pc ",
-          "company": "Big J Express",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-18",
-          "rush": false,
-          "firm": false,
-          "qty": 8,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24401521",
-          "shelf": "shelf 92"
         },
         {
           "visual_id": "76065",
@@ -572,23 +556,6 @@
           "shelf": "shelf e3"
         },
         {
-          "visual_id": "75751",
-          "invoice_id": "24370397",
-          "nickname": "EMB - Purple Bee Farm Dad Hats - 80PC",
-          "company": "Purple Bee Farm",
-          "production_due": "2026-09-14",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 80,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24370397",
-          "shelf": "shelf 90",
-          "sewout_badge": "approved"
-        },
-        {
           "visual_id": "75876",
           "invoice_id": "24402004",
           "nickname": "EMB - FHHS Marching Band Viking Head - 28 PCS",
@@ -637,6 +604,22 @@
           "shelf": "shelf 13"
         },
         {
+          "visual_id": "75868",
+          "invoice_id": "24401521",
+          "nickname": "EMB bigjexpress hat - 8pc ",
+          "company": "Big J Express",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-18",
+          "rush": false,
+          "firm": false,
+          "qty": 8,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24401521",
+          "shelf": "shelf 92"
+        },
+        {
           "visual_id": "76011",
           "invoice_id": "24429170",
           "nickname": "EMB  SKY WARS HATS- 400 PCS",
@@ -652,22 +635,6 @@
           "url": "https://www.printavo.com/invoices/24429170",
           "shelf": "shelf end",
           "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "76058",
-          "invoice_id": "24442791",
-          "nickname": "EMB - RYVAL HATS- QTY 6 (1 of 3)",
-          "company": "RYVAL STUDIOS",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-21",
-          "rush": false,
-          "firm": false,
-          "qty": 6,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24442791",
-          "shelf": "shelf 93"
         },
         {
           "visual_id": "76145",
