@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-17 16:11:21 CDT",
+  "generated_at_ct": "2026-09-17 16:24:42 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -20,9 +20,9 @@
   "counts": {
     "ready_to_sew": 19,
     "needs_barcode": 9,
-    "sewout": 4,
+    "sewout": 6,
     "on_machine": 7,
-    "total": 39
+    "total": 41
   },
   "columns": {
     "ready_to_sew": {
@@ -529,6 +529,44 @@
           "blocker": "needed"
         },
         {
+          "visual_id": "76399",
+          "invoice_id": "24520593",
+          "nickname": "EMB - LANG INSURANCE -  qty 3 (1 OF 2)",
+          "company": "Lang Insurance",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24520593",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
+          "visual_id": "76400",
+          "invoice_id": "24520843",
+          "nickname": "EMB - LANG INSURANCE HATS -  qty 5(2 OF 2)",
+          "company": "Lang Insurance",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 5,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24520843",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
           "visual_id": "76000",
           "invoice_id": "24427628",
           "nickname": "EMB - HBCSD Polos - 126 PCS",
@@ -698,10 +736,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 2,
+    "needed": 4,
     "sent": 2,
     "approved": 0,
     "status_based": 2,
-    "override": 2
+    "override": 4
   }
 }
