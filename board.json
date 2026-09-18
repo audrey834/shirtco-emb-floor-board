@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-18 15:26:31 CDT",
+  "generated_at_ct": "2026-09-18 15:37:16 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -14,10 +14,10 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 12,
+    "ready_to_sew": 11,
     "needs_barcode": 24,
     "sewout": 4,
-    "on_machine": 3,
+    "on_machine": 4,
     "total": 43
   },
   "columns": {
@@ -72,22 +72,6 @@
           "url": "https://www.printavo.com/invoices/24427628",
           "shelf": "shelf end",
           "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "76081",
-          "invoice_id": "24450990",
-          "nickname": "611136 VIRTUAL WARFARE CENTER  EMB - LC/RS  - 71185 -  (1 of 1)",
-          "company": "",
-          "production_due": "2026-09-16",
-          "customer_due": "2026-09-18",
-          "rush": false,
-          "firm": false,
-          "qty": 176,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24450990",
-          "shelf": "shelf 125"
         },
         {
           "visual_id": "76123",
@@ -698,6 +682,22 @@
     "on_machine": {
       "title": "On machine",
       "cards": [
+        {
+          "visual_id": "76081",
+          "invoice_id": "24450990",
+          "nickname": "611136 VIRTUAL WARFARE CENTER  EMB - LC/RS  - 71185 -  (1 of 1)",
+          "company": "",
+          "production_due": "2026-09-16",
+          "customer_due": "2026-09-18",
+          "rush": false,
+          "firm": false,
+          "qty": 176,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24450990",
+          "shelf": "shelf 125"
+        },
         {
           "visual_id": "74924",
           "invoice_id": "24161893",
