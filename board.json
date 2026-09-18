@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-18 12:59:23 CDT",
+  "generated_at_ct": "2026-09-18 13:16:44 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -15,10 +15,10 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 15,
+    "ready_to_sew": 14,
     "needs_barcode": 24,
     "sewout": 5,
-    "on_machine": 5,
+    "on_machine": 6,
     "total": 49
   },
   "columns": {
@@ -153,22 +153,6 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24450726",
           "shelf": "shelf 85"
-        },
-        {
-          "visual_id": "76140",
-          "invoice_id": "24463665",
-          "nickname": "REPRINT EMB - DISCOVERY RIDGE ELEM. 1/4 ZIPS- qty 1",
-          "company": "Discovery Ridge Elementary",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24463665",
-          "shelf": "shelf e3"
         },
         {
           "visual_id": "76183",
@@ -848,6 +832,22 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24399533",
           "shelf": "shelf 85"
+        },
+        {
+          "visual_id": "76140",
+          "invoice_id": "24463665",
+          "nickname": "REPRINT EMB - DISCOVERY RIDGE ELEM. 1/4 ZIPS- qty 1",
+          "company": "Discovery Ridge Elementary",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24463665",
+          "shelf": "shelf e3"
         }
       ]
     }
