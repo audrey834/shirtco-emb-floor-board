@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-18 15:00:59 CDT",
+  "generated_at_ct": "2026-09-18 15:11:22 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,9 +16,9 @@
   "counts": {
     "ready_to_sew": 12,
     "needs_barcode": 24,
-    "sewout": 3,
+    "sewout": 4,
     "on_machine": 3,
-    "total": 42
+    "total": 43
   },
   "columns": {
     "ready_to_sew": {
@@ -637,6 +637,25 @@
           "blocker": "needed"
         },
         {
+          "visual_id": "76156",
+          "invoice_id": "24465130",
+          "nickname": "EMB - PO091426PCC - Precision Air - 2PC",
+          "company": "Gibson Printing",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24465130",
+          "shelf": "shelf e2",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
           "visual_id": "75251",
           "invoice_id": "24248581",
           "nickname": "EMB - Sitelines CPG - 5 PCS",
@@ -743,10 +762,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 2,
+    "needed": 3,
     "sent": 1,
     "approved": 0,
     "status_based": 1,
-    "override": 2
+    "override": 3
   }
 }
