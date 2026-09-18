@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-18 09:40:16 CDT",
+  "generated_at_ct": "2026-09-18 10:05:09 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -18,10 +18,10 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 17,
+    "ready_to_sew": 16,
     "needs_barcode": 9,
     "sewout": 7,
-    "on_machine": 7,
+    "on_machine": 8,
     "total": 40
   },
   "columns": {
@@ -92,23 +92,6 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24059505",
           "shelf": "shelf e1"
-        },
-        {
-          "visual_id": "74924",
-          "invoice_id": "24161893",
-          "nickname": "EMB -SHOW ME PEPSI CLUB- 4 pcs",
-          "company": "OZARK MOUNTAIN PEPSI COLA COLLECTORS CLUB",
-          "production_due": "2026-09-17",
-          "customer_due": "2026-09-18",
-          "rush": false,
-          "firm": false,
-          "qty": 4,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24161893",
-          "shelf": "shelf e1",
-          "sewout_badge": "approved"
         },
         {
           "visual_id": "75994",
@@ -507,9 +490,9 @@
           "rush": false,
           "firm": false,
           "qty": 9,
-          "status_id": "466183",
-          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
-          "short_status": "DST+barcode \u00b7 no goods",
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24351402",
           "shelf": null,
           "sewout_badge": "needed",
@@ -623,9 +606,9 @@
           "rush": false,
           "firm": false,
           "qty": 50,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24302926",
           "shelf": "shelf 92"
         },
@@ -661,6 +644,23 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24382271",
           "shelf": "shelf 13"
+        },
+        {
+          "visual_id": "74924",
+          "invoice_id": "24161893",
+          "nickname": "EMB -SHOW ME PEPSI CLUB- 4 pcs",
+          "company": "OZARK MOUNTAIN PEPSI COLA COLLECTORS CLUB",
+          "production_due": "2026-09-17",
+          "customer_due": "2026-09-18",
+          "rush": false,
+          "firm": false,
+          "qty": 4,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24161893",
+          "shelf": "shelf e1",
+          "sewout_badge": "approved"
         },
         {
           "visual_id": "75982",
