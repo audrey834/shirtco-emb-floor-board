@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-18 16:07:59 CDT",
+  "generated_at_ct": "2026-09-18 16:24:47 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -15,11 +15,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 11,
+    "ready_to_sew": 10,
     "needs_barcode": 24,
-    "sewout": 4,
-    "on_machine": 2,
-    "total": 41
+    "sewout": 5,
+    "on_machine": 3,
+    "total": 42
   },
   "columns": {
     "ready_to_sew": {
@@ -72,23 +72,6 @@
           "short_status": "Sewout sent",
           "url": "https://www.printavo.com/invoices/24427628",
           "shelf": "shelf end",
-          "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "76123",
-          "invoice_id": "24458703",
-          "nickname": "EMB - SHEAR GENIUS SWEATSHIRTS - QTY 7",
-          "company": "",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-21",
-          "rush": false,
-          "firm": false,
-          "qty": 7,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24458703",
-          "shelf": "shelf 92",
           "sewout_badge": "approved"
         },
         {
@@ -660,6 +643,25 @@
           "blocker": "needed"
         },
         {
+          "visual_id": "76149",
+          "invoice_id": "24464223",
+          "nickname": "EMB- BAX Alpine Roll Up Blanket - 40QTY ",
+          "company": "BAX ENGINEERING",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 40,
+          "status_id": "466183",
+          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
+          "short_status": "DST+barcode \u00b7 no goods",
+          "url": "https://www.printavo.com/invoices/24464223",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
           "visual_id": "75674",
           "invoice_id": "24351402",
           "nickname": "EMB- OLIVE ORTHODONTICS- 9 PCS",
@@ -700,6 +702,23 @@
           "shelf": "shelf 125"
         },
         {
+          "visual_id": "76123",
+          "invoice_id": "24458703",
+          "nickname": "EMB - SHEAR GENIUS SWEATSHIRTS - QTY 7",
+          "company": "",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-21",
+          "rush": false,
+          "firm": false,
+          "qty": 7,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24458703",
+          "shelf": "shelf 92",
+          "sewout_badge": "approved"
+        },
+        {
           "visual_id": "75859",
           "invoice_id": "24399533",
           "nickname": "EMB MATT BROWN COACH TRUCKER CAPS ",
@@ -729,10 +748,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 3,
+    "needed": 4,
     "sent": 1,
     "approved": 0,
     "status_based": 1,
-    "override": 3
+    "override": 4
   }
 }
