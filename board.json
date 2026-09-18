@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-18 13:47:13 CDT",
+  "generated_at_ct": "2026-09-18 13:59:59 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -17,8 +17,8 @@
     "ready_to_sew": 14,
     "needs_barcode": 24,
     "sewout": 3,
-    "on_machine": 6,
-    "total": 47
+    "on_machine": 4,
+    "total": 45
   },
   "columns": {
     "ready_to_sew": {
@@ -731,22 +731,6 @@
           "sewout_reason": "approval needed"
         },
         {
-          "visual_id": "75798",
-          "invoice_id": "24382271",
-          "nickname": "DTF/EMB SHIP SOME TO PA",
-          "company": "SPARTAN X",
-          "production_due": "2026-09-16",
-          "customer_due": "2026-09-17",
-          "rush": false,
-          "firm": false,
-          "qty": 24,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24382271",
-          "shelf": "shelf 13"
-        },
-        {
           "visual_id": "74924",
           "invoice_id": "24161893",
           "nickname": "EMB -SHOW ME PEPSI CLUB- 4 pcs",
@@ -761,23 +745,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24161893",
           "shelf": "shelf e1",
-          "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "76011",
-          "invoice_id": "24429170",
-          "nickname": "EMB  SKY WARS HATS- 400 PCS",
-          "company": "MOPYRO",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-21",
-          "rush": false,
-          "firm": false,
-          "qty": 400,
-          "status_id": "266476",
-          "status_name": "EMB - TRIMMING",
-          "short_status": "Trimming",
-          "url": "https://www.printavo.com/invoices/24429170",
-          "shelf": "shelf end",
           "sewout_badge": "approved"
         },
         {
