@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-18 13:33:13 CDT",
+  "generated_at_ct": "2026-09-18 13:47:13 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -14,10 +14,10 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 15,
+    "ready_to_sew": 14,
     "needs_barcode": 24,
-    "sewout": 4,
-    "on_machine": 4,
+    "sewout": 3,
+    "on_machine": 6,
     "total": 47
   },
   "columns": {
@@ -88,22 +88,6 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24450990",
           "shelf": "shelf 125"
-        },
-        {
-          "visual_id": "76065",
-          "invoice_id": "24444830",
-          "nickname": "EMB - Chef Coat and Polos (CPG) - Qty 3",
-          "company": "Top Golf Chesterfield",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-21",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24444830",
-          "shelf": null
         },
         {
           "visual_id": "76123",
@@ -667,25 +651,6 @@
       "title": "Sewout",
       "cards": [
         {
-          "visual_id": "73981",
-          "invoice_id": "23928372",
-          "nickname": "EMB - FZW SOFTBALL HATS - 20 PIECES",
-          "company": "FORT ZUMWALT WEST SOFTBALL",
-          "production_due": "2026-08-12",
-          "customer_due": "2026-08-14",
-          "rush": false,
-          "firm": false,
-          "qty": 20,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/23928372",
-          "shelf": null,
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed",
-          "blocker": "needed"
-        },
-        {
           "visual_id": "74320",
           "invoice_id": "24030442",
           "nickname": "ART EMB - AFT-NH POLOS - QTY TBD",
@@ -748,6 +713,24 @@
       "title": "On machine",
       "cards": [
         {
+          "visual_id": "73981",
+          "invoice_id": "23928372",
+          "nickname": "EMB - FZW SOFTBALL HATS - 20 PIECES",
+          "company": "FORT ZUMWALT WEST SOFTBALL",
+          "production_due": "2026-08-12",
+          "customer_due": "2026-08-14",
+          "rush": false,
+          "firm": false,
+          "qty": 20,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/23928372",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed"
+        },
+        {
           "visual_id": "75798",
           "invoice_id": "24382271",
           "nickname": "DTF/EMB SHIP SOME TO PA",
@@ -798,6 +781,22 @@
           "sewout_badge": "approved"
         },
         {
+          "visual_id": "76065",
+          "invoice_id": "24444830",
+          "nickname": "EMB - Chef Coat and Polos (CPG) - Qty 3",
+          "company": "Top Golf Chesterfield",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-21",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24444830",
+          "shelf": null
+        },
+        {
           "visual_id": "75859",
           "invoice_id": "24399533",
           "nickname": "EMB MATT BROWN COACH TRUCKER CAPS ",
@@ -827,10 +826,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 3,
+    "needed": 2,
     "sent": 1,
     "approved": 0,
     "status_based": 1,
-    "override": 3
+    "override": 2
   }
 }
