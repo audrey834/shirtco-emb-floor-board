@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-18 08:10:23 CDT",
+  "generated_at_ct": "2026-09-18 08:39:19 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -21,8 +21,8 @@
     "ready_to_sew": 20,
     "needs_barcode": 9,
     "sewout": 7,
-    "on_machine": 7,
-    "total": 43
+    "on_machine": 5,
+    "total": 41
   },
   "columns": {
     "ready_to_sew": {
@@ -662,22 +662,6 @@
           "shelf": "shelf e3"
         },
         {
-          "visual_id": "75876",
-          "invoice_id": "24402004",
-          "nickname": "EMB - FHHS Marching Band Viking Head - 28 PCS",
-          "company": "FRANCIS HOWELL MARCHING BAND ",
-          "production_due": "2026-09-15",
-          "customer_due": "2026-09-16",
-          "rush": false,
-          "firm": false,
-          "qty": 28,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24402004",
-          "shelf": "shelf 95"
-        },
-        {
           "visual_id": "75497",
           "invoice_id": "24302926",
           "nickname": "EMB - Illusions Hats & Visors - 50 PCS",
@@ -708,22 +692,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24382271",
           "shelf": "shelf 13"
-        },
-        {
-          "visual_id": "75868",
-          "invoice_id": "24401521",
-          "nickname": "EMB bigjexpress hat - 8pc ",
-          "company": "Big J Express",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-18",
-          "rush": false,
-          "firm": false,
-          "qty": 8,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24401521",
-          "shelf": "shelf 92"
         },
         {
           "visual_id": "76011",
