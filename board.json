@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-21 12:58:58 CDT",
+  "generated_at_ct": "2026-09-21 13:19:50 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,11 +16,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 10,
-    "needs_barcode": 30,
+    "ready_to_sew": 11,
+    "needs_barcode": 29,
     "sewout": 5,
-    "on_machine": 5,
-    "total": 50
+    "on_machine": 4,
+    "total": 49
   },
   "columns": {
     "ready_to_sew": {
@@ -57,6 +57,22 @@
           "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24454591",
+          "shelf": "shelf e2"
+        },
+        {
+          "visual_id": "76104",
+          "invoice_id": "24454597",
+          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - Shift Supervisors - 60944 -  (12 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24454597",
           "shelf": "shelf e2"
         },
         {
@@ -288,22 +304,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24454566",
           "shelf": "SHELF 95"
-        },
-        {
-          "visual_id": "76104",
-          "invoice_id": "24454597",
-          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - Shift Supervisors - 60944 -  (12 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24454597",
-          "shelf": "shelf e2"
         },
         {
           "visual_id": "76313",
@@ -782,22 +782,6 @@
     "on_machine": {
       "title": "On machine",
       "cards": [
-        {
-          "visual_id": "76287",
-          "invoice_id": "24503008",
-          "nickname": "RUSH-EMB-EXECUTIVE DINING -12 pcs",
-          "company": "Executive Dining",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-22",
-          "rush": true,
-          "firm": false,
-          "qty": 12,
-          "status_id": "272351",
-          "status_name": "EMB - STAGED - RUSH",
-          "short_status": "Staged \u00b7 RUSH",
-          "url": "https://www.printavo.com/invoices/24503008",
-          "shelf": "shelf 84"
-        },
         {
           "visual_id": "76081",
           "invoice_id": "24450990",
