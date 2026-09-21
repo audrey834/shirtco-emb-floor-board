@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-09-21 08:08:18 CDT",
+  "generated_at_ct": "2026-09-21 08:54:41 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 75887, 76000, 76123",
+    "Printavo Sewout AR approved: 75887, 76000",
     "76341: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76222: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76131: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -16,11 +16,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 10,
+    "ready_to_sew": 9,
     "needs_barcode": 24,
     "sewout": 5,
-    "on_machine": 3,
-    "total": 42
+    "on_machine": 2,
+    "total": 40
   },
   "columns": {
     "ready_to_sew": {
@@ -41,22 +41,6 @@
           "short_status": "Goods here \u00b7 RUSH",
           "url": "https://www.printavo.com/invoices/24503008",
           "shelf": "shelf 84"
-        },
-        {
-          "visual_id": "76153",
-          "invoice_id": "24464692",
-          "nickname": "SEWOUT TICKET ",
-          "company": "",
-          "production_due": "2026-09-14",
-          "customer_due": "2026-09-14",
-          "rush": false,
-          "firm": false,
-          "qty": 0,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24464692",
-          "shelf": null
         },
         {
           "visual_id": "76000",
@@ -701,23 +685,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24450990",
           "shelf": "shelf 125"
-        },
-        {
-          "visual_id": "76123",
-          "invoice_id": "24458703",
-          "nickname": "EMB - SHEAR GENIUS SWEATSHIRTS - QTY 7",
-          "company": "",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-21",
-          "rush": false,
-          "firm": false,
-          "qty": 7,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24458703",
-          "shelf": "shelf 92",
-          "sewout_badge": "approved"
         },
         {
           "visual_id": "75859",
