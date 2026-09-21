@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-21 14:30:56 CDT",
+  "generated_at_ct": "2026-09-21 14:46:21 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -20,9 +20,9 @@
   "counts": {
     "ready_to_sew": 17,
     "needs_barcode": 25,
-    "sewout": 5,
+    "sewout": 4,
     "on_machine": 4,
-    "total": 51
+    "total": 50
   },
   "columns": {
     "ready_to_sew": {
@@ -717,25 +717,6 @@
       "title": "Sewout",
       "cards": [
         {
-          "visual_id": "74320",
-          "invoice_id": "24030442",
-          "nickname": "ART EMB - AFT-NH POLOS - QTY TBD",
-          "company": "AFT-NH",
-          "production_due": "2026-08-26",
-          "customer_due": "2026-09-11",
-          "rush": false,
-          "firm": false,
-          "qty": 40,
-          "status_id": "466183",
-          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
-          "short_status": "DST+barcode \u00b7 no goods",
-          "url": "https://www.printavo.com/invoices/24030442",
-          "shelf": null,
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed",
-          "blocker": "needed"
-        },
-        {
           "visual_id": "76156",
           "invoice_id": "24465130",
           "nickname": "EMB - PO091426PCC - Precision Air - 2PC",
@@ -894,10 +875,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 4,
+    "needed": 3,
     "sent": 1,
     "approved": 0,
     "status_based": 1,
-    "override": 4
+    "override": 3
   }
 }
