@@ -1,10 +1,11 @@
 {
-  "generated_at_ct": "2026-09-21 15:02:26 CDT",
+  "generated_at_ct": "2026-09-21 15:17:34 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
     "Printavo Sewout AR approved: 75887, 76000, 76214",
+    "76319: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76131: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76102: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76101: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -19,8 +20,8 @@
   "counts": {
     "ready_to_sew": 18,
     "needs_barcode": 25,
-    "sewout": 4,
-    "on_machine": 4,
+    "sewout": 2,
+    "on_machine": 6,
     "total": 51
   },
   "columns": {
@@ -732,44 +733,6 @@
       "title": "Sewout",
       "cards": [
         {
-          "visual_id": "76156",
-          "invoice_id": "24465130",
-          "nickname": "EMB - PO091426PCC - Precision Air - 2PC",
-          "company": "Gibson Printing",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24465130",
-          "shelf": "shelf e2",
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed",
-          "blocker": "needed"
-        },
-        {
-          "visual_id": "75251",
-          "invoice_id": "24248581",
-          "nickname": "EMB - Sitelines CPG - 5 PCS",
-          "company": "SITELINES",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-23",
-          "rush": false,
-          "firm": false,
-          "qty": 5,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24248581",
-          "shelf": null,
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed",
-          "blocker": "needed"
-        },
-        {
           "visual_id": "76149",
           "invoice_id": "24464223",
           "nickname": "EMB- BAX Alpine Roll Up Blanket - 40QTY ",
@@ -845,6 +808,24 @@
           "shelf": "shelf 85"
         },
         {
+          "visual_id": "76156",
+          "invoice_id": "24465130",
+          "nickname": "EMB - PO091426PCC - Precision Air - 2PC",
+          "company": "Gibson Printing",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24465130",
+          "shelf": "shelf e2",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed"
+        },
+        {
           "visual_id": "76416",
           "invoice_id": "24526260",
           "nickname": "RESTITCH-EMB - FHHS Marching Band Viking Head - 5 PCS",
@@ -875,6 +856,24 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24532145",
           "shelf": "shelf 85"
+        },
+        {
+          "visual_id": "75251",
+          "invoice_id": "24248581",
+          "nickname": "EMB - Sitelines CPG - 5 PCS",
+          "company": "SITELINES",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-23",
+          "rush": false,
+          "firm": false,
+          "qty": 5,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24248581",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed"
         }
       ]
     }
@@ -890,10 +889,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 3,
+    "needed": 1,
     "sent": 1,
     "approved": 0,
     "status_based": 1,
-    "override": 3
+    "override": 1
   }
 }
