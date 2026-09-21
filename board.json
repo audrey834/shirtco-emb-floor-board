@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-21 16:19:14 CDT",
+  "generated_at_ct": "2026-09-21 16:34:41 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -18,11 +18,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 19,
+    "ready_to_sew": 20,
     "needs_barcode": 23,
     "sewout": 2,
     "on_machine": 6,
-    "total": 50
+    "total": 51
   },
   "columns": {
     "ready_to_sew": {
@@ -301,6 +301,22 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24498883",
           "shelf": "SHELF 89"
+        },
+        {
+          "visual_id": "76272",
+          "invoice_id": "24501074",
+          "nickname": "EMB - Brain Recovery Centers-SCRUBS -2 PCS",
+          "company": "OWNERS FIRM ",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24501074",
+          "shelf": null
         },
         {
           "visual_id": "76293",
