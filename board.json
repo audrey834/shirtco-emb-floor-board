@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-21 13:38:51 CDT",
+  "generated_at_ct": "2026-09-21 13:57:52 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -17,11 +17,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 13,
-    "needs_barcode": 27,
+    "ready_to_sew": 16,
+    "needs_barcode": 25,
     "sewout": 5,
     "on_machine": 4,
-    "total": 49
+    "total": 50
   },
   "columns": {
     "ready_to_sew": {
@@ -43,6 +43,38 @@
           "url": "https://www.printavo.com/invoices/24427628",
           "shelf": "shelf end",
           "sewout_badge": "approved"
+        },
+        {
+          "visual_id": "76094",
+          "invoice_id": "24454556",
+          "nickname": "566144 Central County Emergency 911 EMB - LC ONLY - COAT - 61434 -  (2 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24454556",
+          "shelf": null
+        },
+        {
+          "visual_id": "76095",
+          "invoice_id": "24454557",
+          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - NAVY - NON UNION - ASST SUPERVISORS- 61410 -  (3 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 5,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24454557",
+          "shelf": "shelf 91"
         },
         {
           "visual_id": "76097",
@@ -75,6 +107,22 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24454562",
           "shelf": null
+        },
+        {
+          "visual_id": "76099",
+          "invoice_id": "24454563",
+          "nickname": "566144 Central County Emergency 911 EMB - LC/RC/RS - WHITE - UNION  - DISPTACHER - 60620 -  (7 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 21,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24454563",
+          "shelf": "shelf 85"
         },
         {
           "visual_id": "76103",
@@ -242,54 +290,6 @@
     "needs_barcode": {
       "title": "Needs barcode",
       "cards": [
-        {
-          "visual_id": "76094",
-          "invoice_id": "24454556",
-          "nickname": "566144 Central County Emergency 911 EMB - LC ONLY - COAT - 61434 -  (2 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24454556",
-          "shelf": null
-        },
-        {
-          "visual_id": "76095",
-          "invoice_id": "24454557",
-          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - NAVY - NON UNION - ASST SUPERVISORS- 61410 -  (3 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 5,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24454557",
-          "shelf": "shelf 91"
-        },
-        {
-          "visual_id": "76099",
-          "invoice_id": "24454563",
-          "nickname": "566144 Central County Emergency 911 EMB - LC/RC/RS - WHITE - UNION  - DISPTACHER - 60620 -  (7 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 21,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24454563",
-          "shelf": "shelf 85"
-        },
         {
           "visual_id": "76100",
           "invoice_id": "24454566",
@@ -627,6 +627,22 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24517247",
           "shelf": "shelf 95"
+        },
+        {
+          "visual_id": "76384",
+          "invoice_id": "24517262",
+          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - PANTS - WHITE WO -  (17 of 18)",
+          "company": "West Overland Fire Department",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24517262",
+          "shelf": "shelf e3"
         },
         {
           "visual_id": "76399",
