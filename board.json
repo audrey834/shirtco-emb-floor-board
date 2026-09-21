@@ -1,10 +1,11 @@
 {
-  "generated_at_ct": "2026-09-21 07:19:14 CDT",
+  "generated_at_ct": "2026-09-21 07:46:54 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
     "Printavo Sewout AR approved: 75887, 76000, 76123",
+    "76341: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76222: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76131: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "75887: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
