@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-22 16:55:59 CDT",
+  "generated_at_ct": "2026-09-22 17:07:48 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,11 +16,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 11,
-    "needs_barcode": 27,
-    "sewout": 5,
+    "ready_to_sew": 12,
+    "needs_barcode": 25,
+    "sewout": 7,
     "on_machine": 18,
-    "total": 61
+    "total": 62
   },
   "columns": {
     "ready_to_sew": {
@@ -121,6 +121,22 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24490995",
           "shelf": "shelf e1"
+        },
+        {
+          "visual_id": "76255",
+          "invoice_id": "24496324",
+          "nickname": "EMB-A&M HATS 18 PCS ",
+          "company": "A&M Tree Service",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-24",
+          "rush": false,
+          "firm": false,
+          "qty": 18,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24496324",
+          "shelf": "shelf 88"
         },
         {
           "visual_id": "76214",
@@ -225,23 +241,6 @@
           "shelf": "shelf e2"
         },
         {
-          "visual_id": "73226",
-          "invoice_id": "23728213",
-          "nickname": " EMB - McCluer High School HATS -100PC ",
-          "company": "McCluer High",
-          "production_due": "2026-09-23",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 100,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/23728213",
-          "shelf": "shelf under",
-          "sewout_reason": "approval needed"
-        },
-        {
           "visual_id": "75962",
           "invoice_id": "24419071",
           "nickname": "EMB - CCFR POLOS  - 14PC",
@@ -274,22 +273,6 @@
           "url": "https://www.printavo.com/invoices/24419078",
           "shelf": "shelf 93",
           "sewout_reason": "approval needed"
-        },
-        {
-          "visual_id": "76255",
-          "invoice_id": "24496324",
-          "nickname": "EMB-A&M HATS 18 PCS ",
-          "company": "A&M Tree Service",
-          "production_due": "2026-09-23",
-          "customer_due": "2026-09-24",
-          "rush": false,
-          "firm": false,
-          "qty": 18,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24496324",
-          "shelf": "shelf 88"
         },
         {
           "visual_id": "76355",
@@ -653,6 +636,25 @@
       "title": "Sewout",
       "cards": [
         {
+          "visual_id": "73226",
+          "invoice_id": "23728213",
+          "nickname": " EMB - McCluer High School HATS -100PC ",
+          "company": "McCluer High",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 100,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/23728213",
+          "shelf": "shelf under",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
           "visual_id": "76149",
           "invoice_id": "24464223",
           "nickname": "EMB- BAX Alpine Roll Up Blanket - 40QTY ",
@@ -688,6 +690,25 @@
           "shelf": "shelf 92",
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
+          "visual_id": "76507",
+          "invoice_id": "24549514",
+          "nickname": "EMB- PO#64246- UNION MADE-AFL-CIO- 150 PCS",
+          "company": "",
+          "production_due": "2026-09-25",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 150,
+          "status_id": "466183",
+          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
+          "short_status": "DST+barcode \u00b7 no goods",
+          "url": "https://www.printavo.com/invoices/24549514",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "new art + approval needed",
           "blocker": "needed"
         },
         {
@@ -1054,10 +1075,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 2,
+    "needed": 4,
     "sent": 3,
     "approved": 0,
     "status_based": 3,
-    "override": 2
+    "override": 4
   }
 }
