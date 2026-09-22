@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-22 16:07:52 CDT",
+  "generated_at_ct": "2026-09-22 16:30:41 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,11 +16,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 10,
-    "needs_barcode": 28,
+    "ready_to_sew": 11,
+    "needs_barcode": 27,
     "sewout": 5,
-    "on_machine": 21,
-    "total": 64
+    "on_machine": 19,
+    "total": 62
   },
   "columns": {
     "ready_to_sew": {
@@ -105,6 +105,22 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24489826",
           "shelf": "shelf e5"
+        },
+        {
+          "visual_id": "76224",
+          "invoice_id": "24490995",
+          "nickname": "B364641 Pride of Pattonville Marching Band Apparel 2026 - Batched 09/16/2026 EMB - HATS - 54874 - (1 of 3)",
+          "company": "Pride of Pattonville Marching Band",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-23",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24490995",
+          "shelf": "shelf e1"
         },
         {
           "visual_id": "76214",
@@ -258,22 +274,6 @@
           "url": "https://www.printavo.com/invoices/24419078",
           "shelf": "shelf 93",
           "sewout_reason": "approval needed"
-        },
-        {
-          "visual_id": "76224",
-          "invoice_id": "24490995",
-          "nickname": "B364641 Pride of Pattonville Marching Band Apparel 2026 - Batched 09/16/2026 EMB - HATS - 54874 - (1 of 3)",
-          "company": "Pride of Pattonville Marching Band",
-          "production_due": "2026-09-23",
-          "customer_due": "2026-09-23",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24490995",
-          "shelf": "shelf e1"
         },
         {
           "visual_id": "76255",
@@ -752,22 +752,6 @@
       "title": "On machine",
       "cards": [
         {
-          "visual_id": "74461",
-          "invoice_id": "24070335",
-          "nickname": "EMB- SKY WARS WINNERS 2025-24 pcs",
-          "company": "MOPYRO",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-22",
-          "rush": true,
-          "firm": false,
-          "qty": 24,
-          "status_id": "272351",
-          "status_name": "EMB - STAGED - RUSH",
-          "short_status": "Staged \u00b7 RUSH",
-          "url": "https://www.printavo.com/invoices/24070335",
-          "shelf": "shelf 94"
-        },
-        {
           "visual_id": "76095",
           "invoice_id": "24454557",
           "nickname": "566144 Central County Emergency 911 EMB - LC/RC - NAVY - NON UNION - ASST SUPERVISORS- 61410 -  (3 of 13)",
@@ -878,24 +862,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24454597",
           "shelf": "shelf e2"
-        },
-        {
-          "visual_id": "75674",
-          "invoice_id": "24351402",
-          "nickname": "EMB- OLIVE ORTHODONTICS- 9 PCS",
-          "company": "OLIVE OTHODONTICS",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 9,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24351402",
-          "shelf": null,
-          "sewout_badge": "needed",
-          "sewout_reason": "new art + approval needed"
         },
         {
           "visual_id": "75854",
