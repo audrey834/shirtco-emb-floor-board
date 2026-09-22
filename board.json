@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-22 09:20:58 CDT",
+  "generated_at_ct": "2026-09-22 09:59:46 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -17,16 +17,48 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 6,
+    "ready_to_sew": 8,
     "needs_barcode": 22,
     "sewout": 4,
-    "on_machine": 21,
+    "on_machine": 19,
     "total": 53
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
       "cards": [
+        {
+          "visual_id": "76317",
+          "invoice_id": "24508132",
+          "nickname": "567166 Berkeley Fire Department 2026 EMB - FRONT/BACK - HATS - NON UNION - 66212 -  (14 of 16)",
+          "company": "Berkeley Fire Department",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 5,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24508132",
+          "shelf": "shelf 93"
+        },
+        {
+          "visual_id": "76318",
+          "invoice_id": "24508135",
+          "nickname": "567166 Berkeley Fire Department 2026 EMB - FRONT/BACK - HATS - UNION - 66212 -  (15 of 16)",
+          "company": "Berkeley Fire Department",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 9,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24508135",
+          "shelf": "shelf 94"
+        },
         {
           "visual_id": "76319",
           "invoice_id": "24508136",
@@ -146,36 +178,21 @@
           "shelf": "shelf 85"
         },
         {
-          "visual_id": "76317",
-          "invoice_id": "24508132",
-          "nickname": "567166 Berkeley Fire Department 2026 EMB - FRONT/BACK - HATS - NON UNION - 66212 -  (14 of 16)",
-          "company": "Berkeley Fire Department",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-29",
+          "visual_id": "73226",
+          "invoice_id": "23728213",
+          "nickname": " EMB - McCluer High School HATS -100PC ",
+          "company": "McCluer High",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-25",
           "rush": false,
           "firm": false,
-          "qty": 5,
+          "qty": 100,
           "status_id": "462838",
           "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
           "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24508132",
-          "shelf": "shelf 93"
-        },
-        {
-          "visual_id": "76318",
-          "invoice_id": "24508135",
-          "nickname": "567166 Berkeley Fire Department 2026 EMB - FRONT/BACK - HATS - UNION - 66212 -  (15 of 16)",
-          "company": "Berkeley Fire Department",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 9,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24508135",
-          "shelf": "shelf 94"
+          "url": "https://www.printavo.com/invoices/23728213",
+          "shelf": "shelf under",
+          "sewout_reason": "approval needed"
         },
         {
           "visual_id": "76216",
@@ -483,6 +500,22 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24519376",
           "shelf": "shelf 93"
+        },
+        {
+          "visual_id": "76565",
+          "invoice_id": "24564673",
+          "nickname": "EMB - NUMBERS ON BACK OF HATS - QTY 4",
+          "company": "Scotty Apparel",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 4,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24564673",
+          "shelf": null
         }
       ]
     },
@@ -602,22 +635,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24450990",
           "shelf": "shelf 125"
-        },
-        {
-          "visual_id": "76341",
-          "invoice_id": "24512262",
-          "nickname": "EMB AUTO CENTERS BONNE TERRE RED SHIP TO BONNE TERRE ",
-          "company": "AUTO CENTERS BONNE TERRE",
-          "production_due": "2026-09-17",
-          "customer_due": "2026-09-17",
-          "rush": false,
-          "firm": false,
-          "qty": 22,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24512262",
-          "shelf": "shelf 88"
         },
         {
           "visual_id": "76094",
@@ -812,24 +829,6 @@
           "shelf": "shelf 95"
         },
         {
-          "visual_id": "75251",
-          "invoice_id": "24248581",
-          "nickname": "EMB - Sitelines CPG - 5 PCS",
-          "company": "SITELINES",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-23",
-          "rush": false,
-          "firm": false,
-          "qty": 5,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24248581",
-          "shelf": null,
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed"
-        },
-        {
           "visual_id": "76183",
           "invoice_id": "24475004",
           "nickname": "EMB - All Souls Student Shirts - 110pc",
@@ -887,9 +886,9 @@
           "rush": false,
           "firm": false,
           "qty": 4,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24508130",
           "shelf": null
         },
