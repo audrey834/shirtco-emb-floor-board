@@ -1,10 +1,11 @@
 {
-  "generated_at_ct": "2026-09-22 15:10:16 CDT",
+  "generated_at_ct": "2026-09-22 15:31:31 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 75658, 75887, 76000, 76214",
+    "Printavo Sewout AR approved: 75658, 75887, 76214",
+    "76576: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76131: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76102: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "75887: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -15,11 +16,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 9,
+    "ready_to_sew": 10,
     "needs_barcode": 29,
     "sewout": 4,
-    "on_machine": 24,
-    "total": 66
+    "on_machine": 22,
+    "total": 65
   },
   "columns": {
     "ready_to_sew": {
@@ -72,6 +73,22 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24419093",
           "shelf": "shelf 92"
+        },
+        {
+          "visual_id": "76209",
+          "invoice_id": "24486102",
+          "nickname": "EMB",
+          "company": "UPSHOT COFFEE CONOR VANBUSKIRK",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-24",
+          "rush": false,
+          "firm": false,
+          "qty": 362,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24486102",
+          "shelf": "SHELF 96"
         },
         {
           "visual_id": "76216",
@@ -208,6 +225,23 @@
           "shelf": "shelf e2"
         },
         {
+          "visual_id": "73226",
+          "invoice_id": "23728213",
+          "nickname": " EMB - McCluer High School HATS -100PC ",
+          "company": "McCluer High",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 100,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/23728213",
+          "shelf": "shelf under",
+          "sewout_reason": "approval needed"
+        },
+        {
           "visual_id": "75962",
           "invoice_id": "24419071",
           "nickname": "EMB - CCFR POLOS  - 14PC",
@@ -272,23 +306,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24496324",
           "shelf": "shelf 88"
-        },
-        {
-          "visual_id": "73226",
-          "invoice_id": "23728213",
-          "nickname": " EMB - McCluer High School HATS -100PC ",
-          "company": "McCluer High",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 100,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/23728213",
-          "shelf": "shelf under",
-          "sewout_reason": "approval needed"
         },
         {
           "visual_id": "76355",
@@ -737,7 +754,7 @@
           "invoice_id": "24070335",
           "nickname": "EMB- SKY WARS WINNERS 2025-24 pcs",
           "company": "MOPYRO",
-          "production_due": "2026-09-22",
+          "production_due": "2026-09-21",
           "customer_due": "2026-09-22",
           "rush": true,
           "firm": false,
@@ -749,21 +766,36 @@
           "shelf": "shelf 94"
         },
         {
-          "visual_id": "76000",
-          "invoice_id": "24427628",
-          "nickname": "EMB - HBCSD Polos - 126 PCS",
-          "company": "SUNSET SCREEN PRINTING",
-          "production_due": "2026-09-17",
-          "customer_due": "2026-09-17",
+          "visual_id": "76094",
+          "invoice_id": "24454556",
+          "nickname": "566144 Central County Emergency 911 EMB - LC ONLY - COAT - 61434 -  (2 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-25",
           "rush": false,
           "firm": false,
-          "qty": 126,
+          "qty": 3,
           "status_id": "473774",
           "status_name": "EMB - SEWING",
           "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24427628",
-          "shelf": "shelf end",
-          "sewout_badge": "approved"
+          "url": "https://www.printavo.com/invoices/24454556",
+          "shelf": null
+        },
+        {
+          "visual_id": "76095",
+          "invoice_id": "24454557",
+          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - NAVY - NON UNION - ASST SUPERVISORS- 61410 -  (3 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 5,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24454557",
+          "shelf": "shelf 91"
         },
         {
           "visual_id": "76097",
@@ -862,38 +894,6 @@
           "shelf": "shelf e2"
         },
         {
-          "visual_id": "76094",
-          "invoice_id": "24454556",
-          "nickname": "566144 Central County Emergency 911 EMB - LC ONLY - COAT - 61434 -  (2 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-19",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24454556",
-          "shelf": null
-        },
-        {
-          "visual_id": "76095",
-          "invoice_id": "24454557",
-          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - NAVY - NON UNION - ASST SUPERVISORS- 61410 -  (3 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-19",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 5,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24454557",
-          "shelf": "shelf 91"
-        },
-        {
           "visual_id": "75674",
           "invoice_id": "24351402",
           "nickname": "EMB- OLIVE ORTHODONTICS- 9 PCS",
@@ -910,6 +910,38 @@
           "shelf": null,
           "sewout_badge": "needed",
           "sewout_reason": "new art + approval needed"
+        },
+        {
+          "visual_id": "75854",
+          "invoice_id": "24398716",
+          "nickname": "EMB  CJDR VINCENNES POLOS  SHIP TO VINCENNES ",
+          "company": "Lou Fusz Chrysler Vincennes",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": false,
+          "firm": false,
+          "qty": 10,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24398716",
+          "shelf": "shelf 92"
+        },
+        {
+          "visual_id": "75859",
+          "invoice_id": "24399533",
+          "nickname": "EMB MATT BROWN COACH TRUCKER CAPS ",
+          "company": "",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": false,
+          "firm": false,
+          "qty": 62,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24399533",
+          "shelf": "shelf 85"
         },
         {
           "visual_id": "76077",
@@ -942,38 +974,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24526260",
           "shelf": "shelf 95"
-        },
-        {
-          "visual_id": "75854",
-          "invoice_id": "24398716",
-          "nickname": "EMB  CJDR VINCENNES POLOS  SHIP TO VINCENNES ",
-          "company": "Lou Fusz Chrysler Vincennes",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 10,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24398716",
-          "shelf": "shelf 92"
-        },
-        {
-          "visual_id": "75859",
-          "invoice_id": "24399533",
-          "nickname": "EMB MATT BROWN COACH TRUCKER CAPS ",
-          "company": "",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 62,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24399533",
-          "shelf": "shelf 85"
         },
         {
           "visual_id": "76183",
@@ -1088,29 +1088,11 @@
           "shelf": null
         },
         {
-          "visual_id": "76032",
-          "invoice_id": "24436480",
-          "nickname": "EMB - VCA Athletic Hats - 48 PCS",
-          "company": "Christian (Veritas) High School",
-          "production_due": "2026-09-23",
-          "customer_due": "2026-09-24",
-          "rush": false,
-          "firm": false,
-          "qty": 48,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24436480",
-          "shelf": "shelf 90",
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed"
-        },
-        {
           "visual_id": "75658",
           "invoice_id": "24347962",
           "nickname": "EMB - PO60902192C - DARDEN EELL/MONEX - 35PC",
           "company": "Kaeser & Blair, INC",
-          "production_due": "2026-09-24",
+          "production_due": "2026-09-23",
           "customer_due": "2026-09-25",
           "rush": false,
           "firm": false,
