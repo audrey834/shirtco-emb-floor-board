@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-09-22 14:16:44 CDT",
+  "generated_at_ct": "2026-09-22 14:36:40 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 75658, 75671, 75887, 76000, 76214",
+    "Printavo Sewout AR approved: 75658, 75887, 76000, 76214",
     "76131: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76102: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "75887: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -15,11 +15,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 12,
+    "ready_to_sew": 10,
     "needs_barcode": 29,
     "sewout": 4,
-    "on_machine": 22,
-    "total": 67
+    "on_machine": 23,
+    "total": 66
   },
   "columns": {
     "ready_to_sew": {
@@ -40,40 +40,6 @@
           "short_status": "Goods here \u00b7 RUSH",
           "url": "https://www.printavo.com/invoices/24568391",
           "shelf": null
-        },
-        {
-          "visual_id": "75671",
-          "invoice_id": "24350199",
-          "nickname": "EMB - PO60903164C - UVA OPHTHALMOLOGY - 44PC",
-          "company": "Kaeser & Blair, INC",
-          "production_due": "2026-09-14",
-          "customer_due": "2026-09-15",
-          "rush": false,
-          "firm": false,
-          "qty": 44,
-          "status_id": "338846",
-          "status_name": "EMB - SEWOUT APPROVED",
-          "short_status": "Sewout approved",
-          "url": "https://www.printavo.com/invoices/24350199",
-          "shelf": "shelf under",
-          "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "75674",
-          "invoice_id": "24351402",
-          "nickname": "EMB- OLIVE ORTHODONTICS- 9 PCS",
-          "company": "OLIVE OTHODONTICS",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 9,
-          "status_id": "338846",
-          "status_name": "EMB - SEWOUT APPROVED",
-          "short_status": "Sewout approved",
-          "url": "https://www.printavo.com/invoices/24351402",
-          "shelf": null,
-          "sewout_badge": "approved"
         },
         {
           "visual_id": "76319",
@@ -943,6 +909,24 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24454597",
           "shelf": "shelf e2"
+        },
+        {
+          "visual_id": "75674",
+          "invoice_id": "24351402",
+          "nickname": "EMB- OLIVE ORTHODONTICS- 9 PCS",
+          "company": "OLIVE OTHODONTICS",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": false,
+          "firm": false,
+          "qty": 9,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24351402",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "new art + approval needed"
         },
         {
           "visual_id": "75854",
