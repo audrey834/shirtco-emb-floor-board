@@ -1,11 +1,10 @@
 {
-  "generated_at_ct": "2026-09-22 08:02:11 CDT",
+  "generated_at_ct": "2026-09-22 08:48:42 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
     "Printavo Sewout AR approved: 75887, 76000, 76214",
-    "76319: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76131: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76102: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76101: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -19,10 +18,10 @@
   ],
   "counts": {
     "ready_to_sew": 5,
-    "needs_barcode": 22,
-    "sewout": 2,
+    "needs_barcode": 23,
+    "sewout": 3,
     "on_machine": 22,
-    "total": 51
+    "total": 53
   },
   "columns": {
     "ready_to_sew": {
@@ -161,6 +160,22 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24508135",
           "shelf": "shelf 94"
+        },
+        {
+          "visual_id": "76319",
+          "invoice_id": "24508136",
+          "nickname": "567166 Berkeley Fire Department 2026 EMB - SHORTS - LLEG -  66214 -  (16 of 16)",
+          "company": "Berkeley Fire Department",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 36,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24508136",
+          "shelf": "shelf 91"
         },
         {
           "visual_id": "76216",
@@ -494,11 +509,30 @@
           "blocker": "needed"
         },
         {
+          "visual_id": "76116",
+          "invoice_id": "24457560",
+          "nickname": "EMB - KC BACKFLOW STL APPAREL (CPG) - QTY 3 ",
+          "company": "KC BACKFLOW",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24457560",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
           "visual_id": "75674",
           "invoice_id": "24351402",
           "nickname": "EMB- OLIVE ORTHODONTICS- 9 PCS",
           "company": "OLIVE OTHODONTICS",
-          "production_due": "2026-09-22",
+          "production_due": "2026-09-21",
           "customer_due": "2026-09-22",
           "rush": false,
           "firm": false,
@@ -518,6 +552,23 @@
       "title": "On machine",
       "cards": [
         {
+          "visual_id": "76000",
+          "invoice_id": "24427628",
+          "nickname": "EMB - HBCSD Polos - 126 PCS",
+          "company": "SUNSET SCREEN PRINTING",
+          "production_due": "2026-09-16",
+          "customer_due": "2026-09-17",
+          "rush": false,
+          "firm": false,
+          "qty": 126,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24427628",
+          "shelf": "shelf end",
+          "sewout_badge": "approved"
+        },
+        {
           "visual_id": "76081",
           "invoice_id": "24450990",
           "nickname": "611136 VIRTUAL WARFARE CENTER  EMB - LC/RS  - 71185 -  (1 of 1)",
@@ -532,23 +583,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24450990",
           "shelf": "shelf 125"
-        },
-        {
-          "visual_id": "76000",
-          "invoice_id": "24427628",
-          "nickname": "EMB - HBCSD Polos - 126 PCS",
-          "company": "SUNSET SCREEN PRINTING",
-          "production_due": "2026-09-17",
-          "customer_due": "2026-09-17",
-          "rush": false,
-          "firm": false,
-          "qty": 126,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24427628",
-          "shelf": "shelf end",
-          "sewout_badge": "approved"
         },
         {
           "visual_id": "76341",
@@ -695,6 +729,38 @@
           "shelf": "shelf e2"
         },
         {
+          "visual_id": "75854",
+          "invoice_id": "24398716",
+          "nickname": "EMB  CJDR VINCENNES POLOS  SHIP TO VINCENNES ",
+          "company": "Lou Fusz Chrysler Vincennes",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": false,
+          "firm": false,
+          "qty": 10,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24398716",
+          "shelf": "shelf 92"
+        },
+        {
+          "visual_id": "75859",
+          "invoice_id": "24399533",
+          "nickname": "EMB MATT BROWN COACH TRUCKER CAPS ",
+          "company": "",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": false,
+          "firm": false,
+          "qty": 62,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24399533",
+          "shelf": "shelf 85"
+        },
+        {
           "visual_id": "76077",
           "invoice_id": "24450726",
           "nickname": "B361768 HC Sharp - Batched 09/14/2026 EMB-LC/HAT-74447 -  (2 of 3)",
@@ -761,38 +827,6 @@
           "shelf": null,
           "sewout_badge": "needed",
           "sewout_reason": "approval needed"
-        },
-        {
-          "visual_id": "75854",
-          "invoice_id": "24398716",
-          "nickname": "EMB  CJDR VINCENNES POLOS  SHIP TO VINCENNES ",
-          "company": "Lou Fusz Chrysler Vincennes",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 10,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24398716",
-          "shelf": "shelf 92"
-        },
-        {
-          "visual_id": "75859",
-          "invoice_id": "24399533",
-          "nickname": "EMB MATT BROWN COACH TRUCKER CAPS ",
-          "company": "",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 62,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24399533",
-          "shelf": "shelf 85"
         },
         {
           "visual_id": "76183",
@@ -890,10 +924,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 1,
+    "needed": 2,
     "sent": 1,
     "approved": 0,
     "status_based": 1,
-    "override": 1
+    "override": 2
   }
 }
