@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-22 15:52:11 CDT",
+  "generated_at_ct": "2026-09-22 16:07:52 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,11 +16,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 11,
+    "ready_to_sew": 10,
     "needs_barcode": 28,
-    "sewout": 4,
-    "on_machine": 22,
-    "total": 65
+    "sewout": 5,
+    "on_machine": 21,
+    "total": 64
   },
   "columns": {
     "ready_to_sew": {
@@ -89,22 +89,6 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24419093",
           "shelf": "shelf 92"
-        },
-        {
-          "visual_id": "76209",
-          "invoice_id": "24486102",
-          "nickname": "EMB",
-          "company": "UPSHOT COFFEE CONOR VANBUSKIRK",
-          "production_due": "2026-09-23",
-          "customer_due": "2026-09-24",
-          "rush": false,
-          "firm": false,
-          "qty": 362,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24486102",
-          "shelf": "SHELF 96"
         },
         {
           "visual_id": "76216",
@@ -726,6 +710,24 @@
           "blocker": "sent"
         },
         {
+          "visual_id": "76209",
+          "invoice_id": "24486102",
+          "nickname": "EMB",
+          "company": "UPSHOT COFFEE CONOR VANBUSKIRK",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-24",
+          "rush": false,
+          "firm": false,
+          "qty": 362,
+          "status_id": "338845",
+          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
+          "short_status": "Sewout sent",
+          "url": "https://www.printavo.com/invoices/24486102",
+          "shelf": "SHELF 96",
+          "sewout_badge": "sent",
+          "blocker": "sent"
+        },
+        {
           "visual_id": "76116",
           "invoice_id": "24457560",
           "nickname": "EMB - KC BACKFLOW STL APPAREL (CPG) - QTY 3 ",
@@ -764,22 +766,6 @@
           "short_status": "Staged \u00b7 RUSH",
           "url": "https://www.printavo.com/invoices/24070335",
           "shelf": "shelf 94"
-        },
-        {
-          "visual_id": "76094",
-          "invoice_id": "24454556",
-          "nickname": "566144 Central County Emergency 911 EMB - LC ONLY - COAT - 61434 -  (2 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24454556",
-          "shelf": null
         },
         {
           "visual_id": "76095",
@@ -1001,9 +987,9 @@
           "rush": false,
           "firm": false,
           "qty": 14,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24476578",
           "shelf": "shelf 91"
         },
@@ -1119,9 +1105,9 @@
   "sewout_breakdown": {
     "declined": 0,
     "needed": 2,
-    "sent": 2,
+    "sent": 3,
     "approved": 0,
-    "status_based": 2,
+    "status_based": 3,
     "override": 2
   }
 }
