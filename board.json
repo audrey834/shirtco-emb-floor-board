@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-23 14:32:45 CDT",
+  "generated_at_ct": "2026-09-23 14:55:13 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -15,11 +15,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 9,
-    "needs_barcode": 29,
+    "ready_to_sew": 10,
+    "needs_barcode": 28,
     "sewout": 5,
-    "on_machine": 24,
-    "total": 67
+    "on_machine": 23,
+    "total": 66
   },
   "columns": {
     "ready_to_sew": {
@@ -40,23 +40,6 @@
           "short_status": "Goods here \u00b7 RUSH",
           "url": "https://www.printavo.com/invoices/24568391",
           "shelf": null
-        },
-        {
-          "visual_id": "76116",
-          "invoice_id": "24457560",
-          "nickname": "EMB - KC BACKFLOW STL APPAREL (CPG) - QTY 3 ",
-          "company": "KC BACKFLOW",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "338846",
-          "status_name": "EMB - SEWOUT APPROVED",
-          "short_status": "Sewout approved",
-          "url": "https://www.printavo.com/invoices/24457560",
-          "shelf": null,
-          "sewout_badge": "approved"
         },
         {
           "visual_id": "76214",
@@ -124,6 +107,39 @@
           "shelf": null
         },
         {
+          "visual_id": "76355",
+          "invoice_id": "24516526",
+          "nickname": "B365811 St. Charles West High School 2026 - Batched 09/17/2026 EMB - LC/HATS - D1 - 60150 - (2 of 8)",
+          "company": "St. Charles West Boost Club",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-10-01",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24516526",
+          "shelf": "shelf e3"
+        },
+        {
+          "visual_id": "76116",
+          "invoice_id": "24457560",
+          "nickname": "EMB - KC BACKFLOW STL APPAREL (CPG) - QTY 3 ",
+          "company": "KC BACKFLOW",
+          "production_due": "2026-09-25",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "338846",
+          "status_name": "EMB - SEWOUT APPROVED",
+          "short_status": "Sewout approved",
+          "url": "https://www.printavo.com/invoices/24457560",
+          "shelf": null,
+          "sewout_badge": "approved"
+        },
+        {
           "visual_id": "76391",
           "invoice_id": "24518642",
           "nickname": "EMB - PURE HOME ELECTRIC  -THREE OF THREE- 2 PCS",
@@ -177,22 +193,6 @@
     "needs_barcode": {
       "title": "Needs barcode",
       "cards": [
-        {
-          "visual_id": "76355",
-          "invoice_id": "24516526",
-          "nickname": "B365811 St. Charles West High School 2026 - Batched 09/17/2026 EMB - LC/HATS - D1 - 60150 - (2 of 8)",
-          "company": "St. Charles West Boost Club",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-10-01",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24516526",
-          "shelf": "shelf e3"
-        },
         {
           "visual_id": "76356",
           "invoice_id": "24516530",
@@ -749,22 +749,6 @@
       "title": "On machine",
       "cards": [
         {
-          "visual_id": "76095",
-          "invoice_id": "24454557",
-          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - NAVY - NON UNION - ASST SUPERVISORS- 61410 -  (3 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 5,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24454557",
-          "shelf": "shelf 91"
-        },
-        {
           "visual_id": "76096",
           "invoice_id": "24454558",
           "nickname": "566144 Central County Emergency 911 EMB - LC/RC - NAVY - NON UNION - MANAGEMENT - 61410 -  (4 of 13)",
@@ -813,54 +797,6 @@
           "shelf": null
         },
         {
-          "visual_id": "76099",
-          "invoice_id": "24454563",
-          "nickname": "566144 Central County Emergency 911 EMB - LC/RC/RS - WHITE - UNION  - DISPTACHER - 60620 -  (7 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 21,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24454563",
-          "shelf": "shelf 85"
-        },
-        {
-          "visual_id": "76100",
-          "invoice_id": "24454566",
-          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - ADMIN - 60944 -  (8 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 8,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24454566",
-          "shelf": "SHELF 95"
-        },
-        {
-          "visual_id": "76101",
-          "invoice_id": "24454571",
-          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - ASST SUPERVISOR - 60944 -  (9 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 6,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24454571",
-          "shelf": "shelf e2"
-        },
-        {
           "visual_id": "76103",
           "invoice_id": "24454591",
           "nickname": "566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - MANAGEMENT - 60944 -  (11 of 13)",
@@ -893,20 +829,68 @@
           "shelf": "shelf e2"
         },
         {
-          "visual_id": "76416",
-          "invoice_id": "24526260",
-          "nickname": "RESTITCH-EMB - FHHS Marching Band Viking Head - 5 PCS",
-          "company": "FRANCIS HOWELL MARCHING BAND ",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-22",
+          "visual_id": "76095",
+          "invoice_id": "24454557",
+          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - NAVY - NON UNION - ASST SUPERVISORS- 61410 -  (3 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-19",
+          "customer_due": "2026-09-25",
           "rush": false,
           "firm": false,
           "qty": 5,
           "status_id": "473774",
           "status_name": "EMB - SEWING",
           "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24526260",
-          "shelf": "shelf 95"
+          "url": "https://www.printavo.com/invoices/24454557",
+          "shelf": "shelf 91"
+        },
+        {
+          "visual_id": "76099",
+          "invoice_id": "24454563",
+          "nickname": "566144 Central County Emergency 911 EMB - LC/RC/RS - WHITE - UNION  - DISPTACHER - 60620 -  (7 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-19",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 21,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24454563",
+          "shelf": "shelf 85"
+        },
+        {
+          "visual_id": "76100",
+          "invoice_id": "24454566",
+          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - ADMIN - 60944 -  (8 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-19",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 8,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24454566",
+          "shelf": "SHELF 95"
+        },
+        {
+          "visual_id": "76101",
+          "invoice_id": "24454571",
+          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - ASST SUPERVISOR - 60944 -  (9 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-19",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24454571",
+          "shelf": "shelf e2"
         },
         {
           "visual_id": "76184",
@@ -987,24 +971,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24566535",
           "shelf": null
-        },
-        {
-          "visual_id": "73226",
-          "invoice_id": "23728213",
-          "nickname": " EMB - McCluer High School HATS -100PC ",
-          "company": "McCluer High",
-          "production_due": "2026-09-23",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 100,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/23728213",
-          "shelf": "shelf under",
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed"
         },
         {
           "visual_id": "75962",
@@ -1126,6 +1092,24 @@
           "url": "https://www.printavo.com/invoices/24509441",
           "shelf": "shelf end",
           "sewout_badge": "approved"
+        },
+        {
+          "visual_id": "73226",
+          "invoice_id": "23728213",
+          "nickname": " EMB - McCluer High School HATS -100PC ",
+          "company": "McCluer High",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 100,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/23728213",
+          "shelf": "shelf under",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed"
         },
         {
           "visual_id": "75990",
