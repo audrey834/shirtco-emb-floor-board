@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-23 13:51:57 CDT",
+  "generated_at_ct": "2026-09-23 14:12:30 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -18,8 +18,8 @@
     "ready_to_sew": 8,
     "needs_barcode": 30,
     "sewout": 5,
-    "on_machine": 25,
-    "total": 68
+    "on_machine": 24,
+    "total": 67
   },
   "columns": {
     "ready_to_sew": {
@@ -939,22 +939,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24508125",
           "shelf": "shelf 94"
-        },
-        {
-          "visual_id": "76315",
-          "invoice_id": "24508128",
-          "nickname": "567166 Berkeley Fire Department 2026 EMB - FRONT/BACK - 36 -67648 - (12 of 16)",
-          "company": "Berkeley Fire Department",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 8,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24508128",
-          "shelf": "shelf 85"
         },
         {
           "visual_id": "76318",
