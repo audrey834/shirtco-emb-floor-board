@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-23 14:12:30 CDT",
+  "generated_at_ct": "2026-09-23 14:32:45 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -15,8 +15,8 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 8,
-    "needs_barcode": 30,
+    "ready_to_sew": 9,
+    "needs_barcode": 29,
     "sewout": 5,
     "on_machine": 24,
     "total": 67
@@ -155,6 +155,22 @@
           "url": "https://www.printavo.com/invoices/24549514",
           "shelf": null,
           "sewout_badge": "approved"
+        },
+        {
+          "visual_id": "76546",
+          "invoice_id": "24558628",
+          "nickname": "EMB HATS  FOREST GREEN - QTY 700 EA",
+          "company": "Common Cause",
+          "production_due": "2026-09-25",
+          "customer_due": "2026-10-09",
+          "rush": false,
+          "firm": false,
+          "qty": 700,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24558628",
+          "shelf": "shelf end"
         }
       ]
     },
@@ -433,22 +449,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24547854",
           "shelf": "shelf e2"
-        },
-        {
-          "visual_id": "76546",
-          "invoice_id": "24558628",
-          "nickname": "EMB HATS  FOREST GREEN - QTY 700 EA",
-          "company": "Common Cause",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-10-09",
-          "rush": false,
-          "firm": false,
-          "qty": 700,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24558628",
-          "shelf": "shelf end"
         },
         {
           "visual_id": "76423",
