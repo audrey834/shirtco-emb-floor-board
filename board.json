@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-09-23 08:49:13 CDT",
+  "generated_at_ct": "2026-09-23 09:27:51 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 75658, 75887, 76116, 76214",
+    "Printavo Sewout AR approved: 75658, 75887, 76116, 76214, 76507",
     "76576: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76131: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76102: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -16,11 +16,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 11,
-    "needs_barcode": 22,
-    "sewout": 9,
+    "ready_to_sew": 12,
+    "needs_barcode": 23,
+    "sewout": 8,
     "on_machine": 20,
-    "total": 62
+    "total": 63
   },
   "columns": {
     "ready_to_sew": {
@@ -203,6 +203,23 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24518642",
           "shelf": null
+        },
+        {
+          "visual_id": "76507",
+          "invoice_id": "24549514",
+          "nickname": "EMB- PO#64246- UNION MADE-AFL-CIO- 150 PCS",
+          "company": "",
+          "production_due": "2026-09-25",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 150,
+          "status_id": "338846",
+          "status_name": "EMB - SEWOUT APPROVED",
+          "short_status": "Sewout approved",
+          "url": "https://www.printavo.com/invoices/24549514",
+          "shelf": null,
+          "sewout_badge": "approved"
         }
       ]
     },
@@ -549,6 +566,22 @@
           "shelf": null
         },
         {
+          "visual_id": "76578",
+          "invoice_id": "24566888",
+          "nickname": "EMB CUSTOMER SUPPLIED ADIDAS QUARTER ZIP ",
+          "company": "WORLDWID TECHNOLOGY JOHN STUKHEIL",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-09-28",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24566888",
+          "shelf": null
+        },
+        {
           "visual_id": "76603",
           "invoice_id": "24573427",
           "nickname": "EMB- CORRELL ROFFING CO- qty 1",
@@ -685,25 +718,6 @@
           "blocker": "needed"
         },
         {
-          "visual_id": "74555",
-          "invoice_id": "24086905",
-          "nickname": "EMB - PO 9936 CARPENTERS LU 171 - 230 PCS",
-          "company": "ADTEK PROMOTIONS",
-          "production_due": "2026-09-23",
-          "customer_due": "2026-09-24",
-          "rush": false,
-          "firm": false,
-          "qty": 230,
-          "status_id": "338845",
-          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
-          "short_status": "Sewout sent",
-          "url": "https://www.printavo.com/invoices/24086905",
-          "shelf": null,
-          "sewout_badge": "sent",
-          "sewout_reason": "new art + approval needed",
-          "blocker": "sent"
-        },
-        {
           "visual_id": "76209",
           "invoice_id": "24486102",
           "nickname": "EMB",
@@ -722,19 +736,19 @@
           "blocker": "sent"
         },
         {
-          "visual_id": "76507",
-          "invoice_id": "24549514",
-          "nickname": "EMB- PO#64246- UNION MADE-AFL-CIO- 150 PCS",
-          "company": "",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-09-25",
+          "visual_id": "74555",
+          "invoice_id": "24086905",
+          "nickname": "EMB - PO 9936 CARPENTERS LU 171 - 230 PCS",
+          "company": "ADTEK PROMOTIONS",
+          "production_due": "2026-10-01",
+          "customer_due": "2026-10-02",
           "rush": false,
           "firm": false,
-          "qty": 150,
+          "qty": 230,
           "status_id": "338845",
           "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
           "short_status": "Sewout sent",
-          "url": "https://www.printavo.com/invoices/24549514",
+          "url": "https://www.printavo.com/invoices/24086905",
           "shelf": null,
           "sewout_badge": "sent",
           "sewout_reason": "new art + approval needed",
@@ -1043,9 +1057,9 @@
           "rush": false,
           "firm": false,
           "qty": 35,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24347962",
           "shelf": "shelf under",
           "sewout_badge": "approved"
@@ -1083,9 +1097,9 @@
   "sewout_breakdown": {
     "declined": 0,
     "needed": 6,
-    "sent": 3,
+    "sent": 2,
     "approved": 0,
-    "status_based": 3,
+    "status_based": 2,
     "override": 6
   }
 }
