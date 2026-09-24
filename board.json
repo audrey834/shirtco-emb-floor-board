@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-24 07:57:29 CDT",
+  "generated_at_ct": "2026-09-24 08:18:12 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,11 +16,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 12,
-    "needs_barcode": 26,
+    "ready_to_sew": 14,
+    "needs_barcode": 23,
     "sewout": 7,
     "on_machine": 24,
-    "total": 69
+    "total": 68
   },
   "columns": {
     "ready_to_sew": {
@@ -140,6 +140,38 @@
           "shelf": "shelf e3"
         },
         {
+          "visual_id": "76356",
+          "invoice_id": "24516530",
+          "nickname": "B365811 St. Charles West High School 2026 - Batched 09/17/2026 EMB - LC/HATS - D3 - 60150 - (3 of 8)",
+          "company": "St. Charles West Boost Club",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-10-01",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24516530",
+          "shelf": null
+        },
+        {
+          "visual_id": "76374",
+          "invoice_id": "24517229",
+          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - HATS - VEGAS 52 -  (7 of 18)",
+          "company": "West Overland Fire Department",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24517229",
+          "shelf": null
+        },
+        {
           "visual_id": "76116",
           "invoice_id": "24457560",
           "nickname": "EMB - KC BACKFLOW STL APPAREL (CPG) - QTY 3 ",
@@ -226,38 +258,6 @@
     "needs_barcode": {
       "title": "Needs barcode",
       "cards": [
-        {
-          "visual_id": "76356",
-          "invoice_id": "24516530",
-          "nickname": "B365811 St. Charles West High School 2026 - Batched 09/17/2026 EMB - LC/HATS - D3 - 60150 - (3 of 8)",
-          "company": "St. Charles West Boost Club",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-10-01",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24516530",
-          "shelf": null
-        },
-        {
-          "visual_id": "76374",
-          "invoice_id": "24517229",
-          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - HATS - VEGAS 52 -  (7 of 18)",
-          "company": "West Overland Fire Department",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24517229",
-          "shelf": null
-        },
         {
           "visual_id": "76375",
           "invoice_id": "24517231",
@@ -368,22 +368,6 @@
           "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24517251",
-          "shelf": "shelf e3"
-        },
-        {
-          "visual_id": "76384",
-          "invoice_id": "24517262",
-          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - PANTS - WHITE WO -  (17 of 18)",
-          "company": "West Overland Fire Department",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24517262",
           "shelf": "shelf e3"
         },
         {
