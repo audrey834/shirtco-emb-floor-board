@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-24 14:29:52 CDT",
+  "generated_at_ct": "2026-09-24 14:34:41 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -17,8 +17,8 @@
     "ready_to_sew": 13,
     "needs_barcode": 31,
     "sewout": 6,
-    "on_machine": 14,
-    "total": 64
+    "on_machine": 13,
+    "total": 63
   },
   "columns": {
     "ready_to_sew": {
@@ -244,7 +244,7 @@
           "invoice_id": "24461666",
           "nickname": "EMB - PO60911207B - Infineon - 364PC",
           "company": "Kaeser & Blair, INC",
-          "production_due": "2026-09-18",
+          "production_due": "2026-09-19",
           "customer_due": "2026-09-29",
           "rush": false,
           "firm": false,
@@ -1038,22 +1038,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24508135",
           "shelf": "shelf 94"
-        },
-        {
-          "visual_id": "76577",
-          "invoice_id": "24566535",
-          "nickname": "Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - ADMIN - 60944  (customer provided polos)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 4,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24566535",
-          "shelf": null
         },
         {
           "visual_id": "76242",
