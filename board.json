@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-24 13:29:24 CDT",
+  "generated_at_ct": "2026-09-24 13:35:09 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,8 +16,8 @@
   ],
   "counts": {
     "ready_to_sew": 16,
-    "needs_barcode": 30,
-    "sewout": 8,
+    "needs_barcode": 31,
+    "sewout": 7,
     "on_machine": 15,
     "total": 69
   },
@@ -385,6 +385,22 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24517251",
           "shelf": "shelf e3"
+        },
+        {
+          "visual_id": "76383",
+          "invoice_id": "24517258",
+          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - PANTS - VEGAS WO -  (16 of 18)",
+          "company": "West Overland Fire Department",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24517258",
+          "shelf": "shelf e4"
         },
         {
           "visual_id": "76362",
@@ -779,25 +795,6 @@
       "title": "Sewout",
       "cards": [
         {
-          "visual_id": "76056",
-          "invoice_id": "24442774",
-          "nickname": "EMB - PO60911114C - UVA Logo - 30PC",
-          "company": "Kaeser & Blair, INC",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-23",
-          "rush": false,
-          "firm": false,
-          "qty": 30,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24442774",
-          "shelf": "shelf under",
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed",
-          "blocker": "needed"
-        },
-        {
           "visual_id": "76399",
           "invoice_id": "24520593",
           "nickname": "EMB - LANG INSURANCE -  qty 3 (1 OF 2)",
@@ -934,6 +931,24 @@
     "on_machine": {
       "title": "On machine",
       "cards": [
+        {
+          "visual_id": "76056",
+          "invoice_id": "24442774",
+          "nickname": "EMB - PO60911114C - UVA Logo - 30PC",
+          "company": "Kaeser & Blair, INC",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-23",
+          "rush": false,
+          "firm": false,
+          "qty": 30,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24442774",
+          "shelf": "shelf under",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed"
+        },
         {
           "visual_id": "76096",
           "invoice_id": "24454558",
@@ -1079,22 +1094,6 @@
           "shelf": null
         },
         {
-          "visual_id": "75898",
-          "invoice_id": "24407205",
-          "nickname": "EMB ADIDAS SHOE BAGS 19 PCS",
-          "company": "LOU FUSZ ATHLETIC ",
-          "production_due": "2026-09-23",
-          "customer_due": "2026-09-23",
-          "rush": false,
-          "firm": false,
-          "qty": 39,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24407205",
-          "shelf": "SHELF 88"
-        },
-        {
           "visual_id": "76279",
           "invoice_id": "24502397",
           "nickname": "DTF / EMB - PO 60915195B- 2026 ATTENDEE GIFT -1PC ",
@@ -1104,9 +1103,9 @@
           "rush": false,
           "firm": false,
           "qty": 1,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24502397",
           "shelf": "shelf e3",
           "sewout_badge": "needed",
@@ -1193,10 +1192,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 4,
+    "needed": 3,
     "sent": 4,
     "approved": 0,
     "status_based": 4,
-    "override": 4
+    "override": 3
   }
 }
