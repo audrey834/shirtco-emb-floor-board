@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-09-24 13:49:06 CDT",
+  "generated_at_ct": "2026-09-24 13:53:25 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 75887, 76116, 76214, 76242, 76507, 76551",
+    "Printavo Sewout AR approved: 74555, 75887, 76116, 76214, 76242, 76507",
     "76608: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76131: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "75320: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -16,10 +16,10 @@
   ],
   "counts": {
     "ready_to_sew": 15,
-    "needs_barcode": 31,
+    "needs_barcode": 30,
     "sewout": 7,
     "on_machine": 15,
-    "total": 68
+    "total": 67
   },
   "columns": {
     "ready_to_sew": {
@@ -56,6 +56,22 @@
           "short_status": "Goods here \u00b7 RUSH",
           "url": "https://www.printavo.com/invoices/24568391",
           "shelf": null
+        },
+        {
+          "visual_id": "76102",
+          "invoice_id": "24454578",
+          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - DISPATCHER - 60944 -  (10 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 21,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24454578",
+          "shelf": "shelf 88"
         },
         {
           "visual_id": "76116",
@@ -250,45 +266,12 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24558628",
           "shelf": "shelf end"
-        },
-        {
-          "visual_id": "76551",
-          "invoice_id": "24559897",
-          "nickname": "EMB/DTF TS AND CAPS ",
-          "company": "CICIL STAIRS AND FINISH CARPENTRY",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 26,
-          "status_id": "338846",
-          "status_name": "EMB - SEWOUT APPROVED",
-          "short_status": "Sewout approved",
-          "url": "https://www.printavo.com/invoices/24559897",
-          "shelf": "shelf 93",
-          "sewout_badge": "approved"
         }
       ]
     },
     "needs_barcode": {
       "title": "Needs barcode",
       "cards": [
-        {
-          "visual_id": "76102",
-          "invoice_id": "24454578",
-          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - DISPATCHER - 60944 -  (10 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 21,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24454578",
-          "shelf": "shelf 88"
-        },
         {
           "visual_id": "76375",
           "invoice_id": "24517231",
@@ -531,6 +514,22 @@
           "shelf": "shelf 85"
         },
         {
+          "visual_id": "76561",
+          "invoice_id": "24564180",
+          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
+          "company": "Pike-Lincoln Technical Center",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-10-04",
+          "rush": false,
+          "firm": false,
+          "qty": 18,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24564180",
+          "shelf": "shelf 91"
+        },
+        {
           "visual_id": "76562",
           "invoice_id": "24564187",
           "nickname": "629716 Pike-Lincoln Technical Center EMB-LC/HAT-CIRCLE LOGO-75507 - (5 of 6)",
@@ -642,22 +641,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24586507",
           "shelf": "shelf e4"
-        },
-        {
-          "visual_id": "76561",
-          "invoice_id": "24564180",
-          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
-          "company": "Pike-Lincoln Technical Center",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-10-04",
-          "rush": false,
-          "firm": false,
-          "qty": 18,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24564180",
-          "shelf": "shelf 91"
         },
         {
           "visual_id": "76564",
