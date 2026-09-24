@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-24 15:11:17 CDT",
+  "generated_at_ct": "2026-09-24 15:19:53 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -14,8 +14,8 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 14,
-    "needs_barcode": 30,
+    "ready_to_sew": 15,
+    "needs_barcode": 29,
     "sewout": 6,
     "on_machine": 13,
     "total": 63
@@ -184,6 +184,22 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24517243",
           "shelf": "shelf 92"
+        },
+        {
+          "visual_id": "76362",
+          "invoice_id": "24516690",
+          "nickname": "EMB - Crop Dx Oct Team Event - 36 PCS",
+          "company": "Crop Diagnostix",
+          "production_due": "2026-09-25",
+          "customer_due": "2026-09-28",
+          "rush": false,
+          "firm": false,
+          "qty": 36,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24516690",
+          "shelf": "shelf under"
         },
         {
           "visual_id": "76391",
@@ -366,22 +382,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24517258",
           "shelf": "shelf e4"
-        },
-        {
-          "visual_id": "76362",
-          "invoice_id": "24516690",
-          "nickname": "EMB - Crop Dx Oct Team Event - 36 PCS",
-          "company": "Crop Diagnostix",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-09-28",
-          "rush": false,
-          "firm": false,
-          "qty": 36,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24516690",
-          "shelf": "shelf under"
         },
         {
           "visual_id": "76389",
