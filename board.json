@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-24 08:18:12 CDT",
+  "generated_at_ct": "2026-09-24 08:45:28 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,9 +16,9 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 14,
-    "needs_barcode": 23,
-    "sewout": 7,
+    "ready_to_sew": 15,
+    "needs_barcode": 21,
+    "sewout": 8,
     "on_machine": 24,
     "total": 68
   },
@@ -172,6 +172,22 @@
           "shelf": null
         },
         {
+          "visual_id": "76379",
+          "invoice_id": "24517243",
+          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - LC/RC/LS/RS/FB - WO VEGAS/NAVY - CARHARTT - 75720 -  (12 of 18)",
+          "company": "West Overland Fire Department",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24517243",
+          "shelf": "shelf 92"
+        },
+        {
           "visual_id": "76116",
           "invoice_id": "24457560",
           "nickname": "EMB - KC BACKFLOW STL APPAREL (CPG) - QTY 3 ",
@@ -291,22 +307,6 @@
           "shelf": null
         },
         {
-          "visual_id": "76377",
-          "invoice_id": "24517237",
-          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - HAT - WHITE WO -  (10 of 18)",
-          "company": "West Overland Fire Department",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24517237",
-          "shelf": "shelf 92"
-        },
-        {
           "visual_id": "76378",
           "invoice_id": "24517240",
           "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - LC/RC/FB - WO VEGAS - NON UNION - COAT - 72156 -  (11 of 18)",
@@ -321,22 +321,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24517240",
           "shelf": "shelf e3"
-        },
-        {
-          "visual_id": "76379",
-          "invoice_id": "24517243",
-          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - LC/RC/LS/RS/FB - WO VEGAS/NAVY - CARHARTT - 75720 -  (12 of 18)",
-          "company": "West Overland Fire Department",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24517243",
-          "shelf": "shelf 92"
         },
         {
           "visual_id": "76380",
@@ -634,6 +618,25 @@
     "sewout": {
       "title": "Sewout",
       "cards": [
+        {
+          "visual_id": "76056",
+          "invoice_id": "24442774",
+          "nickname": "EMB - PO60911114C - UVA Logo - 30PC",
+          "company": "Kaeser & Blair, INC",
+          "production_due": "2026-09-19",
+          "customer_due": "2026-09-23",
+          "rush": false,
+          "firm": false,
+          "qty": 30,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24442774",
+          "shelf": "shelf under",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
         {
           "visual_id": "76242",
           "invoice_id": "24494034",
@@ -1180,10 +1183,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 5,
+    "needed": 6,
     "sent": 2,
     "approved": 0,
     "status_based": 2,
-    "override": 5
+    "override": 6
   }
 }
