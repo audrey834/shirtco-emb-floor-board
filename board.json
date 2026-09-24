@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-24 15:47:51 CDT",
+  "generated_at_ct": "2026-09-24 15:53:48 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -17,8 +17,8 @@
     "ready_to_sew": 10,
     "needs_barcode": 27,
     "sewout": 4,
-    "on_machine": 21,
-    "total": 62
+    "on_machine": 20,
+    "total": 61
   },
   "columns": {
     "ready_to_sew": {
@@ -1018,24 +1018,6 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24517251",
           "shelf": "shelf e3"
-        },
-        {
-          "visual_id": "76399",
-          "invoice_id": "24520593",
-          "nickname": "EMB - LANG INSURANCE -  qty 3 (1 OF 2)",
-          "company": "Lang Insurance",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24520593",
-          "shelf": null,
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed"
         },
         {
           "visual_id": "76362",
