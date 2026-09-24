@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-24 13:22:37 CDT",
+  "generated_at_ct": "2026-09-24 13:29:24 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -9,16 +9,17 @@
     "76131: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "75320: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "75317: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
+    "74555: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71572: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71324: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 17,
+    "ready_to_sew": 16,
     "needs_barcode": 30,
     "sewout": 8,
     "on_machine": 15,
-    "total": 70
+    "total": 69
   },
   "columns": {
     "ready_to_sew": {
@@ -282,23 +283,6 @@
           "short_status": "Sewout approved",
           "url": "https://www.printavo.com/invoices/24559897",
           "shelf": "shelf 93",
-          "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "74555",
-          "invoice_id": "24086905",
-          "nickname": "EMB - PO 9936 CARPENTERS LU 171 - 230 PCS",
-          "company": "ADTEK PROMOTIONS",
-          "production_due": "2026-10-01",
-          "customer_due": "2026-10-02",
-          "rush": false,
-          "firm": false,
-          "qty": 230,
-          "status_id": "338846",
-          "status_name": "EMB - SEWOUT APPROVED",
-          "short_status": "Sewout approved",
-          "url": "https://www.printavo.com/invoices/24086905",
-          "shelf": null,
           "sewout_badge": "approved"
         }
       ]
