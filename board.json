@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-24 13:35:09 CDT",
+  "generated_at_ct": "2026-09-24 13:38:26 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -18,8 +18,8 @@
     "ready_to_sew": 16,
     "needs_barcode": 31,
     "sewout": 7,
-    "on_machine": 15,
-    "total": 69
+    "on_machine": 14,
+    "total": 68
   },
   "columns": {
     "ready_to_sew": {
@@ -548,22 +548,6 @@
           "shelf": "shelf 85"
         },
         {
-          "visual_id": "76561",
-          "invoice_id": "24564180",
-          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
-          "company": "Pike-Lincoln Technical Center",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-10-04",
-          "rush": false,
-          "firm": false,
-          "qty": 18,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24564180",
-          "shelf": "shelf 91"
-        },
-        {
           "visual_id": "76562",
           "invoice_id": "24564187",
           "nickname": "629716 Pike-Lincoln Technical Center EMB-LC/HAT-CIRCLE LOGO-75507 - (5 of 6)",
@@ -675,6 +659,22 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24586507",
           "shelf": "shelf e4"
+        },
+        {
+          "visual_id": "76561",
+          "invoice_id": "24564180",
+          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
+          "company": "Pike-Lincoln Technical Center",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-10-04",
+          "rush": false,
+          "firm": false,
+          "qty": 18,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24564180",
+          "shelf": "shelf 91"
         },
         {
           "visual_id": "76564",
@@ -1160,22 +1160,6 @@
           "status_name": "EMB - STAGED",
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24516998",
-          "shelf": null
-        },
-        {
-          "visual_id": "76367",
-          "invoice_id": "24517034",
-          "nickname": "EMB/ E0940W  / VW/  / 11 PCS",
-          "company": "Vestis MC# 617",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 11,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24517034",
           "shelf": null
         }
       ]
