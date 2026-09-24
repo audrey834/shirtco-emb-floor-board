@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-09-24 09:58:23 CDT",
+  "generated_at_ct": "2026-09-24 10:17:53 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 75887, 76116, 76214, 76321, 76507",
+    "Printavo Sewout AR approved: 74596, 75887, 76116, 76214, 76321, 76507",
     "76649: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76608: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76131: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -18,8 +18,8 @@
   "counts": {
     "ready_to_sew": 15,
     "needs_barcode": 21,
-    "sewout": 10,
-    "on_machine": 23,
+    "sewout": 11,
+    "on_machine": 22,
     "total": 69
   },
   "columns": {
@@ -41,6 +41,23 @@
           "short_status": "Goods here \u00b7 RUSH",
           "url": "https://www.printavo.com/invoices/24568391",
           "shelf": null
+        },
+        {
+          "visual_id": "74596",
+          "invoice_id": "24093976",
+          "nickname": "OS - EMB - Mark Twain Model Club 2of2 ",
+          "company": "Mark Twain Model Club",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 0,
+          "status_id": "338846",
+          "status_name": "EMB - SEWOUT APPROVED",
+          "short_status": "Sewout approved",
+          "url": "https://www.printavo.com/invoices/24093976",
+          "shelf": null,
+          "sewout_badge": "approved"
         },
         {
           "visual_id": "76116",
@@ -252,22 +269,6 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24558628",
           "shelf": "shelf end"
-        },
-        {
-          "visual_id": "76551",
-          "invoice_id": "24559897",
-          "nickname": "EMB/DTF TS AND CAPS ",
-          "company": "CICIL STAIRS AND FINISH CARPENTRY",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 26,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24559897",
-          "shelf": "shelf 93"
         }
       ]
     },
@@ -770,6 +771,24 @@
           "blocker": "sent"
         },
         {
+          "visual_id": "76551",
+          "invoice_id": "24559897",
+          "nickname": "EMB/DTF TS AND CAPS ",
+          "company": "CICIL STAIRS AND FINISH CARPENTRY",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 26,
+          "status_id": "338845",
+          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
+          "short_status": "Sewout sent",
+          "url": "https://www.printavo.com/invoices/24559897",
+          "shelf": "shelf 93",
+          "sewout_badge": "sent",
+          "blocker": "sent"
+        },
+        {
           "visual_id": "76579",
           "invoice_id": "24567029",
           "nickname": "EMB - POTSHATS0926 - Transition State Hats - 24PC",
@@ -955,22 +974,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24454597",
           "shelf": "shelf e2"
-        },
-        {
-          "visual_id": "75859",
-          "invoice_id": "24399533",
-          "nickname": "EMB MATT BROWN COACH TRUCKER CAPS ",
-          "company": "",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 62,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24399533",
-          "shelf": "shelf 85"
         },
         {
           "visual_id": "76184",
@@ -1204,9 +1207,9 @@
   "sewout_breakdown": {
     "declined": 0,
     "needed": 7,
-    "sent": 3,
+    "sent": 4,
     "approved": 0,
-    "status_based": 3,
+    "status_based": 4,
     "override": 7
   }
 }
