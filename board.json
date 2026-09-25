@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 09:11:29 CDT",
+  "generated_at_ct": "2026-09-25 09:17:55 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -212,7 +212,7 @@
           "invoice_id": "24461666",
           "nickname": "EMB - PO60911207B - Infineon - 364PC",
           "company": "Kaeser & Blair, INC",
-          "production_due": "2026-09-19",
+          "production_due": "2026-09-18",
           "customer_due": "2026-09-29",
           "rush": false,
           "firm": false,
@@ -318,22 +318,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24562722",
           "shelf": "shelf 85"
-        },
-        {
-          "visual_id": "76561",
-          "invoice_id": "24564180",
-          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
-          "company": "Pike-Lincoln Technical Center",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-10-04",
-          "rush": false,
-          "firm": false,
-          "qty": 18,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24564180",
-          "shelf": "shelf 91"
         },
         {
           "visual_id": "76562",
@@ -447,6 +431,22 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24586507",
           "shelf": "shelf e4"
+        },
+        {
+          "visual_id": "76561",
+          "invoice_id": "24564180",
+          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
+          "company": "Pike-Lincoln Technical Center",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-10-04",
+          "rush": false,
+          "firm": false,
+          "qty": 18,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24564180",
+          "shelf": "shelf 91"
         },
         {
           "visual_id": "76564",
@@ -682,6 +682,38 @@
           "shelf": "shelf 85"
         },
         {
+          "visual_id": "76099",
+          "invoice_id": "24454563",
+          "nickname": "566144 Central County Emergency 911 EMB - LC/RC/RS - WHITE - UNION  - DISPTACHER - 60620 -  (7 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 21,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24454563",
+          "shelf": "shelf 85"
+        },
+        {
+          "visual_id": "76100",
+          "invoice_id": "24454566",
+          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - ADMIN - 60944 -  (8 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 8,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24454566",
+          "shelf": "SHELF 95"
+        },
+        {
           "visual_id": "76102",
           "invoice_id": "24454578",
           "nickname": "566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - DISPATCHER - 60944 -  (10 of 13)",
@@ -712,38 +744,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24454591",
           "shelf": "shelf e2"
-        },
-        {
-          "visual_id": "76099",
-          "invoice_id": "24454563",
-          "nickname": "566144 Central County Emergency 911 EMB - LC/RC/RS - WHITE - UNION  - DISPTACHER - 60620 -  (7 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-19",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 21,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24454563",
-          "shelf": "shelf 85"
-        },
-        {
-          "visual_id": "76100",
-          "invoice_id": "24454566",
-          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - ADMIN - 60944 -  (8 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-19",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 8,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24454566",
-          "shelf": "SHELF 95"
         },
         {
           "visual_id": "76313",
@@ -811,6 +811,23 @@
           "shelf": "shelf 127",
           "sewout_badge": "needed",
           "sewout_reason": "approval needed"
+        },
+        {
+          "visual_id": "76116",
+          "invoice_id": "24457560",
+          "nickname": "EMB - KC BACKFLOW STL APPAREL (CPG) - QTY 3 ",
+          "company": "KC BACKFLOW",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24457560",
+          "shelf": null,
+          "sewout_badge": "approved"
         },
         {
           "visual_id": "76267",
@@ -939,23 +956,6 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24366849",
           "shelf": "shelf - under embroidery tv - 7 box\u2026",
-          "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "76116",
-          "invoice_id": "24457560",
-          "nickname": "EMB - KC BACKFLOW STL APPAREL (CPG) - QTY 3 ",
-          "company": "KC BACKFLOW",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24457560",
-          "shelf": null,
           "sewout_badge": "approved"
         },
         {
