@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 10:44:49 CDT",
+  "generated_at_ct": "2026-09-25 10:49:25 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,10 +16,10 @@
   ],
   "counts": {
     "ready_to_sew": 11,
-    "needs_barcode": 20,
+    "needs_barcode": 21,
     "sewout": 3,
     "on_machine": 19,
-    "total": 53
+    "total": 54
   },
   "columns": {
     "ready_to_sew": {
@@ -225,6 +225,22 @@
           "shelf": "shelf - in front of wire rack by em\u2026"
         },
         {
+          "visual_id": "76488",
+          "invoice_id": "24547794",
+          "nickname": "B369673 Pike County Ambulance Apparel 2025 - Batched 09/21/2026 EMB-  PIKE COUNTY AMB. - UNION  - NAVY/GREY GARMENTS - 60250 -  (1 of 1)",
+          "company": "Pike County Ambulance",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24547794",
+          "shelf": "shelf 85"
+        },
+        {
           "visual_id": "76423",
           "invoice_id": "24529217",
           "nickname": "EMB WILLIAM MURRAY ALL OVER GOLFER POLOS",
@@ -287,6 +303,22 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24562722",
           "shelf": "shelf 85"
+        },
+        {
+          "visual_id": "76561",
+          "invoice_id": "24564180",
+          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
+          "company": "Pike-Lincoln Technical Center",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-10-04",
+          "rush": false,
+          "firm": false,
+          "qty": 18,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24564180",
+          "shelf": "shelf 91"
         },
         {
           "visual_id": "76562",
@@ -400,22 +432,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24586507",
           "shelf": "shelf e4"
-        },
-        {
-          "visual_id": "76561",
-          "invoice_id": "24564180",
-          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
-          "company": "Pike-Lincoln Technical Center",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-10-04",
-          "rush": false,
-          "firm": false,
-          "qty": 18,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24564180",
-          "shelf": "shelf 91"
         },
         {
           "visual_id": "76564",
