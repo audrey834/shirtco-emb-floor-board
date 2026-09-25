@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 15:37:36 CDT",
+  "generated_at_ct": "2026-09-25 15:44:24 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,9 +16,9 @@
   "counts": {
     "ready_to_sew": 5,
     "needs_barcode": 25,
-    "sewout": 4,
+    "sewout": 5,
     "on_machine": 22,
-    "total": 56
+    "total": 57
   },
   "columns": {
     "ready_to_sew": {
@@ -576,6 +576,25 @@
           "blocker": "sent"
         },
         {
+          "visual_id": "76600",
+          "invoice_id": "24572523",
+          "nickname": "RUSH EMB - SUL Renovation - 6 hats",
+          "company": "SUL Renovation",
+          "production_due": "2026-09-25",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "338845",
+          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
+          "short_status": "Sewout sent",
+          "url": "https://www.printavo.com/invoices/24572523",
+          "shelf": null,
+          "sewout_badge": "sent",
+          "sewout_reason": "new art + approval needed",
+          "blocker": "sent"
+        },
+        {
           "visual_id": "76579",
           "invoice_id": "24567029",
           "nickname": "EMB - POTSHATS0926 - Transition State Hats - 24PC",
@@ -969,9 +988,9 @@
   "sewout_breakdown": {
     "declined": 0,
     "needed": 1,
-    "sent": 3,
+    "sent": 4,
     "approved": 0,
-    "status_based": 3,
+    "status_based": 4,
     "override": 1
   }
 }
