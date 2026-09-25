@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 09:29:45 CDT",
+  "generated_at_ct": "2026-09-25 09:35:38 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -15,8 +15,8 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 10,
-    "needs_barcode": 22,
+    "ready_to_sew": 11,
+    "needs_barcode": 21,
     "sewout": 4,
     "on_machine": 22,
     "total": 58
@@ -170,6 +170,22 @@
           "shelf": null
         },
         {
+          "visual_id": "76394",
+          "invoice_id": "24519376",
+          "nickname": "EMB-MU-25 PCS",
+          "company": "THE DAD UNIT",
+          "production_due": "2026-09-25",
+          "customer_due": "2026-09-28",
+          "rush": false,
+          "firm": false,
+          "qty": 25,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24519376",
+          "shelf": "shelf 93"
+        },
+        {
           "visual_id": "76507",
           "invoice_id": "24549514",
           "nickname": "EMB- PO#64246- UNION MADE-AFL-CIO- 150 PCS",
@@ -206,22 +222,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24461666",
           "shelf": "shelf - in front of wire rack by em\u2026"
-        },
-        {
-          "visual_id": "76394",
-          "invoice_id": "24519376",
-          "nickname": "EMB-MU-25 PCS",
-          "company": "THE DAD UNIT",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-09-28",
-          "rush": false,
-          "firm": false,
-          "qty": 25,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24519376",
-          "shelf": "shelf 93"
         },
         {
           "visual_id": "76428",
@@ -302,6 +302,22 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24562722",
           "shelf": "shelf 85"
+        },
+        {
+          "visual_id": "76561",
+          "invoice_id": "24564180",
+          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
+          "company": "Pike-Lincoln Technical Center",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-10-04",
+          "rush": false,
+          "firm": false,
+          "qty": 18,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24564180",
+          "shelf": "shelf 91"
         },
         {
           "visual_id": "76562",
@@ -415,22 +431,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24586507",
           "shelf": "shelf e4"
-        },
-        {
-          "visual_id": "76561",
-          "invoice_id": "24564180",
-          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
-          "company": "Pike-Lincoln Technical Center",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-10-04",
-          "rush": false,
-          "firm": false,
-          "qty": 18,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24564180",
-          "shelf": "shelf 91"
         },
         {
           "visual_id": "76564",
@@ -752,9 +752,9 @@
           "rush": false,
           "firm": false,
           "qty": 18,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24494034",
           "shelf": "shelf 94",
           "sewout_badge": "approved"
