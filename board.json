@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 10:55:06 CDT",
+  "generated_at_ct": "2026-09-25 11:01:06 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,10 +16,10 @@
   ],
   "counts": {
     "ready_to_sew": 11,
-    "needs_barcode": 21,
+    "needs_barcode": 22,
     "sewout": 3,
     "on_machine": 20,
-    "total": 55
+    "total": 56
   },
   "columns": {
     "ready_to_sew": {
@@ -335,6 +335,22 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24564187",
           "shelf": "shelf e3"
+        },
+        {
+          "visual_id": "76563",
+          "invoice_id": "24564189",
+          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC/HAT-LIGHT GARMENTS-75507 - (6 of 6)",
+          "company": "Pike-Lincoln Technical Center",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-10-04",
+          "rush": false,
+          "firm": false,
+          "qty": 7,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24564189",
+          "shelf": "shelf 85"
         },
         {
           "visual_id": "76565",
