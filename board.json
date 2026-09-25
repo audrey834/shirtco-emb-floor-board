@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 11:01:06 CDT",
+  "generated_at_ct": "2026-09-25 11:05:37 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -17,9 +17,9 @@
   "counts": {
     "ready_to_sew": 11,
     "needs_barcode": 22,
-    "sewout": 3,
+    "sewout": 4,
     "on_machine": 20,
-    "total": 56
+    "total": 57
   },
   "columns": {
     "ready_to_sew": {
@@ -78,7 +78,7 @@
           "invoice_id": "24517231",
           "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - HATS - VEGAS WO -  (8 of 18)",
           "company": "West Overland Fire Department",
-          "production_due": "2026-09-24",
+          "production_due": "2026-09-25",
           "customer_due": "2026-09-30",
           "rush": false,
           "firm": false,
@@ -94,7 +94,7 @@
           "invoice_id": "24517234",
           "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - HAT - WHITE 52 -  (9 of 18)",
           "company": "West Overland Fire Department",
-          "production_due": "2026-09-24",
+          "production_due": "2026-09-25",
           "customer_due": "2026-09-30",
           "rush": false,
           "firm": false,
@@ -110,7 +110,7 @@
           "invoice_id": "24517240",
           "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - LC/RC/FB - WO VEGAS - NON UNION - COAT - 72156 -  (11 of 18)",
           "company": "West Overland Fire Department",
-          "production_due": "2026-09-24",
+          "production_due": "2026-09-25",
           "customer_due": "2026-09-30",
           "rush": false,
           "firm": false,
@@ -126,7 +126,7 @@
           "invoice_id": "24517247",
           "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - LC/RC/LS/RS/FB - WO WHITE/NAVY - CARHARTT - 75720",
           "company": "West Overland Fire Department",
-          "production_due": "2026-09-24",
+          "production_due": "2026-09-25",
           "customer_due": "2026-09-30",
           "rush": false,
           "firm": false,
@@ -142,7 +142,7 @@
           "invoice_id": "24517258",
           "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - PANTS - VEGAS WO -  (16 of 18)",
           "company": "West Overland Fire Department",
-          "production_due": "2026-09-24",
+          "production_due": "2026-09-25",
           "customer_due": "2026-09-30",
           "rush": false,
           "firm": false,
@@ -255,22 +255,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24529217",
           "shelf": "shelf 92"
-        },
-        {
-          "visual_id": "76457",
-          "invoice_id": "24544043",
-          "nickname": "B369647 Maryland Heights Fire 2026 - Batched 09/21/2026 EMB - HATS - 53491 -  (2 of 11)",
-          "company": "Maryland Heights Fire Department",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-10-05",
-          "rush": false,
-          "firm": false,
-          "qty": 4,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24544043",
-          "shelf": "shelf e5"
         },
         {
           "visual_id": "76459",
@@ -450,6 +434,22 @@
           "shelf": "shelf e4"
         },
         {
+          "visual_id": "76457",
+          "invoice_id": "24544043",
+          "nickname": "B369647 Maryland Heights Fire 2026 - Batched 09/21/2026 EMB - HATS - 53491 -  (2 of 11)",
+          "company": "Maryland Heights Fire Department",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-10-05",
+          "rush": false,
+          "firm": false,
+          "qty": 4,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24544043",
+          "shelf": "shelf e5"
+        },
+        {
           "visual_id": "76564",
           "invoice_id": "24564630",
           "nickname": "EMB - PO092126-P - LiUNA - 1PC",
@@ -568,6 +568,25 @@
       "title": "Sewout",
       "cards": [
         {
+          "visual_id": "75891",
+          "invoice_id": "24405491",
+          "nickname": "EMB - PO5995 - Nomad - 1PC",
+          "company": "5K Printing Consultants",
+          "production_due": "2026-09-16",
+          "customer_due": "2026-09-18",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24405491",
+          "shelf": "shelf e3",
+          "sewout_badge": "needed",
+          "sewout_reason": "new art + approval needed",
+          "blocker": "needed"
+        },
+        {
           "visual_id": "75990",
           "invoice_id": "24425843",
           "nickname": "DTF/EMB - BOEING TEAM POLOS - QTY 10 (2 of 2)",
@@ -677,22 +696,6 @@
           "shelf": "shelf e2"
         },
         {
-          "visual_id": "76313",
-          "invoice_id": "24508125",
-          "nickname": "567166 Berkeley Fire Department 2026 EMB - BOONEY - 66213 -  (10 of 16)",
-          "company": "Berkeley Fire Department",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 6,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24508125",
-          "shelf": "shelf 94"
-        },
-        {
           "visual_id": "76314",
           "invoice_id": "24508127",
           "nickname": "567166 Berkeley Fire Department 2026 EMB/DTF - LC/FB  - NON UNION - 68332 -  (11 of 16)",
@@ -709,11 +712,27 @@
           "shelf": "Shelf 94"
         },
         {
+          "visual_id": "76313",
+          "invoice_id": "24508125",
+          "nickname": "567166 Berkeley Fire Department 2026 EMB - BOONEY - 66213 -  (10 of 16)",
+          "company": "Berkeley Fire Department",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24508125",
+          "shelf": "shelf 94"
+        },
+        {
           "visual_id": "76318",
           "invoice_id": "24508135",
           "nickname": "567166 Berkeley Fire Department 2026 EMB - FRONT/BACK - HATS - UNION - 66212 -  (15 of 16)",
           "company": "Berkeley Fire Department",
-          "production_due": "2026-09-22",
+          "production_due": "2026-09-23",
           "customer_due": "2026-09-29",
           "rush": false,
           "firm": false,
@@ -729,7 +748,7 @@
           "invoice_id": "24494034",
           "nickname": "EMB - POOLSIDE LIVING HATS - QTY 18 (2 OF 2)",
           "company": "Poolside Living",
-          "production_due": "2026-09-23",
+          "production_due": "2026-09-24",
           "customer_due": "2026-09-24",
           "rush": false,
           "firm": false,
@@ -806,38 +825,6 @@
           "shelf": "shelf e3"
         },
         {
-          "visual_id": "76379",
-          "invoice_id": "24517243",
-          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - LC/RC/LS/RS/FB - WO VEGAS/NAVY - CARHARTT - 75720 -  (12 of 18)",
-          "company": "West Overland Fire Department",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24517243",
-          "shelf": "shelf 92"
-        },
-        {
-          "visual_id": "76381",
-          "invoice_id": "24517251",
-          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - LC/RC/RS - VEGAS - UNION  -  (14 of 18)",
-          "company": "West Overland Fire Department",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24517251",
-          "shelf": "shelf e3"
-        },
-        {
           "visual_id": "75737",
           "invoice_id": "24366849",
           "nickname": "EMB - PO26090403 - Maintenance Hoodies - 126PC",
@@ -855,22 +842,36 @@
           "sewout_badge": "approved"
         },
         {
-          "visual_id": "76388",
-          "invoice_id": "24518036",
-          "nickname": "EMB - PO168126 - 10 Year Sanderson - 5PC",
-          "company": "Goldmark Enterprises",
+          "visual_id": "76379",
+          "invoice_id": "24517243",
+          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - LC/RC/LS/RS/FB - WO VEGAS/NAVY - CARHARTT - 75720 -  (12 of 18)",
+          "company": "West Overland Fire Department",
           "production_due": "2026-09-25",
-          "customer_due": "2026-09-28",
+          "customer_due": "2026-09-30",
           "rush": false,
           "firm": false,
-          "qty": 5,
+          "qty": 3,
           "status_id": "329207",
           "status_name": "EMB - STAGED",
           "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24518036",
-          "shelf": "shelf 85",
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed"
+          "url": "https://www.printavo.com/invoices/24517243",
+          "shelf": "shelf 92"
+        },
+        {
+          "visual_id": "76381",
+          "invoice_id": "24517251",
+          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - LC/RC/RS - VEGAS - UNION  -  (14 of 18)",
+          "company": "West Overland Fire Department",
+          "production_due": "2026-09-25",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24517251",
+          "shelf": "shelf e3"
         },
         {
           "visual_id": "76389",
@@ -907,22 +908,6 @@
           "shelf": "shelf 93"
         },
         {
-          "visual_id": "76428",
-          "invoice_id": "24531081",
-          "nickname": "EMB - Crop Diagnostix Hats- 18 pcs",
-          "company": "Crop Diagnostix",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-09-28",
-          "rush": false,
-          "firm": false,
-          "qty": 18,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24531081",
-          "shelf": "shelf 85"
-        },
-        {
           "visual_id": "76490",
           "invoice_id": "24547854",
           "nickname": "EMB - SHEAR GENIUS SWEATSHIRTS - QTY 2",
@@ -953,6 +938,40 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24558628",
           "shelf": "shelf end"
+        },
+        {
+          "visual_id": "76388",
+          "invoice_id": "24518036",
+          "nickname": "EMB - PO168126 - 10 Year Sanderson - 5PC",
+          "company": "Goldmark Enterprises",
+          "production_due": "2026-09-26",
+          "customer_due": "2026-09-28",
+          "rush": false,
+          "firm": false,
+          "qty": 5,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24518036",
+          "shelf": "shelf 85",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed"
+        },
+        {
+          "visual_id": "76428",
+          "invoice_id": "24531081",
+          "nickname": "EMB - Crop Diagnostix Hats- 18 pcs",
+          "company": "Crop Diagnostix",
+          "production_due": "2026-09-26",
+          "customer_due": "2026-09-28",
+          "rush": false,
+          "firm": false,
+          "qty": 18,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24531081",
+          "shelf": "shelf 85"
         }
       ]
     }
@@ -968,10 +987,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 1,
+    "needed": 2,
     "sent": 2,
     "approved": 0,
     "status_based": 2,
-    "override": 1
+    "override": 2
   }
 }
