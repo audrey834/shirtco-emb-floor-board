@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 07:24:27 CDT",
+  "generated_at_ct": "2026-09-25 07:28:09 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -213,7 +213,7 @@
           "invoice_id": "24461666",
           "nickname": "EMB - PO60911207B - Infineon - 364PC",
           "company": "Kaeser & Blair, INC",
-          "production_due": "2026-09-19",
+          "production_due": "2026-09-18",
           "customer_due": "2026-09-29",
           "rush": false,
           "firm": false,
