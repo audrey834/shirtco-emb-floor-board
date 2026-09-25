@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 11:45:32 CDT",
+  "generated_at_ct": "2026-09-25 11:48:54 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -15,11 +15,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 11,
+    "ready_to_sew": 12,
     "needs_barcode": 23,
     "sewout": 4,
     "on_machine": 20,
-    "total": 58
+    "total": 59
   },
   "columns": {
     "ready_to_sew": {
@@ -152,6 +152,22 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24517258",
           "shelf": "shelf e4"
+        },
+        {
+          "visual_id": "76384",
+          "invoice_id": "24517262",
+          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - PANTS - WHITE WO -  (17 of 18)",
+          "company": "West Overland Fire Department",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24517262",
+          "shelf": "shelf e3"
         },
         {
           "visual_id": "76391",
@@ -835,9 +851,9 @@
           "rush": false,
           "firm": false,
           "qty": 1,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24516526",
           "shelf": "shelf e3"
         },
