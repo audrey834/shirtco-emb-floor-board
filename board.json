@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 10:06:00 CDT",
+  "generated_at_ct": "2026-09-25 10:09:52 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -18,8 +18,8 @@
     "ready_to_sew": 10,
     "needs_barcode": 20,
     "sewout": 4,
-    "on_machine": 20,
-    "total": 54
+    "on_machine": 19,
+    "total": 53
   },
   "columns": {
     "ready_to_sew": {
@@ -598,22 +598,6 @@
     "on_machine": {
       "title": "On machine",
       "cards": [
-        {
-          "visual_id": "76096",
-          "invoice_id": "24454558",
-          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - NAVY - NON UNION - MANAGEMENT - 61410 -  (4 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 10,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24454558",
-          "shelf": "shelf 85"
-        },
         {
           "visual_id": "76099",
           "invoice_id": "24454563",
