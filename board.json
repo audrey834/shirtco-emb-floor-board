@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 14:36:43 CDT",
+  "generated_at_ct": "2026-09-25 14:43:12 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -14,11 +14,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 13,
-    "needs_barcode": 27,
+    "ready_to_sew": 14,
+    "needs_barcode": 26,
     "sewout": 4,
-    "on_machine": 17,
-    "total": 61
+    "on_machine": 16,
+    "total": 60
   },
   "columns": {
     "ready_to_sew": {
@@ -39,6 +39,22 @@
           "short_status": "Goods here \u00b7 RUSH",
           "url": "https://www.printavo.com/invoices/24568391",
           "shelf": "shelf 92"
+        },
+        {
+          "visual_id": "76131",
+          "invoice_id": "24461666",
+          "nickname": "EMB - PO60911207B - Infineon - 364PC",
+          "company": "Kaeser & Blair, INC",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 364,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24461666",
+          "shelf": "shelf - in front of wire rack by em\u2026"
         },
         {
           "visual_id": "76356",
@@ -238,22 +254,6 @@
     "needs_barcode": {
       "title": "Needs barcode",
       "cards": [
-        {
-          "visual_id": "76131",
-          "invoice_id": "24461666",
-          "nickname": "EMB - PO60911207B - Infineon - 364PC",
-          "company": "Kaeser & Blair, INC",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 364,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24461666",
-          "shelf": "shelf - in front of wire rack by em\u2026"
-        },
         {
           "visual_id": "76184",
           "invoice_id": "24476578",
@@ -920,24 +920,6 @@
           "url": "https://www.printavo.com/invoices/24366849",
           "shelf": "shelf - under embroidery tv - 7 box\u2026",
           "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "76388",
-          "invoice_id": "24518036",
-          "nickname": "EMB - PO168126 - 10 Year Sanderson - 5PC",
-          "company": "Goldmark Enterprises",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-09-28",
-          "rush": false,
-          "firm": false,
-          "qty": 5,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24518036",
-          "shelf": "shelf 85",
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed"
         },
         {
           "visual_id": "76389",
