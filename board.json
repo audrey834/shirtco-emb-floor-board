@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 14:43:12 CDT",
+  "generated_at_ct": "2026-09-25 14:51:00 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -15,9 +15,9 @@
   ],
   "counts": {
     "ready_to_sew": 14,
-    "needs_barcode": 26,
+    "needs_barcode": 25,
     "sewout": 4,
-    "on_machine": 16,
+    "on_machine": 17,
     "total": 60
   },
   "columns": {
@@ -45,7 +45,7 @@
           "invoice_id": "24461666",
           "nickname": "EMB - PO60911207B - Infineon - 364PC",
           "company": "Kaeser & Blair, INC",
-          "production_due": "2026-09-18",
+          "production_due": "2026-09-19",
           "customer_due": "2026-09-29",
           "rush": false,
           "firm": false,
@@ -254,22 +254,6 @@
     "needs_barcode": {
       "title": "Needs barcode",
       "cards": [
-        {
-          "visual_id": "76184",
-          "invoice_id": "24476578",
-          "nickname": "EMB/ FUSZ BUICK RED AND BLACK POLOS SHIP TO BUICK ",
-          "company": "Lou Fusz Buick",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-23",
-          "rush": false,
-          "firm": false,
-          "qty": 14,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24476578",
-          "shelf": "shelf 87"
-        },
         {
           "visual_id": "76488",
           "invoice_id": "24547794",
@@ -790,6 +774,22 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24454591",
           "shelf": "shelf e2"
+        },
+        {
+          "visual_id": "76184",
+          "invoice_id": "24476578",
+          "nickname": "EMB/ FUSZ BUICK RED AND BLACK POLOS SHIP TO BUICK ",
+          "company": "Lou Fusz Buick",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-23",
+          "rush": false,
+          "firm": false,
+          "qty": 14,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24476578",
+          "shelf": "shelf 87"
         },
         {
           "visual_id": "76313",
