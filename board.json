@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 16:12:12 CDT",
+  "generated_at_ct": "2026-09-25 16:18:51 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,9 +16,9 @@
   "counts": {
     "ready_to_sew": 5,
     "needs_barcode": 26,
-    "sewout": 5,
-    "on_machine": 22,
-    "total": 58
+    "sewout": 4,
+    "on_machine": 21,
+    "total": 56
   },
   "columns": {
     "ready_to_sew": {
@@ -223,6 +223,22 @@
           "shelf": "shelf 85"
         },
         {
+          "visual_id": "76561",
+          "invoice_id": "24564180",
+          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
+          "company": "Pike-Lincoln Technical Center",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-10-04",
+          "rush": false,
+          "firm": false,
+          "qty": 18,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24564180",
+          "shelf": "shelf 91"
+        },
+        {
           "visual_id": "76562",
           "invoice_id": "24564187",
           "nickname": "629716 Pike-Lincoln Technical Center EMB-LC/HAT-CIRCLE LOGO-75507 - (5 of 6)",
@@ -350,22 +366,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24586507",
           "shelf": "shelf e4"
-        },
-        {
-          "visual_id": "76561",
-          "invoice_id": "24564180",
-          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
-          "company": "Pike-Lincoln Technical Center",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-10-04",
-          "rush": false,
-          "firm": false,
-          "qty": 18,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24564180",
-          "shelf": "shelf 91"
         },
         {
           "visual_id": "76564",
@@ -589,25 +589,6 @@
           "url": "https://www.printavo.com/invoices/24486102",
           "shelf": "SHELF 96",
           "sewout_badge": "sent",
-          "blocker": "sent"
-        },
-        {
-          "visual_id": "76600",
-          "invoice_id": "24572523",
-          "nickname": "RUSH EMB - SUL Renovation - 6 hats",
-          "company": "SUL Renovation",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 6,
-          "status_id": "338845",
-          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
-          "short_status": "Sewout sent",
-          "url": "https://www.printavo.com/invoices/24572523",
-          "shelf": null,
-          "sewout_badge": "sent",
-          "sewout_reason": "new art + approval needed",
           "blocker": "sent"
         },
         {
@@ -908,24 +889,6 @@
           "sewout_badge": "approved"
         },
         {
-          "visual_id": "76389",
-          "invoice_id": "24518155",
-          "nickname": "EMB - PURE HOME ELECTRIC  -TWO OF THREE- 3 PCS",
-          "company": "PURE HOME ELECTRIC",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-09-28",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24518155",
-          "shelf": "shelf e2",
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed"
-        },
-        {
           "visual_id": "76391",
           "invoice_id": "24518642",
           "nickname": "EMB - PURE HOME ELECTRIC  -THREE OF THREE- 2 PCS",
@@ -1004,9 +967,9 @@
   "sewout_breakdown": {
     "declined": 0,
     "needed": 1,
-    "sent": 4,
+    "sent": 3,
     "approved": 0,
-    "status_based": 4,
+    "status_based": 3,
     "override": 1
   }
 }
