@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-09-25 09:38:42 CDT",
+  "generated_at_ct": "2026-09-25 09:43:57 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 75737, 75887, 76116, 76242, 76507",
+    "Printavo Sewout AR approved: 74555, 75737, 75887, 76242, 76507",
     "76608: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76184: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "75320: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -18,8 +18,8 @@
     "ready_to_sew": 11,
     "needs_barcode": 21,
     "sewout": 4,
-    "on_machine": 22,
-    "total": 58
+    "on_machine": 19,
+    "total": 55
   },
   "columns": {
     "ready_to_sew": {
@@ -663,22 +663,6 @@
           "shelf": "shelf 85"
         },
         {
-          "visual_id": "76100",
-          "invoice_id": "24454566",
-          "nickname": "566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - ADMIN - 60944 -  (8 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 8,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24454566",
-          "shelf": "SHELF 95"
-        },
-        {
           "visual_id": "76102",
           "invoice_id": "24454578",
           "nickname": "566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - DISPATCHER - 60944 -  (10 of 13)",
@@ -778,23 +762,6 @@
           "sewout_reason": "approval needed"
         },
         {
-          "visual_id": "76116",
-          "invoice_id": "24457560",
-          "nickname": "EMB - KC BACKFLOW STL APPAREL (CPG) - QTY 3 ",
-          "company": "KC BACKFLOW",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24457560",
-          "shelf": null,
-          "sewout_badge": "approved"
-        },
-        {
           "visual_id": "76267",
           "invoice_id": "24498883",
           "nickname": "EMB-NEW ATRI LOGO- 51 PCS",
@@ -824,22 +791,6 @@
           "status_name": "EMB - SEWING",
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24501074",
-          "shelf": null
-        },
-        {
-          "visual_id": "76293",
-          "invoice_id": "24504458",
-          "nickname": "EMB - Skyline Pullovers - 3 PCS",
-          "company": "SKYLINE MISSOURI REALTY",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24504458",
           "shelf": null
         },
         {
