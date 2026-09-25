@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 07:28:09 CDT",
+  "generated_at_ct": "2026-09-25 07:35:23 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -14,8 +14,8 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 11,
-    "needs_barcode": 25,
+    "ready_to_sew": 13,
+    "needs_barcode": 23,
     "sewout": 4,
     "on_machine": 21,
     "total": 61
@@ -87,6 +87,38 @@
           "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24517229",
+          "shelf": null
+        },
+        {
+          "visual_id": "76375",
+          "invoice_id": "24517231",
+          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - HATS - VEGAS WO -  (8 of 18)",
+          "company": "West Overland Fire Department",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24517231",
+          "shelf": null
+        },
+        {
+          "visual_id": "76376",
+          "invoice_id": "24517234",
+          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - HAT - WHITE 52 -  (9 of 18)",
+          "company": "West Overland Fire Department",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 4,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24517234",
           "shelf": null
         },
         {
@@ -213,7 +245,7 @@
           "invoice_id": "24461666",
           "nickname": "EMB - PO60911207B - Infineon - 364PC",
           "company": "Kaeser & Blair, INC",
-          "production_due": "2026-09-18",
+          "production_due": "2026-09-19",
           "customer_due": "2026-09-29",
           "rush": false,
           "firm": false,
@@ -223,38 +255,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24461666",
           "shelf": "shelf - in front of wire rack by em\u2026"
-        },
-        {
-          "visual_id": "76375",
-          "invoice_id": "24517231",
-          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - HATS - VEGAS WO -  (8 of 18)",
-          "company": "West Overland Fire Department",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24517231",
-          "shelf": null
-        },
-        {
-          "visual_id": "76376",
-          "invoice_id": "24517234",
-          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - HAT - WHITE 52 -  (9 of 18)",
-          "company": "West Overland Fire Department",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 4,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24517234",
-          "shelf": null
         },
         {
           "visual_id": "76389",
