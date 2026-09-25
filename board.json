@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 14:32:41 CDT",
+  "generated_at_ct": "2026-09-25 14:36:43 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -760,22 +760,6 @@
       "title": "On machine",
       "cards": [
         {
-          "visual_id": "76713",
-          "invoice_id": "24609059",
-          "nickname": "RUSH-EMB- SKY WARS WINNERS 2025-23 pcs",
-          "company": "MOPYRO",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-09-25",
-          "rush": true,
-          "firm": false,
-          "qty": 3,
-          "status_id": "272351",
-          "status_name": "EMB - STAGED - RUSH",
-          "short_status": "Staged \u00b7 RUSH",
-          "url": "https://www.printavo.com/invoices/24609059",
-          "shelf": "shelf 94"
-        },
-        {
           "visual_id": "76099",
           "invoice_id": "24454563",
           "nickname": "566144 Central County Emergency 911 EMB - LC/RC/RS - WHITE - UNION  - DISPTACHER - 60620 -  (7 of 13)",
@@ -1036,6 +1020,22 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24558628",
           "shelf": "shelf end"
+        },
+        {
+          "visual_id": "76713",
+          "invoice_id": "24609059",
+          "nickname": "RUSH-EMB- SKY WARS WINNERS 2025-23 pcs",
+          "company": "MOPYRO",
+          "production_due": "2026-09-25",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24609059",
+          "shelf": "shelf 94"
         }
       ]
     }
