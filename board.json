@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 10:49:25 CDT",
+  "generated_at_ct": "2026-09-25 10:55:06 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -18,8 +18,8 @@
     "ready_to_sew": 11,
     "needs_barcode": 21,
     "sewout": 3,
-    "on_machine": 19,
-    "total": 54
+    "on_machine": 20,
+    "total": 55
   },
   "columns": {
     "ready_to_sew": {
@@ -675,6 +675,22 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24508125",
           "shelf": "shelf 94"
+        },
+        {
+          "visual_id": "76314",
+          "invoice_id": "24508127",
+          "nickname": "567166 Berkeley Fire Department 2026 EMB/DTF - LC/FB  - NON UNION - 68332 -  (11 of 16)",
+          "company": "Berkeley Fire Department",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 8,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24508127",
+          "shelf": "Shelf 94"
         },
         {
           "visual_id": "76318",
