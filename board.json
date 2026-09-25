@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 11:34:26 CDT",
+  "generated_at_ct": "2026-09-25 11:37:30 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -213,7 +213,7 @@
           "invoice_id": "24461666",
           "nickname": "EMB - PO60911207B - Infineon - 364PC",
           "company": "Kaeser & Blair, INC",
-          "production_due": "2026-09-18",
+          "production_due": "2026-09-19",
           "customer_due": "2026-09-29",
           "rush": false,
           "firm": false,
@@ -585,25 +585,6 @@
       "title": "Sewout",
       "cards": [
         {
-          "visual_id": "75891",
-          "invoice_id": "24405491",
-          "nickname": "EMB - PO5995 - Nomad - 1PC",
-          "company": "5K Printing Consultants",
-          "production_due": "2026-09-16",
-          "customer_due": "2026-09-18",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24405491",
-          "shelf": "shelf e3",
-          "sewout_badge": "needed",
-          "sewout_reason": "new art + approval needed",
-          "blocker": "needed"
-        },
-        {
           "visual_id": "75990",
           "invoice_id": "24425843",
           "nickname": "DTF/EMB - BOEING TEAM POLOS - QTY 10 (2 of 2)",
@@ -621,6 +602,25 @@
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
           "blocker": "needed"
+        },
+        {
+          "visual_id": "75891",
+          "invoice_id": "24405491",
+          "nickname": "EMB - PO5995 - Nomad - 1PC",
+          "company": "5K Printing Consultants",
+          "production_due": "2026-09-16",
+          "customer_due": "2026-09-18",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "338845",
+          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
+          "short_status": "Sewout sent",
+          "url": "https://www.printavo.com/invoices/24405491",
+          "shelf": "shelf e3",
+          "sewout_badge": "sent",
+          "sewout_reason": "new art + approval needed",
+          "blocker": "sent"
         },
         {
           "visual_id": "76209",
@@ -1004,10 +1004,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 2,
-    "sent": 2,
+    "needed": 1,
+    "sent": 3,
     "approved": 0,
-    "status_based": 2,
-    "override": 2
+    "status_based": 3,
+    "override": 1
   }
 }
