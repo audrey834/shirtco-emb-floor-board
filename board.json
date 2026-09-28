@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-09-28 08:57:53 CDT",
+  "generated_at_ct": "2026-09-28 09:11:58 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 75737, 75887, 76510",
+    "Printavo Sewout AR approved: 74555, 75737, 75887, 76402, 76510",
     "76608: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76267: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "74555: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -13,9 +13,9 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 6,
+    "ready_to_sew": 7,
     "needs_barcode": 24,
-    "sewout": 6,
+    "sewout": 5,
     "on_machine": 12,
     "total": 48
   },
@@ -102,6 +102,23 @@
           "short_status": "Sewout approved",
           "url": "https://www.printavo.com/invoices/24550490",
           "shelf": "shelf 94",
+          "sewout_badge": "approved"
+        },
+        {
+          "visual_id": "76402",
+          "invoice_id": "24521106",
+          "nickname": "EMB - LEGRAND- 20 PCS",
+          "company": "Legrand AV",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 20,
+          "status_id": "338846",
+          "status_name": "EMB - SEWOUT APPROVED",
+          "short_status": "Sewout approved",
+          "url": "https://www.printavo.com/invoices/24521106",
+          "shelf": null,
           "sewout_badge": "approved"
         },
         {
@@ -610,25 +627,6 @@
           "shelf": "SHELF 96",
           "sewout_badge": "sent",
           "blocker": "sent"
-        },
-        {
-          "visual_id": "76402",
-          "invoice_id": "24521106",
-          "nickname": "EMB - LEGRAND- 20 PCS",
-          "company": "Legrand AV",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 20,
-          "status_id": "338845",
-          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
-          "short_status": "Sewout sent",
-          "url": "https://www.printavo.com/invoices/24521106",
-          "shelf": null,
-          "sewout_badge": "sent",
-          "sewout_reason": "new art + approval needed",
-          "blocker": "sent"
         }
       ]
     },
@@ -843,9 +841,9 @@
   "sewout_breakdown": {
     "declined": 0,
     "needed": 3,
-    "sent": 3,
+    "sent": 2,
     "approved": 0,
-    "status_based": 3,
+    "status_based": 2,
     "override": 3
   }
 }
