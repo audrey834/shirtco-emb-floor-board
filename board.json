@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-28 09:46:57 CDT",
+  "generated_at_ct": "2026-09-28 09:59:37 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,8 +16,8 @@
     "ready_to_sew": 7,
     "needs_barcode": 25,
     "sewout": 4,
-    "on_machine": 13,
-    "total": 49
+    "on_machine": 11,
+    "total": 47
   },
   "columns": {
     "ready_to_sew": {
@@ -240,22 +240,6 @@
           "shelf": "shelf 85"
         },
         {
-          "visual_id": "76561",
-          "invoice_id": "24564180",
-          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
-          "company": "Pike-Lincoln Technical Center",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-10-04",
-          "rush": false,
-          "firm": false,
-          "qty": 18,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24564180",
-          "shelf": "shelf 91"
-        },
-        {
           "visual_id": "76562",
           "invoice_id": "24564187",
           "nickname": "629716 Pike-Lincoln Technical Center EMB-LC/HAT-CIRCLE LOGO-75507 - (5 of 6)",
@@ -398,8 +382,24 @@
           "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24617814",
-          "shelf": null,
+          "shelf": "shelf 89",
           "sewout_reason": "new art + approval needed"
+        },
+        {
+          "visual_id": "76561",
+          "invoice_id": "24564180",
+          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
+          "company": "Pike-Lincoln Technical Center",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-10-04",
+          "rush": false,
+          "firm": false,
+          "qty": 18,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24564180",
+          "shelf": "shelf 91"
         },
         {
           "visual_id": "76564",
@@ -713,22 +713,6 @@
           "shelf": "Shelf 94"
         },
         {
-          "visual_id": "76377",
-          "invoice_id": "24517237",
-          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - HAT - WHITE WO -  (10 of 18)",
-          "company": "West Overland Fire Department",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24517237",
-          "shelf": "shelf 92"
-        },
-        {
           "visual_id": "76378",
           "invoice_id": "24517240",
           "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - LC/RC/FB - WO VEGAS - NON UNION - COAT - 72156 -  (11 of 18)",
@@ -759,22 +743,6 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24517243",
           "shelf": "shelf 92"
-        },
-        {
-          "visual_id": "76383",
-          "invoice_id": "24517258",
-          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - PANTS - VEGAS WO -  (16 of 18)",
-          "company": "West Overland Fire Department",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24517258",
-          "shelf": "shelf e4"
         },
         {
           "visual_id": "75737",
