@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-28 15:47:30 CDT",
+  "generated_at_ct": "2026-09-28 15:57:38 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -17,8 +17,8 @@
     "ready_to_sew": 5,
     "needs_barcode": 29,
     "sewout": 4,
-    "on_machine": 11,
-    "total": 49
+    "on_machine": 10,
+    "total": 48
   },
   "columns": {
     "ready_to_sew": {
@@ -826,22 +826,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24558628",
           "shelf": "shelf end"
-        },
-        {
-          "visual_id": "76587",
-          "invoice_id": "24568391",
-          "nickname": "EMB RUSH LF CHRYSLER  CJDR VINCENNES SHIP OUT ",
-          "company": "Lou Fusz Chrysler Vincennes",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 4,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24568391",
-          "shelf": "shelf 92"
         }
       ]
     }
