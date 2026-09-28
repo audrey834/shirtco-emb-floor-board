@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-28 11:29:42 CDT",
+  "generated_at_ct": "2026-09-28 11:41:41 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -15,9 +15,9 @@
   "counts": {
     "ready_to_sew": 8,
     "needs_barcode": 25,
-    "sewout": 4,
+    "sewout": 5,
     "on_machine": 12,
-    "total": 49
+    "total": 50
   },
   "columns": {
     "ready_to_sew": {
@@ -60,7 +60,7 @@
           "invoice_id": "24405491",
           "nickname": "EMB - PO5995 - Nomad - 1PC",
           "company": "5K Printing Consultants",
-          "production_due": "2026-09-17",
+          "production_due": "2026-09-16",
           "customer_due": "2026-09-18",
           "rush": false,
           "firm": false,
@@ -77,7 +77,7 @@
           "invoice_id": "24517247",
           "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - LC/RC/LS/RS/FB - WO WHITE/NAVY - CARHARTT - 75720",
           "company": "West Overland Fire Department",
-          "production_due": "2026-09-25",
+          "production_due": "2026-09-24",
           "customer_due": "2026-09-30",
           "rush": false,
           "firm": false,
@@ -93,7 +93,7 @@
           "invoice_id": "24547794",
           "nickname": "B369673 Pike County Ambulance Apparel 2025 - Batched 09/21/2026 EMB-  PIKE COUNTY AMB. - UNION  - NAVY/GREY GARMENTS - 60250 -  (1 of 1)",
           "company": "Pike County Ambulance",
-          "production_due": "2026-09-25",
+          "production_due": "2026-09-24",
           "customer_due": "2026-09-30",
           "rush": false,
           "firm": false,
@@ -109,7 +109,7 @@
           "invoice_id": "24550490",
           "nickname": "EMB - JACKETS - QTY 9",
           "company": "",
-          "production_due": "2026-09-26",
+          "production_due": "2026-09-25",
           "customer_due": "2026-09-26",
           "rush": false,
           "firm": false,
@@ -126,7 +126,7 @@
           "invoice_id": "24521106",
           "nickname": "EMB - LEGRAND- 20 PCS",
           "company": "Legrand AV",
-          "production_due": "2026-09-30",
+          "production_due": "2026-09-29",
           "customer_due": "2026-09-30",
           "rush": false,
           "firm": false,
@@ -135,7 +135,7 @@
           "status_name": "EMB - SEWOUT APPROVED",
           "short_status": "Sewout approved",
           "url": "https://www.printavo.com/invoices/24521106",
-          "shelf": null,
+          "shelf": "shelf 94",
           "sewout_badge": "approved"
         },
         {
@@ -174,6 +174,54 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24529217",
           "shelf": "shelf 92"
+        },
+        {
+          "visual_id": "76457",
+          "invoice_id": "24544043",
+          "nickname": "B369647 Maryland Heights Fire 2026 - Batched 09/21/2026 EMB - HATS - 53491 -  (2 of 11)",
+          "company": "Maryland Heights Fire Department",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-10-05",
+          "rush": false,
+          "firm": false,
+          "qty": 4,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24544043",
+          "shelf": "shelf e5"
+        },
+        {
+          "visual_id": "76459",
+          "invoice_id": "24544046",
+          "nickname": "B369647 Maryland Heights Fire 2026 - Batched 09/21/2026 EMB - HATS - 44 - 53579 -  (4 of 11)",
+          "company": "Maryland Heights Fire Department",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-10-05",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24544046",
+          "shelf": "shelf e5"
+        },
+        {
+          "visual_id": "76466",
+          "invoice_id": "24544064",
+          "nickname": "B369647 Maryland Heights Fire 2026 - Batched 09/21/2026 EMB - LC/RC/SLEEVES RANK/NAME - 58062 -  (10 of 10)",
+          "company": "Maryland Heights Fire Department",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-10-05",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24544064",
+          "shelf": "shelf e3"
         },
         {
           "visual_id": "76532",
@@ -370,54 +418,6 @@
           "sewout_reason": "approval needed"
         },
         {
-          "visual_id": "76457",
-          "invoice_id": "24544043",
-          "nickname": "B369647 Maryland Heights Fire 2026 - Batched 09/21/2026 EMB - HATS - 53491 -  (2 of 11)",
-          "company": "Maryland Heights Fire Department",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-10-05",
-          "rush": false,
-          "firm": false,
-          "qty": 4,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24544043",
-          "shelf": "shelf e5"
-        },
-        {
-          "visual_id": "76459",
-          "invoice_id": "24544046",
-          "nickname": "B369647 Maryland Heights Fire 2026 - Batched 09/21/2026 EMB - HATS - 44 - 53579 -  (4 of 11)",
-          "company": "Maryland Heights Fire Department",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-10-05",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24544046",
-          "shelf": "shelf e5"
-        },
-        {
-          "visual_id": "76466",
-          "invoice_id": "24544064",
-          "nickname": "B369647 Maryland Heights Fire 2026 - Batched 09/21/2026 EMB - LC/RC/SLEEVES RANK/NAME - 58062 -  (10 of 10)",
-          "company": "Maryland Heights Fire Department",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-10-05",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24544064",
-          "shelf": "shelf e3"
-        },
-        {
           "visual_id": "76564",
           "invoice_id": "24564630",
           "nickname": "EMB - PO092126-P - LiUNA - 1PC",
@@ -534,7 +534,7 @@
           "invoice_id": "24410456",
           "nickname": "EMB- ST. CHARLES PARKS AND REC EMBROIDERED  AND DTF HATS -62PCS ",
           "company": "CITY OF ST. CHARLES PARKS DEPT",
-          "production_due": "2026-10-02",
+          "production_due": "2026-10-01",
           "customer_due": "2026-10-02",
           "rush": false,
           "firm": false,
@@ -642,12 +642,47 @@
           "sewout_badge": "sent",
           "sewout_reason": "approval needed",
           "blocker": "sent"
+        },
+        {
+          "visual_id": "76748",
+          "invoice_id": "24616296",
+          "nickname": "RUSH EMB - Amdahl.ai  Hats - QTY 48",
+          "company": "Amdahl.ai",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-10-03",
+          "rush": false,
+          "firm": false,
+          "qty": 48,
+          "status_id": "338845",
+          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
+          "short_status": "Sewout sent",
+          "url": "https://www.printavo.com/invoices/24616296",
+          "shelf": null,
+          "sewout_badge": "sent",
+          "sewout_reason": "new art + approval needed",
+          "blocker": "sent"
         }
       ]
     },
     "on_machine": {
       "title": "On machine",
       "cards": [
+        {
+          "visual_id": "76099",
+          "invoice_id": "24454563",
+          "nickname": "566144 Central County Emergency 911 EMB - LC/RC/RS - WHITE - UNION  - DISPTACHER - 60620 -  (7 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 21,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24454563",
+          "shelf": "shelf 85"
+        },
         {
           "visual_id": "76103",
           "invoice_id": "24454591",
@@ -663,22 +698,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24454591",
           "shelf": "shelf e2"
-        },
-        {
-          "visual_id": "76099",
-          "invoice_id": "24454563",
-          "nickname": "566144 Central County Emergency 911 EMB - LC/RC/RS - WHITE - UNION  - DISPTACHER - 60620 -  (7 of 13)",
-          "company": "Central County Emergency 911",
-          "production_due": "2026-09-19",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 21,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24454563",
-          "shelf": "shelf 85"
         },
         {
           "visual_id": "76131",
@@ -697,6 +716,22 @@
           "shelf": "shelf - in front of wire rack by em\u2026"
         },
         {
+          "visual_id": "76313",
+          "invoice_id": "24508125",
+          "nickname": "567166 Berkeley Fire Department 2026 EMB - BOONEY - 66213 -  (10 of 16)",
+          "company": "Berkeley Fire Department",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24508125",
+          "shelf": "shelf 94"
+        },
+        {
           "visual_id": "76314",
           "invoice_id": "24508127",
           "nickname": "567166 Berkeley Fire Department 2026 EMB/DTF - LC/FB  - NON UNION - 68332 -  (11 of 16)",
@@ -713,20 +748,36 @@
           "shelf": "Shelf 94"
         },
         {
-          "visual_id": "76313",
-          "invoice_id": "24508125",
-          "nickname": "567166 Berkeley Fire Department 2026 EMB - BOONEY - 66213 -  (10 of 16)",
-          "company": "Berkeley Fire Department",
-          "production_due": "2026-09-23",
-          "customer_due": "2026-09-29",
+          "visual_id": "76378",
+          "invoice_id": "24517240",
+          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - LC/RC/FB - WO VEGAS - NON UNION - COAT - 72156 -  (11 of 18)",
+          "company": "West Overland Fire Department",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-30",
           "rush": false,
           "firm": false,
-          "qty": 6,
+          "qty": 3,
           "status_id": "473774",
           "status_name": "EMB - SEWING",
           "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24508125",
-          "shelf": "shelf 94"
+          "url": "https://www.printavo.com/invoices/24517240",
+          "shelf": "shelf e3"
+        },
+        {
+          "visual_id": "76379",
+          "invoice_id": "24517243",
+          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - LC/RC/LS/RS/FB - WO VEGAS/NAVY - CARHARTT - 75720 -  (12 of 18)",
+          "company": "West Overland Fire Department",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24517243",
+          "shelf": "shelf 92"
         },
         {
           "visual_id": "75737",
@@ -744,38 +795,6 @@
           "url": "https://www.printavo.com/invoices/24366849",
           "shelf": "shelf - under embroidery tv - 7 box\u2026",
           "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "76378",
-          "invoice_id": "24517240",
-          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - LC/RC/FB - WO VEGAS - NON UNION - COAT - 72156 -  (11 of 18)",
-          "company": "West Overland Fire Department",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24517240",
-          "shelf": "shelf e3"
-        },
-        {
-          "visual_id": "76379",
-          "invoice_id": "24517243",
-          "nickname": "566196 WEST OVERLAND - NEW STORE 2026 EMB - LC/RC/LS/RS/FB - WO VEGAS/NAVY - CARHARTT - 75720 -  (12 of 18)",
-          "company": "West Overland Fire Department",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24517243",
-          "shelf": "shelf 92"
         },
         {
           "visual_id": "76394",
@@ -859,9 +878,9 @@
   "sewout_breakdown": {
     "declined": 0,
     "needed": 2,
-    "sent": 2,
+    "sent": 3,
     "approved": 0,
-    "status_based": 2,
+    "status_based": 3,
     "override": 2
   }
 }
