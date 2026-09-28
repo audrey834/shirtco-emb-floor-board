@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-09-28 13:32:22 CDT",
+  "generated_at_ct": "2026-09-28 13:44:51 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 75737, 75887, 75891, 76402, 76510, 76679, 76748",
+    "Printavo Sewout AR approved: 74555, 75737, 75887, 75891, 76402, 76510, 76748",
     "76748: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76608: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76267: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -17,8 +17,8 @@
     "ready_to_sew": 6,
     "needs_barcode": 27,
     "sewout": 4,
-    "on_machine": 13,
-    "total": 50
+    "on_machine": 12,
+    "total": 49
   },
   "columns": {
     "ready_to_sew": {
@@ -676,9 +676,9 @@
           "rush": false,
           "firm": false,
           "qty": 1,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24405491",
           "shelf": "shelf e3",
           "sewout_badge": "approved"
@@ -843,23 +843,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24558628",
           "shelf": "shelf end"
-        },
-        {
-          "visual_id": "76679",
-          "invoice_id": "24596686",
-          "nickname": "EMB- POOTECTOR- 6 PCS",
-          "company": "THE POOTECTOR",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 6,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24596686",
-          "shelf": "shelf 94",
-          "sewout_badge": "approved"
         }
       ]
     }
