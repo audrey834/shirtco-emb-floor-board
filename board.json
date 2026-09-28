@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-28 14:47:50 CDT",
+  "generated_at_ct": "2026-09-28 14:55:14 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -240,6 +240,22 @@
           "shelf": "shelf 85"
         },
         {
+          "visual_id": "76561",
+          "invoice_id": "24564180",
+          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
+          "company": "Pike-Lincoln Technical Center",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-10-04",
+          "rush": false,
+          "firm": false,
+          "qty": 18,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24564180",
+          "shelf": "shelf 91"
+        },
+        {
           "visual_id": "76562",
           "invoice_id": "24564187",
           "nickname": "629716 Pike-Lincoln Technical Center EMB-LC/HAT-CIRCLE LOGO-75507 - (5 of 6)",
@@ -384,22 +400,6 @@
           "url": "https://www.printavo.com/invoices/24635834",
           "shelf": null,
           "sewout_reason": "approval needed"
-        },
-        {
-          "visual_id": "76561",
-          "invoice_id": "24564180",
-          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
-          "company": "Pike-Lincoln Technical Center",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-10-04",
-          "rush": false,
-          "firm": false,
-          "qty": 18,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24564180",
-          "shelf": "shelf 91"
         },
         {
           "visual_id": "76564",
@@ -683,22 +683,6 @@
       "title": "On machine",
       "cards": [
         {
-          "visual_id": "76587",
-          "invoice_id": "24568391",
-          "nickname": "EMB RUSH LF CHRYSLER  CJDR VINCENNES SHIP OUT ",
-          "company": "Lou Fusz Chrysler Vincennes",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-09-29",
-          "rush": true,
-          "firm": false,
-          "qty": 4,
-          "status_id": "272351",
-          "status_name": "EMB - STAGED - RUSH",
-          "short_status": "Staged \u00b7 RUSH",
-          "url": "https://www.printavo.com/invoices/24568391",
-          "shelf": "shelf 92"
-        },
-        {
           "visual_id": "76099",
           "invoice_id": "24454563",
           "nickname": "566144 Central County Emergency 911 EMB - LC/RC/RS - WHITE - UNION  - DISPTACHER - 60620 -  (7 of 13)",
@@ -858,6 +842,22 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24558628",
           "shelf": "shelf end"
+        },
+        {
+          "visual_id": "76587",
+          "invoice_id": "24568391",
+          "nickname": "EMB RUSH LF CHRYSLER  CJDR VINCENNES SHIP OUT ",
+          "company": "Lou Fusz Chrysler Vincennes",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 4,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24568391",
+          "shelf": "shelf 92"
         }
       ]
     }
