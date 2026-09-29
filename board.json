@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-29 10:36:54 CDT",
+  "generated_at_ct": "2026-09-29 10:51:30 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -17,9 +17,9 @@
   "counts": {
     "ready_to_sew": 2,
     "needs_barcode": 20,
-    "sewout": 11,
+    "sewout": 12,
     "on_machine": 21,
-    "total": 54
+    "total": 55
   },
   "columns": {
     "ready_to_sew": {
@@ -391,6 +391,25 @@
     "sewout": {
       "title": "Sewout",
       "cards": [
+        {
+          "visual_id": "76655",
+          "invoice_id": "24591673",
+          "nickname": "RESTITCH - EMB - Cottleville Fire 1/4zip and polo - 4pc",
+          "company": "Cottleville Fire",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-24",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "272353",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - RUSH",
+          "short_status": "Goods here \u00b7 RUSH",
+          "url": "https://www.printavo.com/invoices/24591673",
+          "shelf": "shelf e1",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
         {
           "visual_id": "75990",
           "invoice_id": "24425843",
@@ -963,10 +982,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 8,
+    "needed": 9,
     "sent": 3,
     "approved": 0,
     "status_based": 3,
-    "override": 8
+    "override": 9
   }
 }
