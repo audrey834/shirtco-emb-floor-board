@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-29 14:27:18 CDT",
+  "generated_at_ct": "2026-09-29 14:34:09 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -18,9 +18,9 @@
   "counts": {
     "ready_to_sew": 4,
     "needs_barcode": 24,
-    "sewout": 12,
+    "sewout": 13,
     "on_machine": 14,
-    "total": 54
+    "total": 55
   },
   "columns": {
     "ready_to_sew": {
@@ -208,23 +208,6 @@
           "shelf": null
         },
         {
-          "visual_id": "76603",
-          "invoice_id": "24573427",
-          "nickname": "EMB- CORRELL ROFFING CO- qty 3",
-          "company": "Correll roofing co ",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24573427",
-          "shelf": null,
-          "sewout_reason": "new art + approval needed"
-        },
-        {
           "visual_id": "76564",
           "invoice_id": "24564630",
           "nickname": "EMB - PO092126-P - LiUNA - 1PC",
@@ -337,39 +320,6 @@
           "shelf": "shelf 91"
         },
         {
-          "visual_id": "74908",
-          "invoice_id": "24158075",
-          "nickname": "EMB-- Service Central Hoodies - 3 PCS",
-          "company": "SERVICE CENTRAL GLASS & DOOR",
-          "production_due": "2026-10-01",
-          "customer_due": "2026-10-02",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24158075",
-          "shelf": "shelf e5"
-        },
-        {
-          "visual_id": "75922",
-          "invoice_id": "24410456",
-          "nickname": "EMB- ST. CHARLES PARKS AND REC EMBROIDERED  AND DTF HATS -62PCS ",
-          "company": "CITY OF ST. CHARLES PARKS DEPT",
-          "production_due": "2026-10-01",
-          "customer_due": "2026-10-02",
-          "rush": false,
-          "firm": false,
-          "qty": 62,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24410456",
-          "shelf": "shelf under",
-          "sewout_reason": "approval needed"
-        },
-        {
           "visual_id": "76537",
           "invoice_id": "24557410",
           "nickname": "EMB - BEANIES - QTY 30",
@@ -401,6 +351,39 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24619290",
           "shelf": "shelf e2"
+        },
+        {
+          "visual_id": "74908",
+          "invoice_id": "24158075",
+          "nickname": "EMB-- Service Central Hoodies - 3 PCS",
+          "company": "SERVICE CENTRAL GLASS & DOOR",
+          "production_due": "2026-10-02",
+          "customer_due": "2026-10-02",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24158075",
+          "shelf": "shelf e5"
+        },
+        {
+          "visual_id": "75922",
+          "invoice_id": "24410456",
+          "nickname": "EMB- ST. CHARLES PARKS AND REC EMBROIDERED  AND DTF HATS -62PCS ",
+          "company": "CITY OF ST. CHARLES PARKS DEPT",
+          "production_due": "2026-10-02",
+          "customer_due": "2026-10-02",
+          "rush": false,
+          "firm": false,
+          "qty": 62,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24410456",
+          "shelf": "shelf under",
+          "sewout_reason": "approval needed"
         },
         {
           "visual_id": "76747",
@@ -468,6 +451,22 @@
           "shelf": "shelf 85"
         },
         {
+          "visual_id": "76888",
+          "invoice_id": "24648831",
+          "nickname": "EMB CRAIG AND SON EMBROIDERED CAPS",
+          "company": "Craig and Son Concrete",
+          "production_due": "2026-10-12",
+          "customer_due": "2026-10-12",
+          "rush": false,
+          "firm": false,
+          "qty": 48,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24648831",
+          "shelf": "shelf 94"
+        },
+        {
           "visual_id": "75887",
           "invoice_id": "24404198",
           "nickname": "EMB - AKWA Polos Western Reserve - 39 - PO #9937",
@@ -513,7 +512,7 @@
           "invoice_id": "24503582",
           "nickname": "EMB - Forge FR MFRRIPS UA Instructors - 55 PCS - PO #9939",
           "company": "ADTEK PROMOTIONS",
-          "production_due": "2026-09-25",
+          "production_due": "2026-09-26",
           "customer_due": "2026-09-28",
           "rush": false,
           "firm": false,
@@ -525,6 +524,25 @@
           "shelf": "shelf under",
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
+          "visual_id": "76603",
+          "invoice_id": "24573427",
+          "nickname": "EMB- CORRELL ROFFING CO- qty 3",
+          "company": "Correll roofing co ",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24573427",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "new art + approval needed",
           "blocker": "needed"
         },
         {
@@ -561,25 +579,6 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24580194",
           "shelf": "shelf e4",
-          "sewout_badge": "needed",
-          "sewout_reason": "new art + approval needed",
-          "blocker": "needed"
-        },
-        {
-          "visual_id": "76618",
-          "invoice_id": "24580253",
-          "nickname": "EMB -MAY Polos - QTY 6 ( 7 OF 9 )",
-          "company": "Automotive Service",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 6,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24580253",
-          "shelf": "shelf 85",
           "sewout_badge": "needed",
           "sewout_reason": "new art + approval needed",
           "blocker": "needed"
@@ -712,6 +711,25 @@
           "short_status": "Sewout sent",
           "url": "https://www.printavo.com/invoices/24528436",
           "shelf": "shelf 91",
+          "sewout_badge": "sent",
+          "sewout_reason": "new art + approval needed",
+          "blocker": "sent"
+        },
+        {
+          "visual_id": "76618",
+          "invoice_id": "24580253",
+          "nickname": "EMB -MAY Polos - QTY 6 ( 7 OF 9 )",
+          "company": "Automotive Service",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "338845",
+          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
+          "short_status": "Sewout sent",
+          "url": "https://www.printavo.com/invoices/24580253",
+          "shelf": "shelf 85",
           "sewout_badge": "sent",
           "sewout_reason": "new art + approval needed",
           "blocker": "sent"
@@ -852,22 +870,6 @@
           "shelf": "shelf end"
         },
         {
-          "visual_id": "76165",
-          "invoice_id": "24467042",
-          "nickname": "EMB- EMPIRE PIER- FLATS- 23 PCS",
-          "company": "",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 24,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24467042",
-          "shelf": "SHELF 89"
-        },
-        {
           "visual_id": "76423",
           "invoice_id": "24529217",
           "nickname": "EMB WILLIAM MURRAY ALL OVER GOLFER POLOS",
@@ -882,22 +884,6 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24529217",
           "shelf": "shelf 92"
-        },
-        {
-          "visual_id": "76561",
-          "invoice_id": "24564180",
-          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
-          "company": "Pike-Lincoln Technical Center",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-10-04",
-          "rush": false,
-          "firm": false,
-          "qty": 18,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24564180",
-          "shelf": "shelf 91"
         },
         {
           "visual_id": "76563",
@@ -916,6 +902,22 @@
           "shelf": "shelf 85"
         },
         {
+          "visual_id": "76165",
+          "invoice_id": "24467042",
+          "nickname": "EMB- EMPIRE PIER- FLATS- 23 PCS",
+          "company": "",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 24,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24467042",
+          "shelf": "SHELF 89"
+        },
+        {
           "visual_id": "76402",
           "invoice_id": "24521106",
           "nickname": "EMB - LEGRAND- 20 PCS",
@@ -925,12 +927,28 @@
           "rush": false,
           "firm": false,
           "qty": 20,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24521106",
           "shelf": "shelf 94",
           "sewout_badge": "approved"
+        },
+        {
+          "visual_id": "76561",
+          "invoice_id": "24564180",
+          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
+          "company": "Pike-Lincoln Technical Center",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-10-04",
+          "rush": false,
+          "firm": false,
+          "qty": 18,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24564180",
+          "shelf": "shelf 91"
         },
         {
           "visual_id": "76616",
@@ -965,9 +983,9 @@
   "sewout_breakdown": {
     "declined": 0,
     "needed": 9,
-    "sent": 3,
+    "sent": 4,
     "approved": 0,
-    "status_based": 3,
+    "status_based": 4,
     "override": 9
   }
 }
