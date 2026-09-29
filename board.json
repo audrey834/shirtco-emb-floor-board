@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-29 09:53:29 CDT",
+  "generated_at_ct": "2026-09-29 10:06:15 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -17,9 +17,9 @@
   "counts": {
     "ready_to_sew": 2,
     "needs_barcode": 20,
-    "sewout": 9,
+    "sewout": 10,
     "on_machine": 23,
-    "total": 54
+    "total": 55
   },
   "columns": {
     "ready_to_sew": {
@@ -487,6 +487,25 @@
           "blocker": "needed"
         },
         {
+          "visual_id": "76599",
+          "invoice_id": "24572393",
+          "nickname": "EMB - CPG- TONAL DIAGRAPH - 51 PCS",
+          "company": "Diagraph",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-10-01",
+          "rush": false,
+          "firm": false,
+          "qty": 51,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24572393",
+          "shelf": "shelf 95",
+          "sewout_badge": "needed",
+          "sewout_reason": "new art + approval needed",
+          "blocker": "needed"
+        },
+        {
           "visual_id": "76747",
           "invoice_id": "24615879",
           "nickname": "EMB - HAND LOGO HATS - QTY 12 (2 OF 2)",
@@ -705,9 +724,9 @@
           "rush": false,
           "firm": false,
           "qty": 1,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24499570",
           "shelf": "shelf 91"
         },
@@ -957,10 +976,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 6,
+    "needed": 7,
     "sent": 3,
     "approved": 0,
     "status_based": 3,
-    "override": 6
+    "override": 7
   }
 }
