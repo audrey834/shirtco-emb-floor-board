@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-29 15:42:19 CDT",
+  "generated_at_ct": "2026-09-29 15:48:39 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -19,8 +19,8 @@
     "ready_to_sew": 5,
     "needs_barcode": 24,
     "sewout": 15,
-    "on_machine": 14,
-    "total": 58
+    "on_machine": 13,
+    "total": 57
   },
   "columns": {
     "ready_to_sew": {
@@ -600,25 +600,6 @@
           "blocker": "needed"
         },
         {
-          "visual_id": "76620",
-          "invoice_id": "24580319",
-          "nickname": "EMB -H&S Polos - QTY 6 ( 9 OF 9)",
-          "company": "Automotive Service",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 6,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24580319",
-          "shelf": "shelf e4",
-          "sewout_badge": "needed",
-          "sewout_reason": "new art + approval needed",
-          "blocker": "needed"
-        },
-        {
           "visual_id": "76599",
           "invoice_id": "24572393",
           "nickname": "EMB - CPG- TONAL DIAGRAPH - 51 PCS",
@@ -787,6 +768,25 @@
           "sewout_badge": "sent",
           "sewout_reason": "new art + approval needed",
           "blocker": "sent"
+        },
+        {
+          "visual_id": "76620",
+          "invoice_id": "24580319",
+          "nickname": "EMB -H&S Polos - QTY 6 ( 9 OF 9)",
+          "company": "Automotive Service",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "338845",
+          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
+          "short_status": "Sewout sent",
+          "url": "https://www.printavo.com/invoices/24580319",
+          "shelf": "shelf e4",
+          "sewout_badge": "sent",
+          "sewout_reason": "new art + approval needed",
+          "blocker": "sent"
         }
       ]
     },
@@ -940,22 +940,6 @@
           "shelf": "shelf end"
         },
         {
-          "visual_id": "76423",
-          "invoice_id": "24529217",
-          "nickname": "EMB WILLIAM MURRAY ALL OVER GOLFER POLOS",
-          "company": "COMMERCIAL BANK",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-28",
-          "rush": false,
-          "firm": false,
-          "qty": 12,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24529217",
-          "shelf": "shelf 92"
-        },
-        {
           "visual_id": "76561",
           "invoice_id": "24564180",
           "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
@@ -1036,10 +1020,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 9,
-    "sent": 6,
+    "needed": 8,
+    "sent": 7,
     "approved": 0,
-    "status_based": 6,
-    "override": 9
+    "status_based": 7,
+    "override": 8
   }
 }
