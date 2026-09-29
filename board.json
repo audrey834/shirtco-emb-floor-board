@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-29 08:59:17 CDT",
+  "generated_at_ct": "2026-09-29 09:11:56 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -830,9 +830,9 @@
           "rush": false,
           "firm": false,
           "qty": 3,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24544064",
           "shelf": "shelf e3"
         },
