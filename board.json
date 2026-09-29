@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-29 11:48:58 CDT",
+  "generated_at_ct": "2026-09-29 12:02:11 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -15,16 +15,48 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 3,
-    "needs_barcode": 22,
+    "ready_to_sew": 5,
+    "needs_barcode": 23,
     "sewout": 12,
     "on_machine": 18,
-    "total": 55
+    "total": 58
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
       "cards": [
+        {
+          "visual_id": "76493",
+          "invoice_id": "24548025",
+          "nickname": "REPRINT - EMB - CENTRAL COUNTY FIRE - 66712 - REPLACEMENT COLE HENDERSON",
+          "company": "Central County Fire",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-21",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "272353",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - RUSH",
+          "short_status": "Goods here \u00b7 RUSH",
+          "url": "https://www.printavo.com/invoices/24548025",
+          "shelf": "shelf 91"
+        },
+        {
+          "visual_id": "76682",
+          "invoice_id": "24601090",
+          "nickname": "RESTITCH// EMB - McCluer High School HATS -1PC ",
+          "company": "McCluer High",
+          "production_due": "2026-09-25",
+          "customer_due": "2026-09-25",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "272353",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - RUSH",
+          "short_status": "Goods here \u00b7 RUSH",
+          "url": "https://www.printavo.com/invoices/24601090",
+          "shelf": "shelf e3"
+        },
         {
           "visual_id": "76876",
           "invoice_id": "24646028",
@@ -46,7 +78,7 @@
           "invoice_id": "24564180",
           "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
           "company": "Pike-Lincoln Technical Center",
-          "production_due": "2026-09-28",
+          "production_due": "2026-09-29",
           "customer_due": "2026-10-04",
           "rush": false,
           "firm": false,
@@ -254,6 +286,22 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24564630",
           "shelf": "shelf 92"
+        },
+        {
+          "visual_id": "76583",
+          "invoice_id": "24567946",
+          "nickname": "EMB - American Legion Post 312 NEW PLAYER PACKAGE 3OF4",
+          "company": "",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-10-02",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24567946",
+          "shelf": "shelf 91"
         },
         {
           "visual_id": "76621",
@@ -692,7 +740,7 @@
           "invoice_id": "24461666",
           "nickname": "EMB - PO60911207B - Infineon - 364PC",
           "company": "Kaeser & Blair, INC",
-          "production_due": "2026-09-18",
+          "production_due": "2026-09-19",
           "customer_due": "2026-09-29",
           "rush": false,
           "firm": false,
@@ -851,22 +899,6 @@
           "sewout_reason": "approval needed"
         },
         {
-          "visual_id": "76165",
-          "invoice_id": "24467042",
-          "nickname": "EMB- EMPIRE PIER- FLATS- 23 PCS",
-          "company": "",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 24,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24467042",
-          "shelf": "SHELF 89"
-        },
-        {
           "visual_id": "76423",
           "invoice_id": "24529217",
           "nickname": "EMB WILLIAM MURRAY ALL OVER GOLFER POLOS",
@@ -931,6 +963,22 @@
           "shelf": "shelf 90",
           "sewout_badge": "needed",
           "sewout_reason": "approval needed"
+        },
+        {
+          "visual_id": "76165",
+          "invoice_id": "24467042",
+          "nickname": "EMB- EMPIRE PIER- FLATS- 23 PCS",
+          "company": "",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 24,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24467042",
+          "shelf": "SHELF 89"
         },
         {
           "visual_id": "76402",
