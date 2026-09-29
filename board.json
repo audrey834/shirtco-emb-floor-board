@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-29 14:05:52 CDT",
+  "generated_at_ct": "2026-09-29 14:07:06 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -852,6 +852,22 @@
           "shelf": "shelf 91"
         },
         {
+          "visual_id": "76165",
+          "invoice_id": "24467042",
+          "nickname": "EMB- EMPIRE PIER- FLATS- 23 PCS",
+          "company": "",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 24,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24467042",
+          "shelf": "SHELF 89"
+        },
+        {
           "visual_id": "76423",
           "invoice_id": "24529217",
           "nickname": "EMB WILLIAM MURRAY ALL OVER GOLFER POLOS",
@@ -866,6 +882,22 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24529217",
           "shelf": "shelf 92"
+        },
+        {
+          "visual_id": "76561",
+          "invoice_id": "24564180",
+          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
+          "company": "Pike-Lincoln Technical Center",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-10-04",
+          "rush": false,
+          "firm": false,
+          "qty": 18,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24564180",
+          "shelf": "shelf 91"
         },
         {
           "visual_id": "76563",
@@ -884,22 +916,6 @@
           "shelf": "shelf 85"
         },
         {
-          "visual_id": "76165",
-          "invoice_id": "24467042",
-          "nickname": "EMB- EMPIRE PIER- FLATS- 23 PCS",
-          "company": "",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 24,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24467042",
-          "shelf": "SHELF 89"
-        },
-        {
           "visual_id": "76402",
           "invoice_id": "24521106",
           "nickname": "EMB - LEGRAND- 20 PCS",
@@ -915,22 +931,6 @@
           "url": "https://www.printavo.com/invoices/24521106",
           "shelf": "shelf 94",
           "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "76561",
-          "invoice_id": "24564180",
-          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
-          "company": "Pike-Lincoln Technical Center",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-10-04",
-          "rush": false,
-          "firm": false,
-          "qty": 18,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24564180",
-          "shelf": "shelf 91"
         },
         {
           "visual_id": "76616",
