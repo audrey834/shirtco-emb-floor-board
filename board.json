@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-29 13:13:00 CDT",
+  "generated_at_ct": "2026-09-29 13:17:04 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,8 +16,8 @@
   ],
   "counts": {
     "ready_to_sew": 3,
-    "needs_barcode": 24,
-    "sewout": 12,
+    "needs_barcode": 25,
+    "sewout": 11,
     "on_machine": 19,
     "total": 58
   },
@@ -402,6 +402,23 @@
           "shelf": "shelf e2"
         },
         {
+          "visual_id": "76747",
+          "invoice_id": "24615879",
+          "nickname": "EMB - HAND LOGO HATS - QTY 12 (2 OF 2)",
+          "company": "",
+          "production_due": "2026-10-02",
+          "customer_due": "2026-10-05",
+          "rush": false,
+          "firm": false,
+          "qty": 12,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24615879",
+          "shelf": "shelf 91",
+          "sewout_reason": "new art + approval needed"
+        },
+        {
           "visual_id": "76831",
           "invoice_id": "24634620",
           "nickname": "B299636 Transit Supervisors - Local 106 Apparel - Batched 09/28/2026 EMB - LC/LSLEEVE - COAT - NO UNION BUG - 48563 -  (1 of 1)",
@@ -619,25 +636,6 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24572393",
           "shelf": "shelf 95",
-          "sewout_badge": "needed",
-          "sewout_reason": "new art + approval needed",
-          "blocker": "needed"
-        },
-        {
-          "visual_id": "76747",
-          "invoice_id": "24615879",
-          "nickname": "EMB - HAND LOGO HATS - QTY 12 (2 OF 2)",
-          "company": "",
-          "production_due": "2026-10-02",
-          "customer_due": "2026-10-05",
-          "rush": false,
-          "firm": false,
-          "qty": 12,
-          "status_id": "466183",
-          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
-          "short_status": "DST+barcode \u00b7 no goods",
-          "url": "https://www.printavo.com/invoices/24615879",
-          "shelf": null,
           "sewout_badge": "needed",
           "sewout_reason": "new art + approval needed",
           "blocker": "needed"
@@ -917,22 +915,6 @@
           "sewout_reason": "approval needed"
         },
         {
-          "visual_id": "76165",
-          "invoice_id": "24467042",
-          "nickname": "EMB- EMPIRE PIER- FLATS- 23 PCS",
-          "company": "",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 24,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24467042",
-          "shelf": "SHELF 89"
-        },
-        {
           "visual_id": "76423",
           "invoice_id": "24529217",
           "nickname": "EMB WILLIAM MURRAY ALL OVER GOLFER POLOS",
@@ -979,6 +961,22 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24564189",
           "shelf": "shelf 85"
+        },
+        {
+          "visual_id": "76165",
+          "invoice_id": "24467042",
+          "nickname": "EMB- EMPIRE PIER- FLATS- 23 PCS",
+          "company": "",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 24,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24467042",
+          "shelf": "SHELF 89"
         },
         {
           "visual_id": "76402",
@@ -1029,10 +1027,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 9,
+    "needed": 8,
     "sent": 3,
     "approved": 0,
     "status_based": 3,
-    "override": 9
+    "override": 8
   }
 }
