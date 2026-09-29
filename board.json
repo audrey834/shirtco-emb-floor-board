@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-29 10:06:15 CDT",
+  "generated_at_ct": "2026-09-29 10:20:25 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -18,8 +18,8 @@
     "ready_to_sew": 2,
     "needs_barcode": 20,
     "sewout": 10,
-    "on_machine": 23,
-    "total": 55
+    "on_machine": 22,
+    "total": 54
   },
   "columns": {
     "ready_to_sew": {
@@ -30,7 +30,7 @@
           "invoice_id": "24564180",
           "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
           "company": "Pike-Lincoln Technical Center",
-          "production_due": "2026-09-28",
+          "production_due": "2026-09-29",
           "customer_due": "2026-10-04",
           "rush": false,
           "firm": false,
@@ -109,22 +109,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24562722",
           "shelf": "shelf 85"
-        },
-        {
-          "visual_id": "76562",
-          "invoice_id": "24564187",
-          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC/HAT-CIRCLE LOGO-75507 - (5 of 6)",
-          "company": "Pike-Lincoln Technical Center",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-10-04",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24564187",
-          "shelf": "shelf e3"
         },
         {
           "visual_id": "76565",
@@ -206,6 +190,22 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24586507",
           "shelf": "shelf e4"
+        },
+        {
+          "visual_id": "76562",
+          "invoice_id": "24564187",
+          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC/HAT-CIRCLE LOGO-75507 - (5 of 6)",
+          "company": "Pike-Lincoln Technical Center",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-10-04",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24564187",
+          "shelf": "shelf e3"
         },
         {
           "visual_id": "76564",
@@ -682,22 +682,6 @@
           "shelf": "shelf 95"
         },
         {
-          "visual_id": "76488",
-          "invoice_id": "24547794",
-          "nickname": "B369673 Pike County Ambulance Apparel 2025 - Batched 09/21/2026 EMB-  PIKE COUNTY AMB. - UNION  - NAVY/GREY GARMENTS - 60250 -  (1 of 1)",
-          "company": "Pike County Ambulance",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 6,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24547794",
-          "shelf": "shelf 85"
-        },
-        {
           "visual_id": "75737",
           "invoice_id": "24366849",
           "nickname": "EMB - PO26090403 - Maintenance Hoodies - 126PC",
@@ -756,11 +740,27 @@
           "rush": false,
           "firm": false,
           "qty": 3,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24535216",
           "shelf": "shelf e2"
+        },
+        {
+          "visual_id": "76488",
+          "invoice_id": "24547794",
+          "nickname": "B369673 Pike County Ambulance Apparel 2025 - Batched 09/21/2026 EMB-  PIKE COUNTY AMB. - UNION  - NAVY/GREY GARMENTS - 60250 -  (1 of 1)",
+          "company": "Pike County Ambulance",
+          "production_due": "2026-09-25",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24547794",
+          "shelf": "shelf 85"
         },
         {
           "visual_id": "76510",
@@ -812,22 +812,6 @@
           "shelf": "SHELF 93",
           "sewout_badge": "needed",
           "sewout_reason": "approval needed"
-        },
-        {
-          "visual_id": "76165",
-          "invoice_id": "24467042",
-          "nickname": "EMB- EMPIRE PIER- FLATS- 23 PCS",
-          "company": "",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 24,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24467042",
-          "shelf": "SHELF 89"
         },
         {
           "visual_id": "76423",
@@ -894,22 +878,6 @@
           "shelf": "shelf 85"
         },
         {
-          "visual_id": "76570",
-          "invoice_id": "24565851",
-          "nickname": "EMB - TOTAL TINTING  - QTY 5",
-          "company": "Total Customs & Tinting",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 5,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24565851",
-          "shelf": "shelf e3"
-        },
-        {
           "visual_id": "76841",
           "invoice_id": "24635834",
           "nickname": "EMB - STERLING AURA - 6 PIECES",
@@ -926,6 +894,22 @@
           "shelf": "shelf 90",
           "sewout_badge": "needed",
           "sewout_reason": "approval needed"
+        },
+        {
+          "visual_id": "76165",
+          "invoice_id": "24467042",
+          "nickname": "EMB- EMPIRE PIER- FLATS- 23 PCS",
+          "company": "",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 24,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24467042",
+          "shelf": "SHELF 89"
         },
         {
           "visual_id": "76402",
