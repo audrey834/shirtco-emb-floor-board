@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-29 12:59:12 CDT",
+  "generated_at_ct": "2026-09-29 13:02:34 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -18,8 +18,8 @@
     "ready_to_sew": 3,
     "needs_barcode": 24,
     "sewout": 11,
-    "on_machine": 21,
-    "total": 59
+    "on_machine": 20,
+    "total": 58
   },
   "columns": {
     "ready_to_sew": {
@@ -46,7 +46,7 @@
           "invoice_id": "24564180",
           "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
           "company": "Pike-Lincoln Technical Center",
-          "production_due": "2026-09-29",
+          "production_due": "2026-09-28",
           "customer_due": "2026-10-04",
           "rush": false,
           "firm": false,
@@ -846,22 +846,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24519376",
           "shelf": "shelf 93"
-        },
-        {
-          "visual_id": "76440",
-          "invoice_id": "24535216",
-          "nickname": "EMB - Cottleville Fire Marshal polos RANK/NAME- 3pc",
-          "company": "Cottleville Fire",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-09-28",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24535216",
-          "shelf": "shelf e2"
         },
         {
           "visual_id": "76546",
