@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-29 14:52:27 CDT",
+  "generated_at_ct": "2026-09-29 14:59:04 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,11 +16,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 4,
+    "ready_to_sew": 5,
     "needs_barcode": 24,
     "sewout": 13,
     "on_machine": 14,
-    "total": 55
+    "total": 56
   },
   "columns": {
     "ready_to_sew": {
@@ -89,6 +89,22 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24618576",
           "shelf": "shelf 94"
+        },
+        {
+          "visual_id": "76794",
+          "invoice_id": "24624039",
+          "nickname": "EMB COACHES POLOS ROYAL BLUE NIKE",
+          "company": "BALLWIN LEGION",
+          "production_due": "2026-10-05",
+          "customer_due": "2026-10-05",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24624039",
+          "shelf": "shelf e1"
         }
       ]
     },
