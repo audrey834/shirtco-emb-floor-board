@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-29 14:11:41 CDT",
+  "generated_at_ct": "2026-09-29 14:16:58 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,10 +16,10 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 2,
-    "needs_barcode": 25,
+    "ready_to_sew": 4,
+    "needs_barcode": 24,
     "sewout": 12,
-    "on_machine": 15,
+    "on_machine": 14,
     "total": 54
   },
   "columns": {
@@ -41,6 +41,38 @@
           "short_status": "Goods here \u00b7 RUSH",
           "url": "https://www.printavo.com/invoices/24646028",
           "shelf": "shelf e3"
+        },
+        {
+          "visual_id": "76554",
+          "invoice_id": "24562722",
+          "nickname": "B319184 Noroton Fire Department - Batched 09/21/2026 EMB - BAG - 65852 -  (1 of 1)",
+          "company": "Noroton Fire Department",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-10-05",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24562722",
+          "shelf": "shelf 85"
+        },
+        {
+          "visual_id": "76649",
+          "invoice_id": "24586507",
+          "nickname": "REPRINT - EMB - ST. CHARLES CITY FIRE DEPT - UNION - RC RANK BRUSH - 1 OF 2",
+          "company": "",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24586507",
+          "shelf": "shelf e4"
         },
         {
           "visual_id": "76763",
@@ -96,20 +128,20 @@
           "shelf": "shelf e5"
         },
         {
-          "visual_id": "76554",
-          "invoice_id": "24562722",
-          "nickname": "B319184 Noroton Fire Department - Batched 09/21/2026 EMB - BAG - 65852 -  (1 of 1)",
-          "company": "Noroton Fire Department",
+          "visual_id": "76464",
+          "invoice_id": "24544060",
+          "nickname": "B369647 Maryland Heights Fire 2026 - Batched 09/21/2026 EMB - LC/RC- GOLD OUTLINE RANK/NAME- 53565 -  (8 of 10)",
+          "company": "Maryland Heights Fire Department",
           "production_due": "2026-09-28",
           "customer_due": "2026-10-05",
           "rush": false,
           "firm": false,
-          "qty": 1,
+          "qty": 3,
           "status_id": "462838",
           "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
           "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24562722",
-          "shelf": "shelf 85"
+          "url": "https://www.printavo.com/invoices/24544060",
+          "shelf": "shelf 91"
         },
         {
           "visual_id": "76562",
@@ -191,22 +223,6 @@
           "url": "https://www.printavo.com/invoices/24573427",
           "shelf": null,
           "sewout_reason": "new art + approval needed"
-        },
-        {
-          "visual_id": "76649",
-          "invoice_id": "24586507",
-          "nickname": "REPRINT - EMB - ST. CHARLES CITY FIRE DEPT - UNION - RC RANK BRUSH - 1 OF 2",
-          "company": "",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24586507",
-          "shelf": "shelf e4"
         },
         {
           "visual_id": "76564",
@@ -321,39 +337,6 @@
           "shelf": "shelf 91"
         },
         {
-          "visual_id": "74908",
-          "invoice_id": "24158075",
-          "nickname": "EMB-- Service Central Hoodies - 3 PCS",
-          "company": "SERVICE CENTRAL GLASS & DOOR",
-          "production_due": "2026-10-01",
-          "customer_due": "2026-10-02",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24158075",
-          "shelf": "shelf e5"
-        },
-        {
-          "visual_id": "75922",
-          "invoice_id": "24410456",
-          "nickname": "EMB- ST. CHARLES PARKS AND REC EMBROIDERED  AND DTF HATS -62PCS ",
-          "company": "CITY OF ST. CHARLES PARKS DEPT",
-          "production_due": "2026-10-01",
-          "customer_due": "2026-10-02",
-          "rush": false,
-          "firm": false,
-          "qty": 62,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24410456",
-          "shelf": "shelf under",
-          "sewout_reason": "approval needed"
-        },
-        {
           "visual_id": "76537",
           "invoice_id": "24557410",
           "nickname": "EMB - BEANIES - QTY 30",
@@ -385,6 +368,39 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24619290",
           "shelf": "shelf e2"
+        },
+        {
+          "visual_id": "74908",
+          "invoice_id": "24158075",
+          "nickname": "EMB-- Service Central Hoodies - 3 PCS",
+          "company": "SERVICE CENTRAL GLASS & DOOR",
+          "production_due": "2026-10-02",
+          "customer_due": "2026-10-02",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24158075",
+          "shelf": "shelf e5"
+        },
+        {
+          "visual_id": "75922",
+          "invoice_id": "24410456",
+          "nickname": "EMB- ST. CHARLES PARKS AND REC EMBROIDERED  AND DTF HATS -62PCS ",
+          "company": "CITY OF ST. CHARLES PARKS DEPT",
+          "production_due": "2026-10-02",
+          "customer_due": "2026-10-02",
+          "rush": false,
+          "firm": false,
+          "qty": 62,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24410456",
+          "shelf": "shelf under",
+          "sewout_reason": "approval needed"
         },
         {
           "visual_id": "76747",
@@ -722,24 +738,6 @@
           "shelf": "shelf 91"
         },
         {
-          "visual_id": "76655",
-          "invoice_id": "24591673",
-          "nickname": "RESTITCH - EMB - Cottleville Fire 1/4zip and polo - 4pc",
-          "company": "Cottleville Fire",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-24",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "272351",
-          "status_name": "EMB - STAGED - RUSH",
-          "short_status": "Staged \u00b7 RUSH",
-          "url": "https://www.printavo.com/invoices/24591673",
-          "shelf": "shelf e1",
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed"
-        },
-        {
           "visual_id": "76682",
           "invoice_id": "24601090",
           "nickname": "RESTITCH// EMB - McCluer High School HATS -1PC ",
@@ -804,6 +802,24 @@
           "shelf": "shelf 92"
         },
         {
+          "visual_id": "76655",
+          "invoice_id": "24591673",
+          "nickname": "RESTITCH - EMB - Cottleville Fire 1/4zip and polo - 4pc",
+          "company": "Cottleville Fire",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-24",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24591673",
+          "shelf": "shelf e1",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed"
+        },
+        {
           "visual_id": "76394",
           "invoice_id": "24519376",
           "nickname": "EMB-MU-25 PCS",
@@ -836,38 +852,6 @@
           "shelf": "shelf end"
         },
         {
-          "visual_id": "76549",
-          "invoice_id": "24559410",
-          "nickname": "EMB - PO32781-2 - Choate - 6PC",
-          "company": "BRANDFUSE",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-10-06",
-          "rush": false,
-          "firm": false,
-          "qty": 6,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24559410",
-          "shelf": "shelf 91"
-        },
-        {
-          "visual_id": "76165",
-          "invoice_id": "24467042",
-          "nickname": "EMB- EMPIRE PIER- FLATS- 23 PCS",
-          "company": "",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 24,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24467042",
-          "shelf": "SHELF 89"
-        },
-        {
           "visual_id": "76423",
           "invoice_id": "24529217",
           "nickname": "EMB WILLIAM MURRAY ALL OVER GOLFER POLOS",
@@ -882,22 +866,6 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24529217",
           "shelf": "shelf 92"
-        },
-        {
-          "visual_id": "76561",
-          "invoice_id": "24564180",
-          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
-          "company": "Pike-Lincoln Technical Center",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-10-04",
-          "rush": false,
-          "firm": false,
-          "qty": 18,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24564180",
-          "shelf": "shelf 91"
         },
         {
           "visual_id": "76563",
@@ -916,6 +884,22 @@
           "shelf": "shelf 85"
         },
         {
+          "visual_id": "76165",
+          "invoice_id": "24467042",
+          "nickname": "EMB- EMPIRE PIER- FLATS- 23 PCS",
+          "company": "",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 24,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24467042",
+          "shelf": "SHELF 89"
+        },
+        {
           "visual_id": "76402",
           "invoice_id": "24521106",
           "nickname": "EMB - LEGRAND- 20 PCS",
@@ -931,6 +915,22 @@
           "url": "https://www.printavo.com/invoices/24521106",
           "shelf": "shelf 94",
           "sewout_badge": "approved"
+        },
+        {
+          "visual_id": "76561",
+          "invoice_id": "24564180",
+          "nickname": "629716 Pike-Lincoln Technical Center EMB-LC-DARK GARMENTS-75507 - (4 of 6)",
+          "company": "Pike-Lincoln Technical Center",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-10-04",
+          "rush": false,
+          "firm": false,
+          "qty": 18,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24564180",
+          "shelf": "shelf 91"
         },
         {
           "visual_id": "76616",
