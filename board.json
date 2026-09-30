@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-30 14:21:08 CDT",
+  "generated_at_ct": "2026-09-30 14:29:51 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -19,8 +19,8 @@
     "ready_to_sew": 8,
     "needs_barcode": 20,
     "sewout": 3,
-    "on_machine": 21,
-    "total": 52
+    "on_machine": 20,
+    "total": 51
   },
   "columns": {
     "ready_to_sew": {
@@ -685,22 +685,6 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24544060",
           "shelf": "shelf 91"
-        },
-        {
-          "visual_id": "76518",
-          "invoice_id": "24552148",
-          "nickname": "EMB  Monroe Glo Dietrich  9/05/2026 5lbs 9oz",
-          "company": "Heartland Coca Cola Angie Fumagalli",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-28",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24552148",
-          "shelf": null
         },
         {
           "visual_id": "76562",
