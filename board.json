@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-30 14:43:55 CDT",
+  "generated_at_ct": "2026-09-30 14:49:45 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -18,9 +18,9 @@
   "counts": {
     "ready_to_sew": 8,
     "needs_barcode": 20,
-    "sewout": 3,
+    "sewout": 4,
     "on_machine": 19,
-    "total": 50
+    "total": 51
   },
   "columns": {
     "ready_to_sew": {
@@ -511,6 +511,24 @@
           "blocker": "needed"
         },
         {
+          "visual_id": "73544",
+          "invoice_id": "23816348",
+          "nickname": "SCRN/DTF - Shirt Co, Hat Co, Dtfs.co Employee Shirts - 224 pc",
+          "company": "Connor mcdonnell the last test account",
+          "production_due": "2026-08-18",
+          "customer_due": "2026-08-18",
+          "rush": false,
+          "firm": false,
+          "qty": 224,
+          "status_id": "338845",
+          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
+          "short_status": "Sewout sent",
+          "url": "https://www.printavo.com/invoices/23816348",
+          "shelf": null,
+          "sewout_badge": "sent",
+          "blocker": "sent"
+        },
+        {
           "visual_id": "76421",
           "invoice_id": "24528436",
           "nickname": "EMB -  HATS - QTY 12 (2 OF 2)",
@@ -882,9 +900,9 @@
   "sewout_breakdown": {
     "declined": 0,
     "needed": 1,
-    "sent": 2,
+    "sent": 3,
     "approved": 0,
-    "status_based": 2,
+    "status_based": 3,
     "override": 1
   }
 }
