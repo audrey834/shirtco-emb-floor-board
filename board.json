@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-30 11:02:47 CDT",
+  "generated_at_ct": "2026-09-30 11:08:27 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -17,9 +17,9 @@
   ],
   "counts": {
     "ready_to_sew": 5,
-    "needs_barcode": 27,
+    "needs_barcode": 26,
     "sewout": 10,
-    "on_machine": 19,
+    "on_machine": 20,
     "total": 61
   },
   "columns": {
@@ -224,22 +224,6 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24564187",
           "shelf": "shelf e3"
-        },
-        {
-          "visual_id": "76565",
-          "invoice_id": "24564673",
-          "nickname": "EMB - NUMBERS ON BACK OF HATS - QTY 4",
-          "company": "Scotty Apparel",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 6,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24564673",
-          "shelf": null
         },
         {
           "visual_id": "76576",
@@ -573,25 +557,6 @@
           "blocker": "needed"
         },
         {
-          "visual_id": "76617",
-          "invoice_id": "24580194",
-          "nickname": "EMB - MILES GARAGE POLOS - QTY 6 ( 6 OF 9)",
-          "company": "Automotive Service",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 6,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24580194",
-          "shelf": "shelf e4",
-          "sewout_badge": "needed",
-          "sewout_reason": "new art + approval needed",
-          "blocker": "needed"
-        },
-        {
           "visual_id": "76670",
           "invoice_id": "24595242",
           "nickname": "EMB - PO60922181B - Infineon - 118PC",
@@ -724,6 +689,25 @@
           "blocker": "sent"
         },
         {
+          "visual_id": "76617",
+          "invoice_id": "24580194",
+          "nickname": "EMB - MILES GARAGE POLOS - QTY 6 ( 6 OF 9)",
+          "company": "Automotive Service",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "338845",
+          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
+          "short_status": "Sewout sent",
+          "url": "https://www.printavo.com/invoices/24580194",
+          "shelf": "shelf e4",
+          "sewout_badge": "sent",
+          "sewout_reason": "new art + approval needed",
+          "blocker": "sent"
+        },
+        {
           "visual_id": "76747",
           "invoice_id": "24615879",
           "nickname": "EMB - HAND LOGO HATS - QTY 12 (2 OF 2)",
@@ -747,22 +731,6 @@
     "on_machine": {
       "title": "On machine",
       "cards": [
-        {
-          "visual_id": "76493",
-          "invoice_id": "24548025",
-          "nickname": "REPRINT - EMB - CENTRAL COUNTY FIRE - 66712 - REPLACEMENT COLE HENDERSON",
-          "company": "Central County Fire",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-21",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "272351",
-          "status_name": "EMB - STAGED - RUSH",
-          "short_status": "Staged \u00b7 RUSH",
-          "url": "https://www.printavo.com/invoices/24548025",
-          "shelf": "shelf 91"
-        },
         {
           "visual_id": "76682",
           "invoice_id": "24601090",
@@ -794,6 +762,22 @@
           "short_status": "Staged \u00b7 RUSH",
           "url": "https://www.printavo.com/invoices/24646028",
           "shelf": "shelf e3"
+        },
+        {
+          "visual_id": "76493",
+          "invoice_id": "24548025",
+          "nickname": "REPRINT - EMB - CENTRAL COUNTY FIRE - 66712 - REPLACEMENT COLE HENDERSON",
+          "company": "Central County Fire",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-21",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24548025",
+          "shelf": "shelf 91"
         },
         {
           "visual_id": "76313",
@@ -923,6 +907,22 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24564189",
           "shelf": "shelf 85"
+        },
+        {
+          "visual_id": "76565",
+          "invoice_id": "24564673",
+          "nickname": "EMB - NUMBERS ON BACK OF HATS - QTY 4",
+          "company": "Scotty Apparel",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24564673",
+          "shelf": null
         },
         {
           "visual_id": "76603",
@@ -1073,10 +1073,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 6,
-    "sent": 4,
+    "needed": 5,
+    "sent": 5,
     "approved": 0,
-    "status_based": 4,
-    "override": 6
+    "status_based": 5,
+    "override": 5
   }
 }
