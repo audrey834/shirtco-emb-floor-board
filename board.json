@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-30 14:29:51 CDT",
+  "generated_at_ct": "2026-09-30 14:35:40 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -19,8 +19,8 @@
     "ready_to_sew": 8,
     "needs_barcode": 20,
     "sewout": 3,
-    "on_machine": 20,
-    "total": 51
+    "on_machine": 19,
+    "total": 50
   },
   "columns": {
     "ready_to_sew": {
@@ -712,9 +712,9 @@
           "rush": false,
           "firm": false,
           "qty": 6,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24564673",
           "shelf": null
         },
@@ -767,24 +767,6 @@
           "url": "https://www.printavo.com/invoices/24521106",
           "shelf": "shelf 94",
           "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "76529",
-          "invoice_id": "24554758",
-          "nickname": "EMB - ECS Decorate Only - 2pc",
-          "company": "ECS Corrosion",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24554758",
-          "shelf": null,
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed"
         },
         {
           "visual_id": "76564",
