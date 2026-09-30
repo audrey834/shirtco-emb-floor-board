@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-09-30 10:23:57 CDT",
+  "generated_at_ct": "2026-09-30 10:30:43 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 74576, 75737, 75887, 76402, 76598, 76618, 76619, 76620, 76748",
+    "Printavo Sewout AR approved: 74555, 74576, 75737, 75887, 76402, 76598, 76599, 76618, 76619, 76620, 76748",
     "76899: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76748: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76691: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -18,9 +18,9 @@
   "counts": {
     "ready_to_sew": 5,
     "needs_barcode": 28,
-    "sewout": 10,
+    "sewout": 9,
     "on_machine": 19,
-    "total": 62
+    "total": 61
   },
   "columns": {
     "ready_to_sew": {
@@ -43,20 +43,21 @@
           "shelf": null
         },
         {
-          "visual_id": "76671",
-          "invoice_id": "24595561",
-          "nickname": "EMB VISORS AND CAPS RR KNUCKLES LOGO ",
-          "company": "Longshot Marina",
+          "visual_id": "76599",
+          "invoice_id": "24572393",
+          "nickname": "EMB - CPG- TONAL DIAGRAPH - 51 PCS",
+          "company": "Diagraph",
           "production_due": "2026-09-30",
           "customer_due": "2026-10-01",
           "rush": false,
           "firm": false,
-          "qty": 31,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24595561",
-          "shelf": "shelf 89"
+          "qty": 51,
+          "status_id": "338846",
+          "status_name": "EMB - SEWOUT APPROVED",
+          "short_status": "Sewout approved",
+          "url": "https://www.printavo.com/invoices/24572393",
+          "shelf": "shelf 95",
+          "sewout_badge": "approved"
         },
         {
           "visual_id": "76763",
@@ -738,25 +739,6 @@
           "sewout_badge": "sent",
           "sewout_reason": "new art + approval needed",
           "blocker": "sent"
-        },
-        {
-          "visual_id": "76599",
-          "invoice_id": "24572393",
-          "nickname": "EMB - CPG- TONAL DIAGRAPH - 51 PCS",
-          "company": "Diagraph",
-          "production_due": "2026-09-30",
-          "customer_due": "2026-10-01",
-          "rush": false,
-          "firm": false,
-          "qty": 51,
-          "status_id": "338845",
-          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
-          "short_status": "Sewout sent",
-          "url": "https://www.printavo.com/invoices/24572393",
-          "shelf": "shelf 95",
-          "sewout_badge": "sent",
-          "sewout_reason": "new art + approval needed",
-          "blocker": "sent"
         }
       ]
     },
@@ -943,22 +925,6 @@
           "sewout_reason": "new art + approval needed"
         },
         {
-          "visual_id": "76649",
-          "invoice_id": "24586507",
-          "nickname": "REPRINT - EMB - ST. CHARLES CITY FIRE DEPT - UNION - RC RANK BRUSH - 1 OF 2",
-          "company": "",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24586507",
-          "shelf": "shelf e4"
-        },
-        {
           "visual_id": "74576",
           "invoice_id": "24091111",
           "nickname": "EMB - AUTOMOTIVE MANAGEMENT POLOS- QTY 16 (5 OF 9)",
@@ -1060,6 +1026,22 @@
           "sewout_badge": "approved"
         },
         {
+          "visual_id": "76671",
+          "invoice_id": "24595561",
+          "nickname": "EMB VISORS AND CAPS RR KNUCKLES LOGO ",
+          "company": "Longshot Marina",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-10-01",
+          "rush": false,
+          "firm": false,
+          "qty": 31,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24595561",
+          "shelf": "shelf 89"
+        },
+        {
           "visual_id": "76711",
           "invoice_id": "24607472",
           "nickname": "EMB/ E0940W  / VW/  6PCS ",
@@ -1090,9 +1072,9 @@
   "sewout_breakdown": {
     "declined": 0,
     "needed": 7,
-    "sent": 3,
+    "sent": 2,
     "approved": 0,
-    "status_based": 3,
+    "status_based": 2,
     "override": 7
   }
 }
