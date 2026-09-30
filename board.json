@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-30 08:42:39 CDT",
+  "generated_at_ct": "2026-09-30 08:51:46 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -8,6 +8,7 @@
     "76899: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76748: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76697: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
+    "76691: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76608: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "75737: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "74555: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -16,16 +17,32 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 4,
+    "ready_to_sew": 5,
     "needs_barcode": 24,
     "sewout": 10,
     "on_machine": 22,
-    "total": 60
+    "total": 61
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
       "cards": [
+        {
+          "visual_id": "76635",
+          "invoice_id": "24584362",
+          "nickname": "Grant Kelly Henderson 9/13/2026 7lbs 8oz",
+          "company": "Heartland Coca Cola Angie Fumagalli",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-23",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24584362",
+          "shelf": null
+        },
         {
           "visual_id": "76671",
           "invoice_id": "24595561",
