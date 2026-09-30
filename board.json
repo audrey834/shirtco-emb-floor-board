@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-30 11:34:54 CDT",
+  "generated_at_ct": "2026-09-30 11:39:41 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -17,10 +17,10 @@
   ],
   "counts": {
     "ready_to_sew": 6,
-    "needs_barcode": 27,
+    "needs_barcode": 26,
     "sewout": 9,
     "on_machine": 16,
-    "total": 58
+    "total": 57
   },
   "columns": {
     "ready_to_sew": {
@@ -129,23 +129,6 @@
     "needs_barcode": {
       "title": "Needs barcode",
       "cards": [
-        {
-          "visual_id": "75990",
-          "invoice_id": "24425843",
-          "nickname": "DTF/EMB - BOEING TEAM POLOS - QTY 10 (2 of 2)",
-          "company": "BOEING",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 10,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24425843",
-          "shelf": "shelf 127",
-          "sewout_reason": "approval needed"
-        },
         {
           "visual_id": "76457",
           "invoice_id": "24544043",
@@ -648,25 +631,6 @@
           "blocker": "needed"
         },
         {
-          "visual_id": "76869",
-          "invoice_id": "24641611",
-          "nickname": "EMB - PO2005184 - Clune - 40PC",
-          "company": "All Things Swag",
-          "production_due": "2026-10-02",
-          "customer_due": "2026-10-06",
-          "rush": false,
-          "firm": false,
-          "qty": 41,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24641611",
-          "shelf": "shelf 92",
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed",
-          "blocker": "needed"
-        },
-        {
           "visual_id": "76209",
           "invoice_id": "24486102",
           "nickname": "EMB",
@@ -739,6 +703,25 @@
           "shelf": "shelf 91",
           "sewout_badge": "sent",
           "sewout_reason": "new art + approval needed",
+          "blocker": "sent"
+        },
+        {
+          "visual_id": "76869",
+          "invoice_id": "24641611",
+          "nickname": "EMB - PO2005184 - Clune - 40PC",
+          "company": "All Things Swag",
+          "production_due": "2026-10-02",
+          "customer_due": "2026-10-06",
+          "rush": false,
+          "firm": false,
+          "qty": 41,
+          "status_id": "338845",
+          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
+          "short_status": "Sewout sent",
+          "url": "https://www.printavo.com/invoices/24641611",
+          "shelf": "shelf 92",
+          "sewout_badge": "sent",
+          "sewout_reason": "approval needed",
           "blocker": "sent"
         }
       ]
@@ -1024,10 +1007,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 5,
-    "sent": 4,
+    "needed": 4,
+    "sent": 5,
     "approved": 0,
-    "status_based": 4,
-    "override": 5
+    "status_based": 5,
+    "override": 4
   }
 }
