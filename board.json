@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-30 11:18:32 CDT",
+  "generated_at_ct": "2026-09-30 11:25:39 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -17,10 +17,10 @@
   ],
   "counts": {
     "ready_to_sew": 6,
-    "needs_barcode": 25,
-    "sewout": 10,
+    "needs_barcode": 27,
+    "sewout": 9,
     "on_machine": 19,
-    "total": 60
+    "total": 61
   },
   "columns": {
     "ready_to_sew": {
@@ -129,6 +129,23 @@
     "needs_barcode": {
       "title": "Needs barcode",
       "cards": [
+        {
+          "visual_id": "75990",
+          "invoice_id": "24425843",
+          "nickname": "DTF/EMB - BOEING TEAM POLOS - QTY 10 (2 of 2)",
+          "company": "BOEING",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-25",
+          "rush": false,
+          "firm": false,
+          "qty": 10,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24425843",
+          "shelf": "shelf 127",
+          "sewout_reason": "approval needed"
+        },
         {
           "visual_id": "76457",
           "invoice_id": "24544043",
@@ -256,6 +273,23 @@
           "short_status": "Needs barcode",
           "url": "https://www.printavo.com/invoices/24566888",
           "shelf": null
+        },
+        {
+          "visual_id": "76529",
+          "invoice_id": "24554758",
+          "nickname": "EMB - ECS Decorate Only - 2pc",
+          "company": "ECS Corrosion",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24554758",
+          "shelf": null,
+          "sewout_reason": "approval needed"
         },
         {
           "visual_id": "76564",
@@ -537,25 +571,6 @@
     "sewout": {
       "title": "Sewout",
       "cards": [
-        {
-          "visual_id": "75990",
-          "invoice_id": "24425843",
-          "nickname": "DTF/EMB - BOEING TEAM POLOS - QTY 10 (2 of 2)",
-          "company": "BOEING",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 10,
-          "status_id": "466183",
-          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
-          "short_status": "DST+barcode \u00b7 no goods",
-          "url": "https://www.printavo.com/invoices/24425843",
-          "shelf": "shelf 127",
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed",
-          "blocker": "needed"
-        },
         {
           "visual_id": "76164",
           "invoice_id": "24466800",
@@ -1057,10 +1072,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 6,
+    "needed": 5,
     "sent": 4,
     "approved": 0,
     "status_based": 4,
-    "override": 6
+    "override": 5
   }
 }
