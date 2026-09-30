@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-09-30 14:49:45 CDT",
+  "generated_at_ct": "2026-09-30 14:53:56 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 74576, 75737, 75887, 76290, 76402, 76598, 76599, 76617, 76618, 76747, 76748",
+    "Printavo Sewout AR approved: 74555, 74576, 75737, 75887, 76290, 76402, 76598, 76599, 76617, 76618, 76747",
     "76899: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76691: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76608: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -19,8 +19,8 @@
     "ready_to_sew": 8,
     "needs_barcode": 20,
     "sewout": 4,
-    "on_machine": 19,
-    "total": 51
+    "on_machine": 18,
+    "total": 50
   },
   "columns": {
     "ready_to_sew": {
@@ -845,9 +845,9 @@
           "rush": false,
           "firm": false,
           "qty": 6,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24580253",
           "shelf": "shelf 85",
           "sewout_badge": "approved"
@@ -867,23 +867,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24595561",
           "shelf": "shelf 89"
-        },
-        {
-          "visual_id": "76748",
-          "invoice_id": "24616296",
-          "nickname": "RUSH EMB - Amdahl.ai  Hats - QTY 48",
-          "company": "Amdahl.ai",
-          "production_due": "2026-09-30",
-          "customer_due": "2026-10-03",
-          "rush": false,
-          "firm": false,
-          "qty": 48,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24616296",
-          "shelf": null,
-          "sewout_badge": "approved"
         }
       ]
     }
