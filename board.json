@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-30 12:36:45 CDT",
+  "generated_at_ct": "2026-09-30 12:43:43 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -18,8 +18,8 @@
   ],
   "counts": {
     "ready_to_sew": 12,
-    "needs_barcode": 20,
-    "sewout": 8,
+    "needs_barcode": 19,
+    "sewout": 9,
     "on_machine": 20,
     "total": 60
   },
@@ -226,23 +226,6 @@
     "needs_barcode": {
       "title": "Needs barcode",
       "cards": [
-        {
-          "visual_id": "76529",
-          "invoice_id": "24554758",
-          "nickname": "EMB - ECS Decorate Only - 2pc",
-          "company": "ECS Corrosion",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24554758",
-          "shelf": null,
-          "sewout_reason": "approval needed"
-        },
         {
           "visual_id": "76621",
           "invoice_id": "24581908",
@@ -571,6 +554,25 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24466800",
           "shelf": "shelf 93",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
+          "visual_id": "76529",
+          "invoice_id": "24554758",
+          "nickname": "EMB - ECS Decorate Only - 2pc",
+          "company": "ECS Corrosion",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-09-30",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24554758",
+          "shelf": null,
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
           "blocker": "needed"
@@ -1056,10 +1058,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 3,
+    "needed": 4,
     "sent": 5,
     "approved": 0,
     "status_based": 5,
-    "override": 3
+    "override": 4
   }
 }
