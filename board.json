@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-01 12:12:53 CDT",
+  "generated_at_ct": "2026-10-01 12:20:11 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -18,8 +18,8 @@
     "ready_to_sew": 6,
     "needs_barcode": 10,
     "sewout": 8,
-    "on_machine": 11,
-    "total": 35
+    "on_machine": 10,
+    "total": 34
   },
   "columns": {
     "ready_to_sew": {
@@ -613,22 +613,6 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24601498",
           "shelf": "shelf e2"
-        },
-        {
-          "visual_id": "77071",
-          "invoice_id": "24691867",
-          "nickname": "EMB  BILLY DEE COTHRAN JR.  09/09/2026 7LBS 13OZ",
-          "company": "Heartland Coca Cola Angie Fumagalli",
-          "production_due": "2026-10-01",
-          "customer_due": "2026-10-01",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24691867",
-          "shelf": null
         }
       ]
     }
