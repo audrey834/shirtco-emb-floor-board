@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-01 15:18:42 CDT",
+  "generated_at_ct": "2026-10-01 15:24:54 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -19,8 +19,8 @@
     "ready_to_sew": 7,
     "needs_barcode": 6,
     "sewout": 5,
-    "on_machine": 12,
-    "total": 30
+    "on_machine": 11,
+    "total": 29
   },
   "columns": {
     "ready_to_sew": {
@@ -248,6 +248,25 @@
       "title": "Sewout",
       "cards": [
         {
+          "visual_id": "76869",
+          "invoice_id": "24641611",
+          "nickname": "EMB - PO2005184 - Clune - 40PC",
+          "company": "All Things Swag",
+          "production_due": "2026-10-02",
+          "customer_due": "2026-10-06",
+          "rush": false,
+          "firm": false,
+          "qty": 41,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24641611",
+          "shelf": "shelf 92",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
           "visual_id": "76930",
           "invoice_id": "24660769",
           "nickname": "EMB - MIG Construction Mixed Apparel - 27 PCS",
@@ -301,25 +320,6 @@
           "shelf": "shelf 91",
           "sewout_badge": "sent",
           "sewout_reason": "new art + approval needed",
-          "blocker": "sent"
-        },
-        {
-          "visual_id": "76869",
-          "invoice_id": "24641611",
-          "nickname": "EMB - PO2005184 - Clune - 40PC",
-          "company": "All Things Swag",
-          "production_due": "2026-10-02",
-          "customer_due": "2026-10-06",
-          "rush": false,
-          "firm": false,
-          "qty": 41,
-          "status_id": "338845",
-          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
-          "short_status": "Sewout sent",
-          "url": "https://www.printavo.com/invoices/24641611",
-          "shelf": "shelf 92",
-          "sewout_badge": "sent",
-          "sewout_reason": "approval needed",
           "blocker": "sent"
         },
         {
@@ -528,22 +528,6 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24635513",
           "shelf": "shelf e3"
-        },
-        {
-          "visual_id": "76909",
-          "invoice_id": "24655288",
-          "nickname": "B377684 Noroton Fire Department - Batched 09/28/2026 EMB - LC - 65850 - (1 of 2)",
-          "company": "Noroton Fire Department",
-          "production_due": "2026-10-05",
-          "customer_due": "2026-10-12",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24655288",
-          "shelf": "shelf e2"
         }
       ]
     }
@@ -559,10 +543,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 1,
-    "sent": 4,
+    "needed": 2,
+    "sent": 3,
     "approved": 0,
-    "status_based": 4,
-    "override": 1
+    "status_based": 3,
+    "override": 2
   }
 }
