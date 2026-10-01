@@ -1,12 +1,11 @@
 {
-  "generated_at_ct": "2026-10-01 07:23:20 CDT",
+  "generated_at_ct": "2026-10-01 07:30:01 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
     "Printavo Sewout AR approved: 74555, 74576, 75737, 75887, 76290, 76598, 76599, 76617, 76618, 76747",
     "76899: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
-    "76691: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76608: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76578: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "75737: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -16,11 +15,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 10,
-    "needs_barcode": 14,
+    "ready_to_sew": 12,
+    "needs_barcode": 13,
     "sewout": 4,
     "on_machine": 20,
-    "total": 48
+    "total": 49
   },
   "columns": {
     "ready_to_sew": {
@@ -122,6 +121,38 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24584823",
           "shelf": "shelf 91"
+        },
+        {
+          "visual_id": "76691",
+          "invoice_id": "24601498",
+          "nickname": "B373359 St. Charles West High School 2026 - Batched 09/24/2026 EMB - LC/HATS - D2 - 60150 - (4 of 6)",
+          "company": "St. Charles West Boost Club",
+          "production_due": "2026-10-01",
+          "customer_due": "2026-10-08",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24601498",
+          "shelf": "shelf e2"
+        },
+        {
+          "visual_id": "76769",
+          "invoice_id": "24619290",
+          "nickname": "B379850 St. Charles West High School 2026 - Batched 09/24/2026 EMB - LC/HATS - D1 - 60150 - (1 of 2)",
+          "company": "St. Charles West Boost Club",
+          "production_due": "2026-10-01",
+          "customer_due": "2026-10-08",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24619290",
+          "shelf": "shelf e2"
         },
         {
           "visual_id": "76747",
@@ -258,22 +289,6 @@
           "url": "https://www.printavo.com/invoices/24557410",
           "shelf": "shelf 94",
           "sewout_reason": "approval needed"
-        },
-        {
-          "visual_id": "76769",
-          "invoice_id": "24619290",
-          "nickname": "B379850 St. Charles West High School 2026 - Batched 09/24/2026 EMB - LC/HATS - D1 - 60150 - (1 of 2)",
-          "company": "St. Charles West Boost Club",
-          "production_due": "2026-10-01",
-          "customer_due": "2026-10-08",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24619290",
-          "shelf": "shelf e2"
         },
         {
           "visual_id": "76831",
