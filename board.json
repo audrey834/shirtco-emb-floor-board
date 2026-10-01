@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-01 08:35:39 CDT",
+  "generated_at_ct": "2026-10-01 08:39:24 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -620,22 +620,6 @@
       "title": "On machine",
       "cards": [
         {
-          "visual_id": "76318",
-          "invoice_id": "24508135",
-          "nickname": "567166 Berkeley Fire Department 2026 EMB - FRONT/BACK - HATS - UNION - 66212 -  (15 of 16)",
-          "company": "Berkeley Fire Department",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-29",
-          "rush": true,
-          "firm": false,
-          "qty": 9,
-          "status_id": "272351",
-          "status_name": "EMB - STAGED - RUSH",
-          "short_status": "Staged \u00b7 RUSH",
-          "url": "https://www.printavo.com/invoices/24508135",
-          "shelf": "shelf 94"
-        },
-        {
           "visual_id": "76314",
           "invoice_id": "24508127",
           "nickname": "567166 Berkeley Fire Department 2026 EMB/DTF - LC/FB  - NON UNION - 68332 -  (11 of 16)",
@@ -650,6 +634,22 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24508127",
           "shelf": "Shelf 94"
+        },
+        {
+          "visual_id": "76318",
+          "invoice_id": "24508135",
+          "nickname": "567166 Berkeley Fire Department 2026 EMB - FRONT/BACK - HATS - UNION - 66212 -  (15 of 16)",
+          "company": "Berkeley Fire Department",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 9,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24508135",
+          "shelf": "shelf 94"
         },
         {
           "visual_id": "75990",
