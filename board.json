@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-01 10:11:36 CDT",
+  "generated_at_ct": "2026-10-01 10:14:58 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,10 +16,10 @@
   ],
   "counts": {
     "ready_to_sew": 6,
-    "needs_barcode": 9,
-    "sewout": 9,
-    "on_machine": 15,
-    "total": 39
+    "needs_barcode": 10,
+    "sewout": 8,
+    "on_machine": 16,
+    "total": 40
   },
   "columns": {
     "ready_to_sew": {
@@ -224,6 +224,23 @@
           "shelf": "shelf e2"
         },
         {
+          "visual_id": "77010",
+          "invoice_id": "24675879",
+          "nickname": "EMB- JOHNNY CHASE SHIRTS - 24PC 2OF2 ",
+          "company": "JOHNNY CHASE",
+          "production_due": "2026-10-06",
+          "customer_due": "2026-10-12",
+          "rush": false,
+          "firm": false,
+          "qty": 24,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24675879",
+          "shelf": null,
+          "sewout_reason": "new art + approval needed"
+        },
+        {
           "visual_id": "76888",
           "invoice_id": "24648831",
           "nickname": "EMB CRAIG AND SON EMBROIDERED CAPS",
@@ -301,7 +318,7 @@
           "invoice_id": "24410456",
           "nickname": "EMB- ST. CHARLES PARKS AND REC EMBROIDERED  AND DTF HATS -62PCS ",
           "company": "CITY OF ST. CHARLES PARKS DEPT",
-          "production_due": "2026-10-02",
+          "production_due": "2026-10-01",
           "customer_due": "2026-10-02",
           "rush": false,
           "firm": false,
@@ -320,7 +337,7 @@
           "invoice_id": "24557410",
           "nickname": "EMB - BEANIES - QTY 30",
           "company": "Anthony's Produce",
-          "production_due": "2026-10-02",
+          "production_due": "2026-10-01",
           "customer_due": "2026-10-02",
           "rush": false,
           "firm": false,
@@ -332,25 +349,6 @@
           "shelf": "shelf 94",
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
-          "blocker": "needed"
-        },
-        {
-          "visual_id": "77010",
-          "invoice_id": "24675879",
-          "nickname": "EMB- JOHNNY CHASE SHIRTS - 24PC 2OF2 ",
-          "company": "JOHNNY CHASE",
-          "production_due": "2026-10-06",
-          "customer_due": "2026-10-12",
-          "rush": false,
-          "firm": false,
-          "qty": 24,
-          "status_id": "466183",
-          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
-          "short_status": "DST+barcode \u00b7 no goods",
-          "url": "https://www.printavo.com/invoices/24675879",
-          "shelf": null,
-          "sewout_badge": "needed",
-          "sewout_reason": "new art + approval needed",
           "blocker": "needed"
         },
         {
@@ -469,6 +467,23 @@
           "shelf": "Shelf 94"
         },
         {
+          "visual_id": "76290",
+          "invoice_id": "24503582",
+          "nickname": "EMB - Forge FR MFRRIPS UA Instructors - 55 PCS - PO #9939",
+          "company": "ADTEK PROMOTIONS",
+          "production_due": "2026-09-25",
+          "customer_due": "2026-09-28",
+          "rush": false,
+          "firm": false,
+          "qty": 55,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24503582",
+          "shelf": "shelf under",
+          "sewout_badge": "approved"
+        },
+        {
           "visual_id": "76598",
           "invoice_id": "24571936",
           "nickname": "SCRN/ EMBROIDERY - SOTO BROTHERS DRIFIT LS AND HOODIES CAPS -12 PC",
@@ -483,23 +498,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24571936",
           "shelf": "shelf 95",
-          "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "76290",
-          "invoice_id": "24503582",
-          "nickname": "EMB - Forge FR MFRRIPS UA Instructors - 55 PCS - PO #9939",
-          "company": "ADTEK PROMOTIONS",
-          "production_due": "2026-09-26",
-          "customer_due": "2026-09-28",
-          "rush": false,
-          "firm": false,
-          "qty": 55,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24503582",
-          "shelf": "shelf under",
           "sewout_badge": "approved"
         },
         {
@@ -636,6 +634,22 @@
           "shelf": "shelf end"
         },
         {
+          "visual_id": "74908",
+          "invoice_id": "24158075",
+          "nickname": "EMB-- Service Central Hoodies - 3 PCS",
+          "company": "SERVICE CENTRAL GLASS & DOOR",
+          "production_due": "2026-10-01",
+          "customer_due": "2026-10-02",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24158075",
+          "shelf": "shelf e5"
+        },
+        {
           "visual_id": "76209",
           "invoice_id": "24486102",
           "nickname": "EMB",
@@ -684,20 +698,20 @@
           "shelf": "shelf e2"
         },
         {
-          "visual_id": "74908",
-          "invoice_id": "24158075",
-          "nickname": "EMB-- Service Central Hoodies - 3 PCS",
-          "company": "SERVICE CENTRAL GLASS & DOOR",
-          "production_due": "2026-10-02",
-          "customer_due": "2026-10-02",
+          "visual_id": "77071",
+          "invoice_id": "24691867",
+          "nickname": "EMB  BILLY DEE COTHRAN JR.  09/09/2026 7LBS 13OZ",
+          "company": "Heartland Coca Cola Angie Fumagalli",
+          "production_due": "2026-10-01",
+          "customer_due": "2026-10-01",
           "rush": false,
           "firm": false,
-          "qty": 3,
+          "qty": 1,
           "status_id": "329207",
           "status_name": "EMB - STAGED",
           "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24158075",
-          "shelf": "shelf e5"
+          "url": "https://www.printavo.com/invoices/24691867",
+          "shelf": null
         }
       ]
     }
@@ -713,10 +727,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 4,
+    "needed": 3,
     "sent": 5,
     "approved": 0,
     "status_based": 5,
-    "override": 4
+    "override": 3
   }
 }
