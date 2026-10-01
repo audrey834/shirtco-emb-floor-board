@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-01 15:48:52 CDT",
+  "generated_at_ct": "2026-10-01 15:52:46 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -19,8 +19,8 @@
     "ready_to_sew": 7,
     "needs_barcode": 6,
     "sewout": 5,
-    "on_machine": 10,
-    "total": 28
+    "on_machine": 9,
+    "total": 27
   },
   "columns": {
     "ready_to_sew": {
@@ -379,22 +379,6 @@
           "url": "https://www.printavo.com/invoices/24572393",
           "shelf": "shelf 95",
           "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "76621",
-          "invoice_id": "24581908",
-          "nickname": "B372323 St. Charles City Fire Department Apparel 2026 - Batched 09/23/2026 EMB - HATS - PUFF FF/FB - 94 LOGO - 64397 -  (1 of 2)",
-          "company": "St. Charles City Fire Department",
-          "production_due": "2026-09-30",
-          "customer_due": "2026-10-07",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24581908",
-          "shelf": "shelf 92"
         },
         {
           "visual_id": "75922",
