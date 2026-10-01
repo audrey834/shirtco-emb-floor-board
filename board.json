@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-01 08:44:17 CDT",
+  "generated_at_ct": "2026-10-01 08:50:24 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -18,8 +18,8 @@
     "ready_to_sew": 14,
     "needs_barcode": 9,
     "sewout": 11,
-    "on_machine": 15,
-    "total": 49
+    "on_machine": 14,
+    "total": 48
   },
   "columns": {
     "ready_to_sew": {
@@ -634,22 +634,6 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24508127",
           "shelf": "Shelf 94"
-        },
-        {
-          "visual_id": "76318",
-          "invoice_id": "24508135",
-          "nickname": "567166 Berkeley Fire Department 2026 EMB - FRONT/BACK - HATS - UNION - 66212 -  (15 of 16)",
-          "company": "Berkeley Fire Department",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-29",
-          "rush": false,
-          "firm": false,
-          "qty": 9,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24508135",
-          "shelf": "shelf 94"
         },
         {
           "visual_id": "75990",
