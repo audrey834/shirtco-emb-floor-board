@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-01 08:50:24 CDT",
+  "generated_at_ct": "2026-10-01 08:54:42 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -15,10 +15,10 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 14,
+    "ready_to_sew": 12,
     "needs_barcode": 9,
-    "sewout": 11,
-    "on_machine": 14,
+    "sewout": 10,
+    "on_machine": 17,
     "total": 48
   },
   "columns": {
@@ -41,38 +41,6 @@
           "url": "https://www.printavo.com/invoices/24503582",
           "shelf": "shelf under",
           "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "76621",
-          "invoice_id": "24581908",
-          "nickname": "B372323 St. Charles City Fire Department Apparel 2026 - Batched 09/23/2026 EMB - HATS - PUFF FF/FB - 94 LOGO - 64397 -  (1 of 2)",
-          "company": "St. Charles City Fire Department",
-          "production_due": "2026-09-30",
-          "customer_due": "2026-10-07",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24581908",
-          "shelf": "shelf 92"
-        },
-        {
-          "visual_id": "76622",
-          "invoice_id": "24581911",
-          "nickname": "B372323 St. Charles City Fire Department Apparel 2026 - Batched 09/23/2026 EMB - LC/ R CUFF/ RC - UNION - WHITE - 34994 -  (2 of 2)",
-          "company": "St. Charles City Fire Department",
-          "production_due": "2026-09-30",
-          "customer_due": "2026-10-07",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24581911",
-          "shelf": "shelf e4"
         },
         {
           "visual_id": "76627",
@@ -445,25 +413,6 @@
           "blocker": "needed"
         },
         {
-          "visual_id": "75074",
-          "invoice_id": "24197125",
-          "nickname": "EMB - Integrity Title oxfords - 2pc",
-          "company": "Integrity Title Solutions",
-          "production_due": "2026-09-30",
-          "customer_due": "2026-10-05",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24197125",
-          "shelf": "shelf e3",
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed",
-          "blocker": "needed"
-        },
-        {
           "visual_id": "76672",
           "invoice_id": "24595583",
           "nickname": "EMB-SCCAD - 80 LOGO-HATS-  2 PCS ",
@@ -516,25 +465,6 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24557410",
           "shelf": "shelf 94",
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed",
-          "blocker": "needed"
-        },
-        {
-          "visual_id": "76761",
-          "invoice_id": "24618345",
-          "nickname": "RUSH + EMB - Holli CB Realty Pullover - 1pc",
-          "company": "Coldwell Banker Realty",
-          "production_due": "2026-10-02",
-          "customer_due": "2026-10-02",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24618345",
-          "shelf": "shelf e1",
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
           "blocker": "needed"
@@ -593,6 +523,25 @@
           "url": "https://www.printavo.com/invoices/23816348",
           "shelf": null,
           "sewout_badge": "sent",
+          "blocker": "sent"
+        },
+        {
+          "visual_id": "76761",
+          "invoice_id": "24618345",
+          "nickname": "RUSH + EMB - Holli CB Realty Pullover - 1pc",
+          "company": "Coldwell Banker Realty",
+          "production_due": "2026-10-02",
+          "customer_due": "2026-10-02",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "338845",
+          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
+          "short_status": "Sewout sent",
+          "url": "https://www.printavo.com/invoices/24618345",
+          "shelf": "shelf e1",
+          "sewout_badge": "sent",
+          "sewout_reason": "approval needed",
           "blocker": "sent"
         },
         {
@@ -754,6 +703,24 @@
           "sewout_badge": "approved"
         },
         {
+          "visual_id": "75074",
+          "invoice_id": "24197125",
+          "nickname": "EMB - Integrity Title oxfords - 2pc",
+          "company": "Integrity Title Solutions",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-10-05",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24197125",
+          "shelf": "shelf e3",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed"
+        },
+        {
           "visual_id": "76599",
           "invoice_id": "24572393",
           "nickname": "EMB - CPG- TONAL DIAGRAPH - 51 PCS",
@@ -769,6 +736,38 @@
           "url": "https://www.printavo.com/invoices/24572393",
           "shelf": "shelf 95",
           "sewout_badge": "approved"
+        },
+        {
+          "visual_id": "76621",
+          "invoice_id": "24581908",
+          "nickname": "B372323 St. Charles City Fire Department Apparel 2026 - Batched 09/23/2026 EMB - HATS - PUFF FF/FB - 94 LOGO - 64397 -  (1 of 2)",
+          "company": "St. Charles City Fire Department",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-10-07",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24581908",
+          "shelf": "shelf 92"
+        },
+        {
+          "visual_id": "76622",
+          "invoice_id": "24581911",
+          "nickname": "B372323 St. Charles City Fire Department Apparel 2026 - Batched 09/23/2026 EMB - LC/ R CUFF/ RC - UNION - WHITE - 34994 -  (2 of 2)",
+          "company": "St. Charles City Fire Department",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-10-07",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24581911",
+          "shelf": "shelf e4"
         },
         {
           "visual_id": "76712",
@@ -812,9 +811,9 @@
           "rush": false,
           "firm": false,
           "qty": 1,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24686262",
           "shelf": null
         },
@@ -864,10 +863,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 9,
-    "sent": 2,
+    "needed": 7,
+    "sent": 3,
     "approved": 0,
-    "status_based": 2,
-    "override": 9
+    "status_based": 3,
+    "override": 7
   }
 }
