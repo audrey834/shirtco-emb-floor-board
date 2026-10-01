@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-01 10:29:58 CDT",
+  "generated_at_ct": "2026-10-01 10:32:51 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -18,8 +18,8 @@
     "ready_to_sew": 7,
     "needs_barcode": 10,
     "sewout": 8,
-    "on_machine": 16,
-    "total": 41
+    "on_machine": 15,
+    "total": 40
   },
   "columns": {
     "ready_to_sew": {
@@ -634,6 +634,22 @@
           "sewout_reason": "approval needed"
         },
         {
+          "visual_id": "76691",
+          "invoice_id": "24601498",
+          "nickname": "B373359 St. Charles West High School 2026 - Batched 09/24/2026 EMB - LC/HATS - D2 - 60150 - (4 of 6)",
+          "company": "St. Charles West Boost Club",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-10-08",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24601498",
+          "shelf": "shelf e2"
+        },
+        {
           "visual_id": "74545",
           "invoice_id": "24084888",
           "nickname": "DTF/EMB - BOEING TEAM POLOS - QTY 402 (1 of 2)",
@@ -680,38 +696,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24486102",
           "shelf": "SHELF 96"
-        },
-        {
-          "visual_id": "76691",
-          "invoice_id": "24601498",
-          "nickname": "B373359 St. Charles West High School 2026 - Batched 09/24/2026 EMB - LC/HATS - D2 - 60150 - (4 of 6)",
-          "company": "St. Charles West Boost Club",
-          "production_due": "2026-10-01",
-          "customer_due": "2026-10-08",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24601498",
-          "shelf": "shelf e2"
-        },
-        {
-          "visual_id": "76769",
-          "invoice_id": "24619290",
-          "nickname": "B379850 St. Charles West High School 2026 - Batched 09/24/2026 EMB - LC/HATS - D1 - 60150 - (1 of 2)",
-          "company": "St. Charles West Boost Club",
-          "production_due": "2026-10-01",
-          "customer_due": "2026-10-08",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24619290",
-          "shelf": "shelf e2"
         },
         {
           "visual_id": "77071",
