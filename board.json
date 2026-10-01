@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-01 07:05:49 CDT",
+  "generated_at_ct": "2026-10-01 07:08:16 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -17,8 +17,8 @@
   ],
   "counts": {
     "ready_to_sew": 6,
-    "needs_barcode": 19,
-    "sewout": 3,
+    "needs_barcode": 18,
+    "sewout": 4,
     "on_machine": 20,
     "total": 48
   },
@@ -129,23 +129,6 @@
     "needs_barcode": {
       "title": "Needs barcode",
       "cards": [
-        {
-          "visual_id": "75074",
-          "invoice_id": "24197125",
-          "nickname": "EMB - Integrity Title oxfords - 2pc",
-          "company": "Integrity Title Solutions",
-          "production_due": "2026-09-30",
-          "customer_due": "2026-10-05",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24197125",
-          "shelf": "shelf e3",
-          "sewout_reason": "approval needed"
-        },
         {
           "visual_id": "76622",
           "invoice_id": "24581911",
@@ -442,6 +425,25 @@
     "sewout": {
       "title": "Sewout",
       "cards": [
+        {
+          "visual_id": "75074",
+          "invoice_id": "24197125",
+          "nickname": "EMB - Integrity Title oxfords - 2pc",
+          "company": "Integrity Title Solutions",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-10-05",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24197125",
+          "shelf": "shelf e3",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
         {
           "visual_id": "76761",
           "invoice_id": "24618345",
@@ -846,10 +848,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 1,
+    "needed": 2,
     "sent": 2,
     "approved": 0,
     "status_based": 2,
-    "override": 1
+    "override": 2
   }
 }
