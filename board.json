@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-10-01 11:20:56 CDT",
+  "generated_at_ct": "2026-10-01 11:26:21 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 75737, 75887, 76290, 76352, 76598, 76599, 76747",
+    "Printavo Sewout AR approved: 74555, 75737, 75887, 76290, 76352, 76599, 76747",
     "76899: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76608: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76578: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -18,8 +18,8 @@
     "ready_to_sew": 6,
     "needs_barcode": 10,
     "sewout": 8,
-    "on_machine": 13,
-    "total": 37
+    "on_machine": 12,
+    "total": 36
   },
   "columns": {
     "ready_to_sew": {
@@ -481,23 +481,6 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24503582",
           "shelf": "shelf under",
-          "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "76598",
-          "invoice_id": "24571936",
-          "nickname": "SCRN/ EMBROIDERY - SOTO BROTHERS DRIFIT LS AND HOODIES CAPS -12 PC",
-          "company": "SOTO BROTHERS ",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-09-25",
-          "rush": false,
-          "firm": false,
-          "qty": 30,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24571936",
-          "shelf": "shelf 95",
           "sewout_badge": "approved"
         },
         {
