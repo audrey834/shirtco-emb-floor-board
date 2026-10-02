@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-02 07:51:24 CDT",
+  "generated_at_ct": "2026-10-02 07:58:33 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -17,8 +17,8 @@
     "ready_to_sew": 4,
     "needs_barcode": 3,
     "sewout": 5,
-    "on_machine": 11,
-    "total": 23
+    "on_machine": 10,
+    "total": 22
   },
   "columns": {
     "ready_to_sew": {
@@ -290,9 +290,9 @@
           "rush": false,
           "firm": false,
           "qty": 62,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24410456",
           "shelf": "shelf under",
           "sewout_badge": "needed",
@@ -397,8 +397,8 @@
           "shelf": null
         },
         {
-          "visual_id": "77011",
-          "invoice_id": "24675880",
+          "visual_id": "77012",
+          "invoice_id": "24676012",
           "nickname": "EMB- GM WOMEN AGAINST BREAST CANCER-1 PC",
           "company": "General Motors Women",
           "production_due": "2026-10-07",
@@ -409,22 +409,6 @@
           "status_id": "473774",
           "status_name": "EMB - SEWING",
           "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24675880",
-          "shelf": "shelf e5"
-        },
-        {
-          "visual_id": "77012",
-          "invoice_id": "24676012",
-          "nickname": "EMB- GM WOMEN AGAINST BREAST CANCER-1 PC",
-          "company": "General Motors Women",
-          "production_due": "2026-10-07",
-          "customer_due": "2026-10-08",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24676012",
           "shelf": "shelf e5"
         }
