@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-02 11:07:20 CDT",
+  "generated_at_ct": "2026-10-02 11:16:30 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,11 +16,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 4,
-    "needs_barcode": 4,
-    "sewout": 5,
+    "ready_to_sew": 5,
+    "needs_barcode": 3,
+    "sewout": 6,
     "on_machine": 6,
-    "total": 19
+    "total": 20
   },
   "columns": {
     "ready_to_sew": {
@@ -90,12 +90,7 @@
           "url": "https://www.printavo.com/invoices/24515788",
           "shelf": "shelf end",
           "sewout_badge": "approved"
-        }
-      ]
-    },
-    "needs_barcode": {
-      "title": "Needs barcode",
-      "cards": [
+        },
         {
           "visual_id": "77102",
           "invoice_id": "24700606",
@@ -106,12 +101,17 @@
           "rush": false,
           "firm": false,
           "qty": 24,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24700606",
-          "shelf": null
-        },
+          "shelf": "shelf 91"
+        }
+      ]
+    },
+    "needs_barcode": {
+      "title": "Needs barcode",
+      "cards": [
         {
           "visual_id": "76888",
           "invoice_id": "24648831",
@@ -199,6 +199,25 @@
           "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
           "short_status": "DST+barcode \u00b7 no goods",
           "url": "https://www.printavo.com/invoices/24660769",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
+          "visual_id": "75910",
+          "invoice_id": "24409140",
+          "nickname": "EMB - Auto Vitality UA Polos White - 5pc 1OF2 ",
+          "company": "",
+          "production_due": "2026-10-06",
+          "customer_due": "2026-10-07",
+          "rush": false,
+          "firm": false,
+          "qty": 5,
+          "status_id": "466183",
+          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
+          "short_status": "DST+barcode \u00b7 no goods",
+          "url": "https://www.printavo.com/invoices/24409140",
           "shelf": null,
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
@@ -381,10 +400,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 2,
+    "needed": 3,
     "sent": 3,
     "approved": 0,
     "status_based": 3,
-    "override": 2
+    "override": 3
   }
 }
