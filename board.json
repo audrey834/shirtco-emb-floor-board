@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-10-01 17:58:36 CDT",
+  "generated_at_ct": "2026-10-02 07:02:05 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 75887, 76290, 76352, 76599, 76747, 77010",
+    "Printavo Sewout AR approved: 74555, 75887, 76290, 76352, 76747, 77010",
     "77102: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76899: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76608: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -18,8 +18,8 @@
     "ready_to_sew": 7,
     "needs_barcode": 6,
     "sewout": 5,
-    "on_machine": 6,
-    "total": 24
+    "on_machine": 5,
+    "total": 23
   },
   "columns": {
     "ready_to_sew": {
@@ -363,21 +363,22 @@
           "sewout_badge": "approved"
         },
         {
-          "visual_id": "76599",
-          "invoice_id": "24572393",
-          "nickname": "EMB - CPG- TONAL DIAGRAPH - 51 PCS",
-          "company": "Diagraph",
-          "production_due": "2026-09-30",
-          "customer_due": "2026-10-01",
+          "visual_id": "75922",
+          "invoice_id": "24410456",
+          "nickname": "EMB- ST. CHARLES PARKS AND REC EMBROIDERED  AND DTF HATS -62PCS ",
+          "company": "CITY OF ST. CHARLES PARKS DEPT",
+          "production_due": "2026-10-01",
+          "customer_due": "2026-10-02",
           "rush": false,
           "firm": false,
-          "qty": 51,
-          "status_id": "266476",
-          "status_name": "EMB - TRIMMING",
-          "short_status": "Trimming",
-          "url": "https://www.printavo.com/invoices/24572393",
-          "shelf": "shelf 95",
-          "sewout_badge": "approved"
+          "qty": 62,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24410456",
+          "shelf": "shelf under",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed"
         },
         {
           "visual_id": "76207",
@@ -410,24 +411,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24486102",
           "shelf": "SHELF 96"
-        },
-        {
-          "visual_id": "75922",
-          "invoice_id": "24410456",
-          "nickname": "EMB- ST. CHARLES PARKS AND REC EMBROIDERED  AND DTF HATS -62PCS ",
-          "company": "CITY OF ST. CHARLES PARKS DEPT",
-          "production_due": "2026-10-02",
-          "customer_due": "2026-10-02",
-          "rush": false,
-          "firm": false,
-          "qty": 62,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24410456",
-          "shelf": "shelf under",
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed"
         },
         {
           "visual_id": "76747",
