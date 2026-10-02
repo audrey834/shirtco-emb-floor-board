@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-02 16:23:16 CDT",
+  "generated_at_ct": "2026-10-02 16:28:50 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -117,7 +117,7 @@
           "invoice_id": "23967902",
           "nickname": "EMB - NORTH COUNTY TRAINING INS 1/4 ZIPS JOBSHIRT - QTY 31 (3 OF 5)",
           "company": "Mid County Fire Department",
-          "production_due": "2026-09-30",
+          "production_due": "2026-10-01",
           "customer_due": "2026-10-01",
           "rush": false,
           "firm": false,
