@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-02 13:53:49 CDT",
+  "generated_at_ct": "2026-10-02 13:58:09 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -19,10 +19,10 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 3,
+    "ready_to_sew": 2,
     "needs_barcode": 3,
     "sewout": 6,
-    "on_machine": 4,
+    "on_machine": 5,
     "total": 16
   },
   "columns": {
@@ -61,22 +61,6 @@
           "url": "https://www.printavo.com/invoices/24515788",
           "shelf": "shelf end",
           "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "77102",
-          "invoice_id": "24700606",
-          "nickname": "EMB - RENTS DUE - qty 24",
-          "company": "",
-          "production_due": "2026-10-08",
-          "customer_due": "2026-10-09",
-          "rush": false,
-          "firm": false,
-          "qty": 24,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24700606",
-          "shelf": "shelf 91"
         }
       ]
     },
@@ -319,6 +303,22 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24672412",
           "shelf": "shelf e1"
+        },
+        {
+          "visual_id": "77102",
+          "invoice_id": "24700606",
+          "nickname": "EMB - RENTS DUE - qty 24",
+          "company": "",
+          "production_due": "2026-10-08",
+          "customer_due": "2026-10-09",
+          "rush": false,
+          "firm": false,
+          "qty": 24,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24700606",
+          "shelf": "shelf 91"
         }
       ]
     }
