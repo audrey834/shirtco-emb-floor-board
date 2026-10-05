@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-05 13:29:18 CDT",
+  "generated_at_ct": "2026-10-05 13:35:20 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -31,8 +31,8 @@
     "ready_to_sew": 2,
     "needs_barcode": 0,
     "sewout": 6,
-    "on_machine": 8,
-    "total": 16
+    "on_machine": 7,
+    "total": 15
   },
   "columns": {
     "ready_to_sew": {
@@ -84,7 +84,7 @@
           "invoice_id": "23967902",
           "nickname": "EMB - NORTH COUNTY TRAINING INS 1/4 ZIPS JOBSHIRT - QTY 31 (3 OF 5)",
           "company": "Mid County Fire Department",
-          "production_due": "2026-10-01",
+          "production_due": "2026-09-30",
           "customer_due": "2026-10-01",
           "rush": false,
           "firm": false,
@@ -103,7 +103,7 @@
           "invoice_id": "24409140",
           "nickname": "EMB - Auto Vitality UA Polos White - 5pc 1OF2 ",
           "company": "",
-          "production_due": "2026-10-07",
+          "production_due": "2026-10-06",
           "customer_due": "2026-10-07",
           "rush": false,
           "firm": false,
@@ -198,22 +198,6 @@
       "title": "On machine",
       "cards": [
         {
-          "visual_id": "77138",
-          "invoice_id": "24707362",
-          "nickname": "REPRINT-EMB-- Service Central Hoodies - 3 PCS",
-          "company": "SERVICE CENTRAL GLASS & DOOR",
-          "production_due": "2026-10-05",
-          "customer_due": "2026-10-06",
-          "rush": true,
-          "firm": false,
-          "qty": 3,
-          "status_id": "272351",
-          "status_name": "EMB - STAGED - RUSH",
-          "short_status": "Staged \u00b7 RUSH",
-          "url": "https://www.printavo.com/invoices/24707362",
-          "shelf": null
-        },
-        {
           "visual_id": "77168",
           "invoice_id": "24711283",
           "nickname": "RUSH-EMB - HOMESTEAD  -4 QTY ",
@@ -234,7 +218,7 @@
           "invoice_id": "24503582",
           "nickname": "EMB - Forge FR MFRRIPS UA Instructors - 55 PCS - PO #9939",
           "company": "ADTEK PROMOTIONS",
-          "production_due": "2026-10-03",
+          "production_due": "2026-10-02",
           "customer_due": "2026-10-02",
           "rush": false,
           "firm": false,
@@ -265,6 +249,22 @@
           "sewout_reason": "approval needed"
         },
         {
+          "visual_id": "77138",
+          "invoice_id": "24707362",
+          "nickname": "REPRINT-EMB-- Service Central Hoodies - 3 PCS",
+          "company": "SERVICE CENTRAL GLASS & DOOR",
+          "production_due": "2026-10-05",
+          "customer_due": "2026-10-06",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24707362",
+          "shelf": null
+        },
+        {
           "visual_id": "76804",
           "invoice_id": "24627114",
           "nickname": "EMB/ AIR ALL/ 30 PC ",
@@ -290,26 +290,10 @@
           "rush": false,
           "firm": false,
           "qty": 9,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24707906",
-          "shelf": null
-        },
-        {
-          "visual_id": "77176",
-          "invoice_id": "24713699",
-          "nickname": "636233 ROARK CLASSIC TOURNAMENT 2026 EMB - BEANIE - 53647 - (1 OF 2)",
-          "company": "Roark Fishing Tournament",
-          "production_due": "2026-10-08",
-          "customer_due": "2026-10-15",
-          "rush": false,
-          "firm": false,
-          "qty": 11,
           "status_id": "473774",
           "status_name": "EMB - SEWING",
           "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24713699",
+          "url": "https://www.printavo.com/invoices/24707906",
           "shelf": null
         },
         {
