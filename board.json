@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-10-05 07:38:48 CDT",
+  "generated_at_ct": "2026-10-05 07:46:50 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 75887, 76129, 76290, 76352",
+    "Printavo Sewout AR approved: 74555, 75887, 76129, 76290",
     "77176: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77156: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -26,33 +26,16 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 4,
+    "ready_to_sew": 3,
     "needs_barcode": 1,
     "sewout": 5,
     "on_machine": 2,
-    "total": 12
+    "total": 11
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
       "cards": [
-        {
-          "visual_id": "76352",
-          "invoice_id": "24515788",
-          "nickname": "EMB - PO60916250C - Darden 2025 - 100PC",
-          "company": "Kaeser & Blair, INC",
-          "production_due": "2026-10-08",
-          "customer_due": "2026-10-09",
-          "rush": false,
-          "firm": false,
-          "qty": 100,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24515788",
-          "shelf": "shelf end",
-          "sewout_badge": "approved"
-        },
         {
           "visual_id": "76645",
           "invoice_id": "24585577",
