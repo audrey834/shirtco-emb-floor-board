@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-10-05 15:03:50 CDT",
+  "generated_at_ct": "2026-10-05 15:09:50 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 76129, 76290",
+    "Printavo Sewout AR approved: 74555, 76129, 76290, 77040",
     "77246: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77245: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77233: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -33,9 +33,9 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 1,
+    "ready_to_sew": 2,
     "needs_barcode": 0,
-    "sewout": 6,
+    "sewout": 5,
     "on_machine": 4,
     "total": 11
   },
@@ -43,6 +43,23 @@
     "ready_to_sew": {
       "title": "Ready to sew",
       "cards": [
+        {
+          "visual_id": "77040",
+          "invoice_id": "24684529",
+          "nickname": "EMB - Judgment Labs dad hats -100pc ",
+          "company": "Judgment Labs",
+          "production_due": "2026-10-06",
+          "customer_due": "2026-10-09",
+          "rush": false,
+          "firm": false,
+          "qty": 100,
+          "status_id": "338846",
+          "status_name": "EMB - SEWOUT APPROVED",
+          "short_status": "Sewout approved",
+          "url": "https://www.printavo.com/invoices/24684529",
+          "shelf": null,
+          "sewout_badge": "approved"
+        },
         {
           "visual_id": "76888",
           "invoice_id": "24648831",
@@ -161,25 +178,6 @@
           "sewout_badge": "sent",
           "sewout_reason": "approval needed",
           "blocker": "sent"
-        },
-        {
-          "visual_id": "77040",
-          "invoice_id": "24684529",
-          "nickname": "EMB - Judgment Labs dad hats -100pc ",
-          "company": "Judgment Labs",
-          "production_due": "2026-10-06",
-          "customer_due": "2026-10-09",
-          "rush": false,
-          "firm": false,
-          "qty": 100,
-          "status_id": "338845",
-          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
-          "short_status": "Sewout sent",
-          "url": "https://www.printavo.com/invoices/24684529",
-          "shelf": null,
-          "sewout_badge": "sent",
-          "sewout_reason": "new art + approval needed",
-          "blocker": "sent"
         }
       ]
     },
@@ -268,9 +266,9 @@
   "sewout_breakdown": {
     "declined": 0,
     "needed": 3,
-    "sent": 3,
+    "sent": 2,
     "approved": 0,
-    "status_based": 3,
+    "status_based": 2,
     "override": 3
   }
 }
