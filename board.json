@@ -1,11 +1,10 @@
 {
-  "generated_at_ct": "2026-10-05 10:30:37 CDT",
+  "generated_at_ct": "2026-10-05 10:38:37 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
     "Printavo Sewout AR approved: 74555, 75887, 76129, 76290",
-    "77176: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77156: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77155: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -29,9 +28,9 @@
   ],
   "counts": {
     "ready_to_sew": 2,
-    "needs_barcode": 0,
+    "needs_barcode": 1,
     "sewout": 7,
-    "on_machine": 7,
+    "on_machine": 6,
     "total": 16
   },
   "columns": {
@@ -75,7 +74,24 @@
     },
     "needs_barcode": {
       "title": "Needs barcode",
-      "cards": []
+      "cards": [
+        {
+          "visual_id": "77176",
+          "invoice_id": "24713699",
+          "nickname": "636233 ROARK CLASSIC TOURNAMENT 2026 EMB - BEANIE - 53647 - (1 OF 2)",
+          "company": "Roark Fishing Tournament",
+          "production_due": "2026-10-08",
+          "customer_due": "2026-10-15",
+          "rush": false,
+          "firm": false,
+          "qty": 11,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24713699",
+          "shelf": null
+        }
+      ]
     },
     "sewout": {
       "title": "Sewout",
@@ -217,22 +233,6 @@
     "on_machine": {
       "title": "On machine",
       "cards": [
-        {
-          "visual_id": "76941",
-          "invoice_id": "24662535",
-          "nickname": "RESTITCH//EMB - JACKETS - QTY 1",
-          "company": "",
-          "production_due": "2026-09-30",
-          "customer_due": "2026-10-01",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24662535",
-          "shelf": "shelf e2"
-        },
         {
           "visual_id": "76290",
           "invoice_id": "24503582",
