@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-05 11:15:35 CDT",
+  "generated_at_ct": "2026-10-05 11:23:32 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -109,9 +109,9 @@
           "rush": false,
           "firm": false,
           "qty": 27,
-          "status_id": "466183",
-          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
-          "short_status": "DST+barcode \u00b7 no goods",
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24660769",
           "shelf": null,
           "sewout_badge": "needed",
