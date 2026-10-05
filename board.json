@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-05 08:14:51 CDT",
+  "generated_at_ct": "2026-10-05 08:27:50 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -10,6 +10,7 @@
     "77156: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77155: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77154: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
+    "77153: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77152: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77150: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77044: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -29,9 +30,9 @@
   "counts": {
     "ready_to_sew": 1,
     "needs_barcode": 1,
-    "sewout": 6,
+    "sewout": 7,
     "on_machine": 4,
-    "total": 12
+    "total": 13
   },
   "columns": {
     "ready_to_sew": {
@@ -133,6 +134,25 @@
           "short_status": "DST+barcode \u00b7 no goods",
           "url": "https://www.printavo.com/invoices/24409140",
           "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
+          "visual_id": "77080",
+          "invoice_id": "24693057",
+          "nickname": "EMB - POOLSIDE LIVING  1/4 zips- QTY 17 (1 OF 2)",
+          "company": "Poolside Living",
+          "production_due": "2026-10-08",
+          "customer_due": "2026-10-09",
+          "rush": false,
+          "firm": false,
+          "qty": 17,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24693057",
+          "shelf": "shelf under",
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
           "blocker": "needed"
@@ -279,10 +299,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 3,
+    "needed": 4,
     "sent": 3,
     "approved": 0,
     "status_based": 3,
-    "override": 3
+    "override": 4
   }
 }
