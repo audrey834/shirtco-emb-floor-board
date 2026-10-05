@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-05 07:50:40 CDT",
+  "generated_at_ct": "2026-10-05 08:04:40 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -20,38 +20,23 @@
     "76385: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76382: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76327: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
+    "76129: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "74555: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71572: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71324: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 3,
+    "ready_to_sew": 1,
     "needs_barcode": 1,
-    "sewout": 5,
-    "on_machine": 3,
+    "sewout": 6,
+    "on_machine": 4,
     "total": 12
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
       "cards": [
-        {
-          "visual_id": "76645",
-          "invoice_id": "24585577",
-          "nickname": "628712 Black Jack Fire Department Uniform 2026 - SEPTEMBER EMB -LC/RC - 55677 -  (1 of 1)",
-          "company": "Black Jack Fire Department",
-          "production_due": "2026-10-13",
-          "customer_due": "2026-10-20",
-          "rush": false,
-          "firm": false,
-          "qty": 8,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24585577",
-          "shelf": "shelf e1"
-        },
         {
           "visual_id": "75887",
           "invoice_id": "24404198",
@@ -67,23 +52,6 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24404198",
           "shelf": "shelf under",
-          "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "76129",
-          "invoice_id": "24460793",
-          "nickname": "art only EMB - BCI Legacy Golf 1/4 Zips - 50pc",
-          "company": "BOONE CENTER",
-          "production_due": "2026-10-15",
-          "customer_due": "2026-10-16",
-          "rush": false,
-          "firm": false,
-          "qty": 50,
-          "status_id": "338846",
-          "status_name": "EMB - SEWOUT APPROVED",
-          "short_status": "Sewout approved",
-          "url": "https://www.printavo.com/invoices/24460793",
-          "shelf": null,
           "sewout_badge": "approved"
         }
       ]
@@ -167,6 +135,25 @@
           "shelf": null,
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
+          "visual_id": "77040",
+          "invoice_id": "24684529",
+          "nickname": "EMB - Judgment Labs dad hats -100pc ",
+          "company": "Judgment Labs",
+          "production_due": "2026-10-06",
+          "customer_due": "2026-10-09",
+          "rush": false,
+          "firm": false,
+          "qty": 100,
+          "status_id": "466183",
+          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
+          "short_status": "DST+barcode \u00b7 no goods",
+          "url": "https://www.printavo.com/invoices/24684529",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "new art + approval needed",
           "blocker": "needed"
         },
         {
@@ -261,6 +248,22 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24627114",
           "shelf": "shelf 91"
+        },
+        {
+          "visual_id": "76645",
+          "invoice_id": "24585577",
+          "nickname": "628712 Black Jack Fire Department Uniform 2026 - SEPTEMBER EMB -LC/RC - 55677 -  (1 of 1)",
+          "company": "Black Jack Fire Department",
+          "production_due": "2026-10-13",
+          "customer_due": "2026-10-20",
+          "rush": false,
+          "firm": false,
+          "qty": 8,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24585577",
+          "shelf": "shelf e1"
         }
       ]
     }
@@ -276,10 +279,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 3,
+    "needed": 4,
     "sent": 2,
     "approved": 0,
     "status_based": 2,
-    "override": 3
+    "override": 4
   }
 }
