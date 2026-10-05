@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-05 08:52:48 CDT",
+  "generated_at_ct": "2026-10-05 09:04:14 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -23,6 +23,7 @@
     "76382: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76327: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76129: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
+    "75829: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "74555: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71572: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71324: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -31,9 +32,9 @@
   "counts": {
     "ready_to_sew": 1,
     "needs_barcode": 1,
-    "sewout": 7,
+    "sewout": 8,
     "on_machine": 4,
-    "total": 13
+    "total": 14
   },
   "columns": {
     "ready_to_sew": {
@@ -134,6 +135,25 @@
           "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
           "short_status": "DST+barcode \u00b7 no goods",
           "url": "https://www.printavo.com/invoices/24409140",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
+          "visual_id": "77082",
+          "invoice_id": "24693441",
+          "nickname": "EMB - POOLSIDE LIVING WATERFALL LOGO  hat QTY 48 (2 OF 2)",
+          "company": "Poolside Living",
+          "production_due": "2026-10-08",
+          "customer_due": "2026-10-09",
+          "rush": false,
+          "firm": false,
+          "qty": 48,
+          "status_id": "466183",
+          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
+          "short_status": "DST+barcode \u00b7 no goods",
+          "url": "https://www.printavo.com/invoices/24693441",
           "shelf": null,
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
@@ -300,10 +320,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 3,
+    "needed": 4,
     "sent": 4,
     "approved": 0,
     "status_based": 4,
-    "override": 3
+    "override": 4
   }
 }
