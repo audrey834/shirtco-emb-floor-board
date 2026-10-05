@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-05 11:04:48 CDT",
+  "generated_at_ct": "2026-10-05 11:15:35 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -28,32 +28,16 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 3,
+    "ready_to_sew": 2,
     "needs_barcode": 0,
     "sewout": 7,
     "on_machine": 6,
-    "total": 16
+    "total": 15
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
       "cards": [
-        {
-          "visual_id": "77176",
-          "invoice_id": "24713699",
-          "nickname": "636233 ROARK CLASSIC TOURNAMENT 2026 EMB - BEANIE - 53647 - (1 OF 2)",
-          "company": "Roark Fishing Tournament",
-          "production_due": "2026-10-08",
-          "customer_due": "2026-10-15",
-          "rush": false,
-          "firm": false,
-          "qty": 11,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24713699",
-          "shelf": null
-        },
         {
           "visual_id": "76888",
           "invoice_id": "24648831",
@@ -319,20 +303,20 @@
           "shelf": null
         },
         {
-          "visual_id": "75829",
-          "invoice_id": "24388954",
-          "nickname": "EMB - SCCAD Full Zip Hoodies - 4",
-          "company": "SCCAD",
-          "production_due": "2026-10-09",
-          "customer_due": "2026-10-09",
+          "visual_id": "77176",
+          "invoice_id": "24713699",
+          "nickname": "636233 ROARK CLASSIC TOURNAMENT 2026 EMB - BEANIE - 53647 - (1 OF 2)",
+          "company": "Roark Fishing Tournament",
+          "production_due": "2026-10-08",
+          "customer_due": "2026-10-15",
           "rush": false,
           "firm": false,
-          "qty": 4,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24388954",
-          "shelf": "shelf 91"
+          "qty": 11,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24713699",
+          "shelf": null
         }
       ]
     }
