@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-05 12:56:24 CDT",
+  "generated_at_ct": "2026-10-05 13:00:25 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -29,32 +29,16 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 2,
+    "ready_to_sew": 1,
     "needs_barcode": 0,
     "sewout": 6,
-    "on_machine": 8,
+    "on_machine": 9,
     "total": 16
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
       "cards": [
-        {
-          "visual_id": "77168",
-          "invoice_id": "24711283",
-          "nickname": "RUSH-EMB - HOMESTEAD  -4 QTY ",
-          "company": "",
-          "production_due": "2026-10-09",
-          "customer_due": "2026-10-09",
-          "rush": true,
-          "firm": false,
-          "qty": 4,
-          "status_id": "272353",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - RUSH",
-          "short_status": "Goods here \u00b7 RUSH",
-          "url": "https://www.printavo.com/invoices/24711283",
-          "shelf": null
-        },
         {
           "visual_id": "76888",
           "invoice_id": "24648831",
@@ -123,7 +107,7 @@
           "invoice_id": "24693441",
           "nickname": "EMB - POOLSIDE LIVING WATERFALL LOGO  hat QTY 48 (2 OF 2)",
           "company": "Poolside Living",
-          "production_due": "2026-10-09",
+          "production_due": "2026-10-08",
           "customer_due": "2026-10-09",
           "rush": false,
           "firm": false,
@@ -160,7 +144,7 @@
           "invoice_id": "24641611",
           "nickname": "EMB - PO2005184 - Clune - 40PC",
           "company": "All Things Swag",
-          "production_due": "2026-10-03",
+          "production_due": "2026-10-02",
           "customer_due": "2026-10-06",
           "rush": false,
           "firm": false,
@@ -179,7 +163,7 @@
           "invoice_id": "24684529",
           "nickname": "EMB - Judgment Labs dad hats -100pc ",
           "company": "Judgment Labs",
-          "production_due": "2026-10-07",
+          "production_due": "2026-10-06",
           "customer_due": "2026-10-09",
           "rush": false,
           "firm": false,
@@ -212,6 +196,22 @@
           "status_name": "EMB - STAGED - RUSH",
           "short_status": "Staged \u00b7 RUSH",
           "url": "https://www.printavo.com/invoices/24707362",
+          "shelf": null
+        },
+        {
+          "visual_id": "77168",
+          "invoice_id": "24711283",
+          "nickname": "RUSH-EMB - HOMESTEAD  -4 QTY ",
+          "company": "",
+          "production_due": "2026-10-08",
+          "customer_due": "2026-10-09",
+          "rush": true,
+          "firm": false,
+          "qty": 4,
+          "status_id": "272351",
+          "status_name": "EMB - STAGED - RUSH",
+          "short_status": "Staged \u00b7 RUSH",
+          "url": "https://www.printavo.com/invoices/24711283",
           "shelf": null
         },
         {
@@ -252,7 +252,7 @@
           "invoice_id": "24660769",
           "nickname": "EMB - MIG Construction Mixed Apparel - 27 PCS",
           "company": "SUNSET SCREEN PRINTING",
-          "production_due": "2026-10-06",
+          "production_due": "2026-10-05",
           "customer_due": "2026-10-06",
           "rush": false,
           "firm": false,
@@ -270,7 +270,7 @@
           "invoice_id": "24627114",
           "nickname": "EMB/ AIR ALL/ 30 PC ",
           "company": "",
-          "production_due": "2026-10-07",
+          "production_due": "2026-10-06",
           "customer_due": "2026-10-07",
           "rush": false,
           "firm": false,
@@ -286,7 +286,7 @@
           "invoice_id": "24707906",
           "nickname": "631805 Robertson Fire 2026 - SEPT EMB - HATS - RFD -58591 -  (11 of 16)",
           "company": "Robertson Fire Dept",
-          "production_due": "2026-10-09",
+          "production_due": "2026-10-08",
           "customer_due": "2026-10-15",
           "rush": false,
           "firm": false,
@@ -302,7 +302,7 @@
           "invoice_id": "24713699",
           "nickname": "636233 ROARK CLASSIC TOURNAMENT 2026 EMB - BEANIE - 53647 - (1 OF 2)",
           "company": "Roark Fishing Tournament",
-          "production_due": "2026-10-09",
+          "production_due": "2026-10-08",
           "customer_due": "2026-10-15",
           "rush": false,
           "firm": false,
