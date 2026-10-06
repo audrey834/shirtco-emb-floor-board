@@ -1,10 +1,11 @@
 {
-  "generated_at_ct": "2026-10-06 09:23:49 CDT",
+  "generated_at_ct": "2026-10-06 09:37:31 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
     "Printavo Sewout AR approved: 74555, 76129, 77040, 77186",
+    "77277: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77246: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77245: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77233: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -20,6 +21,7 @@
     "77153: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77151: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77133: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
+    "77094: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77044: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76984: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76899: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -36,9 +38,9 @@
   "counts": {
     "ready_to_sew": 1,
     "needs_barcode": 0,
-    "sewout": 7,
+    "sewout": 8,
     "on_machine": 4,
-    "total": 12
+    "total": 13
   },
   "columns": {
     "ready_to_sew": {
@@ -122,6 +124,25 @@
           "short_status": "DST+barcode \u00b7 no goods",
           "url": "https://www.printavo.com/invoices/24693441",
           "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
+          "visual_id": "77093",
+          "invoice_id": "24696116",
+          "nickname": "EMB - PO32795-2 - Plante Moran - 50PC",
+          "company": "BRANDFUSE",
+          "production_due": "2026-10-08",
+          "customer_due": "2026-10-09",
+          "rush": false,
+          "firm": false,
+          "qty": 50,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24696116",
+          "shelf": "shelf 93",
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
           "blocker": "needed"
@@ -289,10 +310,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 3,
+    "needed": 4,
     "sent": 4,
     "approved": 0,
     "status_based": 4,
-    "override": 3
+    "override": 4
   }
 }
