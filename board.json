@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-06 12:53:13 CDT",
+  "generated_at_ct": "2026-10-06 12:56:24 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -37,9 +37,9 @@
   "counts": {
     "ready_to_sew": 1,
     "needs_barcode": 0,
-    "sewout": 5,
+    "sewout": 6,
     "on_machine": 8,
-    "total": 14
+    "total": 15
   },
   "columns": {
     "ready_to_sew": {
@@ -103,6 +103,25 @@
           "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
           "short_status": "DST+barcode \u00b7 no goods",
           "url": "https://www.printavo.com/invoices/24409140",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
+          "visual_id": "76913",
+          "invoice_id": "24656096",
+          "nickname": "EMB - Cottleville Fire 1/4zip and Job shirt NAME/RANK- 2pc",
+          "company": "Cottleville Fire",
+          "production_due": "2026-10-06",
+          "customer_due": "2026-10-07",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "466183",
+          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
+          "short_status": "DST+barcode \u00b7 no goods",
+          "url": "https://www.printavo.com/invoices/24656096",
           "shelf": null,
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
@@ -232,9 +251,9 @@
           "rush": false,
           "firm": false,
           "qty": 6,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24717229",
           "shelf": "shelf 93",
           "sewout_badge": "approved"
@@ -317,10 +336,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 3,
+    "needed": 4,
     "sent": 2,
     "approved": 0,
     "status_based": 2,
-    "override": 3
+    "override": 4
   }
 }
