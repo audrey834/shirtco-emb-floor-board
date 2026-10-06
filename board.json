@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-10-06 11:50:32 CDT",
+  "generated_at_ct": "2026-10-06 11:59:08 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 76129, 77040, 77186",
+    "Printavo Sewout AR approved: 74555, 76129, 77040, 77110, 77186",
     "77277: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77246: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77245: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -13,7 +13,6 @@
     "77226: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77225: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77223: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
-    "77186: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77156: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77155: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -35,16 +34,33 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 1,
-    "needs_barcode": 2,
-    "sewout": 6,
+    "ready_to_sew": 2,
+    "needs_barcode": 3,
+    "sewout": 5,
     "on_machine": 5,
-    "total": 14
+    "total": 15
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
       "cards": [
+        {
+          "visual_id": "77110",
+          "invoice_id": "24702255",
+          "nickname": "EMB - PO2005195 - Treeline - 20PC",
+          "company": "All Things Swag",
+          "production_due": "2026-10-08",
+          "customer_due": "2026-10-09",
+          "rush": false,
+          "firm": false,
+          "qty": 20,
+          "status_id": "338846",
+          "status_name": "EMB - SEWOUT APPROVED",
+          "short_status": "Sewout approved",
+          "url": "https://www.printavo.com/invoices/24702255",
+          "shelf": null,
+          "sewout_badge": "approved"
+        },
         {
           "visual_id": "76888",
           "invoice_id": "24648831",
@@ -66,6 +82,23 @@
     "needs_barcode": {
       "title": "Needs barcode",
       "cards": [
+        {
+          "visual_id": "77186",
+          "invoice_id": "24717229",
+          "nickname": "EMB - M & M CONTRACTING POLOS - QTY 6 (2 of 2)",
+          "company": "M&M GENERAL CONTRACTING",
+          "production_due": "2026-10-09",
+          "customer_due": "2026-10-12",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24717229",
+          "shelf": "shelf 93",
+          "sewout_badge": "approved"
+        },
         {
           "visual_id": "77222",
           "invoice_id": "24724813",
@@ -196,25 +229,6 @@
           "sewout_badge": "sent",
           "sewout_reason": "approval needed",
           "blocker": "sent"
-        },
-        {
-          "visual_id": "77110",
-          "invoice_id": "24702255",
-          "nickname": "EMB - PO2005195 - Treeline - 20PC",
-          "company": "All Things Swag",
-          "production_due": "2026-10-08",
-          "customer_due": "2026-10-09",
-          "rush": false,
-          "firm": false,
-          "qty": 20,
-          "status_id": "338845",
-          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
-          "short_status": "Sewout sent",
-          "url": "https://www.printavo.com/invoices/24702255",
-          "shelf": null,
-          "sewout_badge": "sent",
-          "sewout_reason": "new art + approval needed",
-          "blocker": "sent"
         }
       ]
     },
@@ -321,9 +335,9 @@
   "sewout_breakdown": {
     "declined": 0,
     "needed": 3,
-    "sent": 3,
+    "sent": 2,
     "approved": 0,
-    "status_based": 3,
+    "status_based": 2,
     "override": 3
   }
 }
