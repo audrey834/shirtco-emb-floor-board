@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-06 09:57:26 CDT",
+  "generated_at_ct": "2026-10-06 10:05:44 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -24,7 +24,6 @@
     "77133: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77094: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77044: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
-    "76984: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76899: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76758: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76385: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -37,16 +36,48 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 1,
+    "ready_to_sew": 3,
     "needs_barcode": 0,
-    "sewout": 8,
-    "on_machine": 4,
-    "total": 13
+    "sewout": 7,
+    "on_machine": 5,
+    "total": 15
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
       "cards": [
+        {
+          "visual_id": "77020",
+          "invoice_id": "24677443",
+          "nickname": "RESTITCH//EMB - PO26090403 - Maintenance Hoodies - 1PC",
+          "company": "Estwo Promotions, Inc.",
+          "production_due": "2026-10-01",
+          "customer_due": "2026-10-02",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "272353",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - RUSH",
+          "short_status": "Goods here \u00b7 RUSH",
+          "url": "https://www.printavo.com/invoices/24677443",
+          "shelf": "shelf e1"
+        },
+        {
+          "visual_id": "76984",
+          "invoice_id": "24672521",
+          "nickname": "B371907 Local IAFF 2665 Apparel Store 2025 - Batched 09/29/2026 EMB - LC - D3- 53038 -  (1 of 1)",
+          "company": "IAFF local 2665",
+          "production_due": "2026-10-06",
+          "customer_due": "2026-10-13",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24672521",
+          "shelf": "shelf e1"
+        },
         {
           "visual_id": "76888",
           "invoice_id": "24648831",
@@ -125,25 +156,6 @@
           "short_status": "DST+barcode \u00b7 no goods",
           "url": "https://www.printavo.com/invoices/24693441",
           "shelf": null,
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed",
-          "blocker": "needed"
-        },
-        {
-          "visual_id": "77093",
-          "invoice_id": "24696116",
-          "nickname": "EMB - PO32795-2 - Plante Moran - 50PC",
-          "company": "BRANDFUSE",
-          "production_due": "2026-10-08",
-          "customer_due": "2026-10-09",
-          "rush": false,
-          "firm": false,
-          "qty": 50,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24696116",
-          "shelf": "shelf 93",
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
           "blocker": "needed"
@@ -264,6 +276,24 @@
           "sewout_badge": "approved"
         },
         {
+          "visual_id": "77093",
+          "invoice_id": "24696116",
+          "nickname": "EMB - PO32795-2 - Plante Moran - 50PC",
+          "company": "BRANDFUSE",
+          "production_due": "2026-10-08",
+          "customer_due": "2026-10-09",
+          "rush": false,
+          "firm": false,
+          "qty": 50,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24696116",
+          "shelf": "shelf 93",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed"
+        },
+        {
           "visual_id": "77152",
           "invoice_id": "24707906",
           "nickname": "631805 Robertson Fire 2026 - SEPT EMB - HATS - RFD -58591 -  (11 of 16)",
@@ -311,10 +341,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 4,
+    "needed": 3,
     "sent": 4,
     "approved": 0,
     "status_based": 4,
-    "override": 4
+    "override": 3
   }
 }
