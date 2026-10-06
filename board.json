@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-06 08:03:16 CDT",
+  "generated_at_ct": "2026-10-06 08:09:44 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -126,25 +126,6 @@
           "blocker": "needed"
         },
         {
-          "visual_id": "77110",
-          "invoice_id": "24702255",
-          "nickname": "EMB - PO2005195 - Treeline - 20PC",
-          "company": "All Things Swag",
-          "production_due": "2026-10-08",
-          "customer_due": "2026-10-09",
-          "rush": false,
-          "firm": false,
-          "qty": 20,
-          "status_id": "466183",
-          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
-          "short_status": "DST+barcode \u00b7 no goods",
-          "url": "https://www.printavo.com/invoices/24702255",
-          "shelf": null,
-          "sewout_badge": "needed",
-          "sewout_reason": "new art + approval needed",
-          "blocker": "needed"
-        },
-        {
           "visual_id": "77183",
           "invoice_id": "24714860",
           "nickname": "EMB- CURRENT RIVER FALL FLOAT 2026-8 PCS",
@@ -237,6 +218,25 @@
           "sewout_badge": "sent",
           "sewout_reason": "new art + approval needed",
           "blocker": "sent"
+        },
+        {
+          "visual_id": "77110",
+          "invoice_id": "24702255",
+          "nickname": "EMB - PO2005195 - Treeline - 20PC",
+          "company": "All Things Swag",
+          "production_due": "2026-10-08",
+          "customer_due": "2026-10-09",
+          "rush": false,
+          "firm": false,
+          "qty": 20,
+          "status_id": "338845",
+          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
+          "short_status": "Sewout sent",
+          "url": "https://www.printavo.com/invoices/24702255",
+          "shelf": null,
+          "sewout_badge": "sent",
+          "sewout_reason": "new art + approval needed",
+          "blocker": "sent"
         }
       ]
     },
@@ -324,10 +324,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 6,
-    "sent": 3,
+    "needed": 5,
+    "sent": 4,
     "approved": 0,
-    "status_based": 3,
-    "override": 6
+    "status_based": 4,
+    "override": 5
   }
 }
