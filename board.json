@@ -1,11 +1,10 @@
 {
-  "generated_at_ct": "2026-10-06 11:03:22 CDT",
+  "generated_at_ct": "2026-10-06 11:16:57 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
     "Printavo Sewout AR approved: 74555, 76129, 77040, 77091, 77186",
-    "77298: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77277: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77246: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77245: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -225,22 +224,6 @@
           "sewout_reason": "approval needed"
         },
         {
-          "visual_id": "76984",
-          "invoice_id": "24672521",
-          "nickname": "B371907 Local IAFF 2665 Apparel Store 2025 - Batched 09/29/2026 EMB - LC - D3- 53038 -  (1 of 1)",
-          "company": "IAFF local 2665",
-          "production_due": "2026-10-06",
-          "customer_due": "2026-10-13",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24672521",
-          "shelf": "shelf e1"
-        },
-        {
           "visual_id": "77040",
           "invoice_id": "24684529",
           "nickname": "EMB - Judgment Labs dad hats -100pc ",
@@ -291,6 +274,22 @@
           "shelf": "shelf 93",
           "sewout_badge": "needed",
           "sewout_reason": "approval needed"
+        },
+        {
+          "visual_id": "77298",
+          "invoice_id": "24746124",
+          "nickname": "EMB-NEW ATRI LOGO-10 PCS",
+          "company": "A&A Towing",
+          "production_due": "2026-10-12",
+          "customer_due": "2026-10-13",
+          "rush": false,
+          "firm": false,
+          "qty": 10,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24746124",
+          "shelf": null
         }
       ]
     }
