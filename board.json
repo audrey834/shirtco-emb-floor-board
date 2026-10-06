@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-06 07:36:14 CDT",
+  "generated_at_ct": "2026-10-06 07:42:25 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -35,9 +35,9 @@
   "counts": {
     "ready_to_sew": 1,
     "needs_barcode": 0,
-    "sewout": 7,
+    "sewout": 9,
     "on_machine": 4,
-    "total": 12
+    "total": 14
   },
   "columns": {
     "ready_to_sew": {
@@ -73,7 +73,7 @@
           "invoice_id": "23967902",
           "nickname": "EMB - NORTH COUNTY TRAINING INS 1/4 ZIPS JOBSHIRT - QTY 31 (3 OF 5)",
           "company": "Mid County Fire Department",
-          "production_due": "2026-10-01",
+          "production_due": "2026-09-30",
           "customer_due": "2026-10-01",
           "rush": false,
           "firm": false,
@@ -92,7 +92,7 @@
           "invoice_id": "24409140",
           "nickname": "EMB - Auto Vitality UA Polos White - 5pc 1OF2 ",
           "company": "",
-          "production_due": "2026-10-07",
+          "production_due": "2026-10-06",
           "customer_due": "2026-10-07",
           "rush": false,
           "firm": false,
@@ -140,6 +140,44 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24695595",
           "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "new art + approval needed",
+          "blocker": "needed"
+        },
+        {
+          "visual_id": "77110",
+          "invoice_id": "24702255",
+          "nickname": "EMB - PO2005195 - Treeline - 20PC",
+          "company": "All Things Swag",
+          "production_due": "2026-10-08",
+          "customer_due": "2026-10-09",
+          "rush": false,
+          "firm": false,
+          "qty": 20,
+          "status_id": "466183",
+          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
+          "short_status": "DST+barcode \u00b7 no goods",
+          "url": "https://www.printavo.com/invoices/24702255",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "new art + approval needed",
+          "blocker": "needed"
+        },
+        {
+          "visual_id": "77183",
+          "invoice_id": "24714860",
+          "nickname": "EMB- CURRENT RIVER FALL FLOAT 2026-8 PCS",
+          "company": "",
+          "production_due": "2026-10-09",
+          "customer_due": "2026-10-12",
+          "rush": false,
+          "firm": false,
+          "qty": 8,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24714860",
+          "shelf": "shelf 85",
           "sewout_badge": "needed",
           "sewout_reason": "new art + approval needed",
           "blocker": "needed"
@@ -224,6 +262,22 @@
           "sewout_reason": "approval needed"
         },
         {
+          "visual_id": "76804",
+          "invoice_id": "24627114",
+          "nickname": "EMB/ AIR ALL/ 30 PC ",
+          "company": "",
+          "production_due": "2026-10-06",
+          "customer_due": "2026-10-07",
+          "rush": false,
+          "firm": false,
+          "qty": 30,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24627114",
+          "shelf": "shelf 91"
+        },
+        {
           "visual_id": "77040",
           "invoice_id": "24684529",
           "nickname": "EMB - Judgment Labs dad hats -100pc ",
@@ -239,22 +293,6 @@
           "url": "https://www.printavo.com/invoices/24684529",
           "shelf": null,
           "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "76804",
-          "invoice_id": "24627114",
-          "nickname": "EMB/ AIR ALL/ 30 PC ",
-          "company": "",
-          "production_due": "2026-10-07",
-          "customer_due": "2026-10-07",
-          "rush": false,
-          "firm": false,
-          "qty": 30,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24627114",
-          "shelf": "shelf 91"
         },
         {
           "visual_id": "77152",
@@ -286,10 +324,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 5,
+    "needed": 7,
     "sent": 2,
     "approved": 0,
     "status_based": 2,
-    "override": 5
+    "override": 7
   }
 }
