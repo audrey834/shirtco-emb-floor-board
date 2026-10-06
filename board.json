@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-06 14:23:13 CDT",
+  "generated_at_ct": "2026-10-06 14:29:15 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -21,7 +21,6 @@
     "77151: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77133: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77110: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
-    "77094: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77044: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76899: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76758: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -36,10 +35,10 @@
   ],
   "counts": {
     "ready_to_sew": 1,
-    "needs_barcode": 0,
+    "needs_barcode": 1,
     "sewout": 5,
     "on_machine": 6,
-    "total": 12
+    "total": 13
   },
   "columns": {
     "ready_to_sew": {
@@ -50,7 +49,7 @@
           "invoice_id": "24641611",
           "nickname": "EMB - PO2005184 - Clune - 40PC",
           "company": "All Things Swag",
-          "production_due": "2026-10-03",
+          "production_due": "2026-10-02",
           "customer_due": "2026-10-06",
           "rush": false,
           "firm": false,
@@ -66,7 +65,24 @@
     },
     "needs_barcode": {
       "title": "Needs barcode",
-      "cards": []
+      "cards": [
+        {
+          "visual_id": "77094",
+          "invoice_id": "24696920",
+          "nickname": "EMB HOODED APPAREL",
+          "company": "RAPIDFIRE",
+          "production_due": "2026-10-12",
+          "customer_due": "2026-10-14",
+          "rush": false,
+          "firm": false,
+          "qty": 28,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24696920",
+          "shelf": null
+        }
+      ]
     },
     "sewout": {
       "title": "Sewout",
@@ -76,7 +92,7 @@
           "invoice_id": "23967902",
           "nickname": "EMB - NORTH COUNTY TRAINING INS 1/4 ZIPS JOBSHIRT - QTY 31 (3 OF 5)",
           "company": "Mid County Fire Department",
-          "production_due": "2026-10-01",
+          "production_due": "2026-09-30",
           "customer_due": "2026-10-01",
           "rush": false,
           "firm": false,
@@ -86,6 +102,25 @@
           "short_status": "DST+barcode \u00b7 no goods",
           "url": "https://www.printavo.com/invoices/23967902",
           "shelf": "shelf under",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
+          "visual_id": "75910",
+          "invoice_id": "24409140",
+          "nickname": "EMB - Auto Vitality UA Polos White - 5pc 1OF2 ",
+          "company": "",
+          "production_due": "2026-10-06",
+          "customer_due": "2026-10-07",
+          "rush": false,
+          "firm": false,
+          "qty": 5,
+          "status_id": "466183",
+          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
+          "short_status": "DST+barcode \u00b7 no goods",
+          "url": "https://www.printavo.com/invoices/24409140",
+          "shelf": null,
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
           "blocker": "needed"
@@ -104,25 +139,6 @@
           "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
           "short_status": "DST+barcode \u00b7 no goods",
           "url": "https://www.printavo.com/invoices/24656096",
-          "shelf": null,
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed",
-          "blocker": "needed"
-        },
-        {
-          "visual_id": "75910",
-          "invoice_id": "24409140",
-          "nickname": "EMB - Auto Vitality UA Polos White - 5pc 1OF2 ",
-          "company": "",
-          "production_due": "2026-10-07",
-          "customer_due": "2026-10-07",
-          "rush": false,
-          "firm": false,
-          "qty": 5,
-          "status_id": "466183",
-          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
-          "short_status": "DST+barcode \u00b7 no goods",
-          "url": "https://www.printavo.com/invoices/24409140",
           "shelf": null,
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
@@ -189,6 +205,22 @@
           "sewout_reason": "approval needed"
         },
         {
+          "visual_id": "76888",
+          "invoice_id": "24648831",
+          "nickname": "EMB CRAIG AND SON EMBROIDERED CAPS",
+          "company": "Craig and Son Concrete",
+          "production_due": "2026-10-12",
+          "customer_due": "2026-10-12",
+          "rush": false,
+          "firm": false,
+          "qty": 48,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24648831",
+          "shelf": "shelf 94"
+        },
+        {
           "visual_id": "77222",
           "invoice_id": "24724813",
           "nickname": "B376866 Maryland Heights Fire 2026 - Batched 10/05/2026 EMB - HATS - 53491 - (2 of 6)",
@@ -251,22 +283,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24746124",
           "shelf": null
-        },
-        {
-          "visual_id": "76888",
-          "invoice_id": "24648831",
-          "nickname": "EMB CRAIG AND SON EMBROIDERED CAPS",
-          "company": "Craig and Son Concrete",
-          "production_due": "2026-10-13",
-          "customer_due": "2026-10-12",
-          "rush": false,
-          "firm": false,
-          "qty": 48,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24648831",
-          "shelf": "shelf 94"
         }
       ]
     }
