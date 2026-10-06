@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-06 11:59:08 CDT",
+  "generated_at_ct": "2026-10-06 12:07:26 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -20,6 +20,7 @@
     "77153: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77151: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77133: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
+    "77110: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77094: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77044: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76899: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -34,33 +35,16 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 2,
-    "needs_barcode": 3,
+    "ready_to_sew": 1,
+    "needs_barcode": 2,
     "sewout": 5,
-    "on_machine": 5,
-    "total": 15
+    "on_machine": 6,
+    "total": 14
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
       "cards": [
-        {
-          "visual_id": "77110",
-          "invoice_id": "24702255",
-          "nickname": "EMB - PO2005195 - Treeline - 20PC",
-          "company": "All Things Swag",
-          "production_due": "2026-10-08",
-          "customer_due": "2026-10-09",
-          "rush": false,
-          "firm": false,
-          "qty": 20,
-          "status_id": "338846",
-          "status_name": "EMB - SEWOUT APPROVED",
-          "short_status": "Sewout approved",
-          "url": "https://www.printavo.com/invoices/24702255",
-          "shelf": null,
-          "sewout_badge": "approved"
-        },
         {
           "visual_id": "76888",
           "invoice_id": "24648831",
@@ -83,28 +67,11 @@
       "title": "Needs barcode",
       "cards": [
         {
-          "visual_id": "77186",
-          "invoice_id": "24717229",
-          "nickname": "EMB - M & M CONTRACTING POLOS - QTY 6 (2 of 2)",
-          "company": "M&M GENERAL CONTRACTING",
-          "production_due": "2026-10-09",
-          "customer_due": "2026-10-12",
-          "rush": false,
-          "firm": false,
-          "qty": 6,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24717229",
-          "shelf": "shelf 93",
-          "sewout_badge": "approved"
-        },
-        {
           "visual_id": "77222",
           "invoice_id": "24724813",
           "nickname": "B376866 Maryland Heights Fire 2026 - Batched 10/05/2026 EMB - HATS - 53491 - (2 of 6)",
           "company": "Maryland Heights Fire Department",
-          "production_due": "2026-10-12",
+          "production_due": "2026-10-13",
           "customer_due": "2026-10-19",
           "rush": false,
           "firm": false,
@@ -120,7 +87,7 @@
           "invoice_id": "24725979",
           "nickname": "B386628 WASHINGTON UNIVERSITY LAW - VOL 104 - Batched 10/05/2026 EMB-BEANIE-76816",
           "company": "WASHINGTON UNIVERSITY SCHOOL OF LAW",
-          "production_due": "2026-10-12",
+          "production_due": "2026-10-13",
           "customer_due": "2026-10-12",
           "rush": false,
           "firm": false,
@@ -179,7 +146,7 @@
           "invoice_id": "24693441",
           "nickname": "EMB - POOLSIDE LIVING WATERFALL LOGO  hat QTY 48 (2 OF 2)",
           "company": "Poolside Living",
-          "production_due": "2026-10-08",
+          "production_due": "2026-10-09",
           "customer_due": "2026-10-09",
           "rush": false,
           "firm": false,
@@ -274,7 +241,7 @@
           "invoice_id": "24684529",
           "nickname": "EMB - Judgment Labs dad hats -100pc ",
           "company": "Judgment Labs",
-          "production_due": "2026-10-06",
+          "production_due": "2026-10-07",
           "customer_due": "2026-10-09",
           "rush": false,
           "firm": false,
@@ -303,6 +270,23 @@
           "shelf": "shelf 93",
           "sewout_badge": "needed",
           "sewout_reason": "approval needed"
+        },
+        {
+          "visual_id": "77186",
+          "invoice_id": "24717229",
+          "nickname": "EMB - M & M CONTRACTING POLOS - QTY 6 (2 of 2)",
+          "company": "M&M GENERAL CONTRACTING",
+          "production_due": "2026-10-09",
+          "customer_due": "2026-10-12",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24717229",
+          "shelf": "shelf 93",
+          "sewout_badge": "approved"
         },
         {
           "visual_id": "77298",
