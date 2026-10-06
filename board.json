@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-06 09:50:30 CDT",
+  "generated_at_ct": "2026-10-06 09:57:26 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -9,6 +9,7 @@
     "77246: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77245: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77233: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
+    "77231: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77226: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77225: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77223: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
