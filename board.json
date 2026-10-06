@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-10-06 14:01:13 CDT",
+  "generated_at_ct": "2026-10-06 14:06:47 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 76129, 76869, 77110, 77186",
+    "Printavo Sewout AR approved: 74555, 76129, 76869, 77110",
     "77288: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77277: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77246: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -38,8 +38,8 @@
     "ready_to_sew": 1,
     "needs_barcode": 0,
     "sewout": 5,
-    "on_machine": 7,
-    "total": 13
+    "on_machine": 6,
+    "total": 12
   },
   "columns": {
     "ready_to_sew": {
@@ -187,23 +187,6 @@
           "shelf": null,
           "sewout_badge": "needed",
           "sewout_reason": "approval needed"
-        },
-        {
-          "visual_id": "77186",
-          "invoice_id": "24717229",
-          "nickname": "EMB - M & M CONTRACTING POLOS - QTY 6 (2 of 2)",
-          "company": "M&M GENERAL CONTRACTING",
-          "production_due": "2026-10-09",
-          "customer_due": "2026-10-12",
-          "rush": false,
-          "firm": false,
-          "qty": 6,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24717229",
-          "shelf": "shelf 93",
-          "sewout_badge": "approved"
         },
         {
           "visual_id": "76888",
