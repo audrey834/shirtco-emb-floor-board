@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-07 12:44:00 CDT",
+  "generated_at_ct": "2026-10-07 12:52:45 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -29,10 +29,10 @@
   ],
   "counts": {
     "ready_to_sew": 2,
-    "needs_barcode": 0,
+    "needs_barcode": 1,
     "sewout": 3,
     "on_machine": 9,
-    "total": 14
+    "total": 15
   },
   "columns": {
     "ready_to_sew": {
@@ -75,7 +75,24 @@
     },
     "needs_barcode": {
       "title": "Needs barcode",
-      "cards": []
+      "cards": [
+        {
+          "visual_id": "77381",
+          "invoice_id": "24767764",
+          "nickname": "EMB/ PO:E067LR/ CADI/ BLACK / 5PC",
+          "company": "Vestis MC# 617",
+          "production_due": "2026-10-13",
+          "customer_due": "2026-10-14",
+          "rush": false,
+          "firm": false,
+          "qty": 6,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24767764",
+          "shelf": null
+        }
+      ]
     },
     "sewout": {
       "title": "Sewout",
