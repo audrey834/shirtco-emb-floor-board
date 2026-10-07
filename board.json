@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-07 10:17:32 CDT",
+  "generated_at_ct": "2026-10-07 10:35:28 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -13,7 +13,6 @@
     "77223: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77156: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77155: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
-    "77154: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77153: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77151: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77133: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -32,10 +31,10 @@
   ],
   "counts": {
     "ready_to_sew": 1,
-    "needs_barcode": 0,
+    "needs_barcode": 1,
     "sewout": 4,
     "on_machine": 9,
-    "total": 14
+    "total": 15
   },
   "columns": {
     "ready_to_sew": {
@@ -61,7 +60,24 @@
     },
     "needs_barcode": {
       "title": "Needs barcode",
-      "cards": []
+      "cards": [
+        {
+          "visual_id": "77154",
+          "invoice_id": "24707910",
+          "nickname": "631805 Robertson Fire 2026 - SEPT EMB - LC/RC - WHITE RC - 58591 -  (13 of 16)",
+          "company": "Robertson Fire Dept",
+          "production_due": "2026-10-08",
+          "customer_due": "2026-10-15",
+          "rush": false,
+          "firm": false,
+          "qty": 14,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24707910",
+          "shelf": "shelf 93"
+        }
+      ]
     },
     "sewout": {
       "title": "Sewout",
@@ -208,9 +224,9 @@
           "rush": false,
           "firm": false,
           "qty": 2,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24656096",
           "shelf": null,
           "sewout_badge": "needed",
