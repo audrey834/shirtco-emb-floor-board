@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-07 13:22:56 CDT",
+  "generated_at_ct": "2026-10-07 13:33:39 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -27,33 +27,16 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 2,
+    "ready_to_sew": 1,
     "needs_barcode": 2,
     "sewout": 2,
-    "on_machine": 7,
+    "on_machine": 8,
     "total": 13
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
       "cards": [
-        {
-          "visual_id": "76729",
-          "invoice_id": "24611638",
-          "nickname": "EMB - PO60924114C - Plante Moran - 125PC",
-          "company": "Kaeser & Blair, INC",
-          "production_due": "2026-09-30",
-          "customer_due": "2026-10-02",
-          "rush": false,
-          "firm": false,
-          "qty": 125,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24611638",
-          "shelf": "shelf 90",
-          "sewout_badge": "approved"
-        },
         {
           "visual_id": "77288",
           "invoice_id": "24744103",
@@ -190,6 +173,23 @@
           "sewout_reason": "approval needed"
         },
         {
+          "visual_id": "76729",
+          "invoice_id": "24611638",
+          "nickname": "EMB - PO60924114C - Plante Moran - 125PC",
+          "company": "Kaeser & Blair, INC",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-10-02",
+          "rush": false,
+          "firm": false,
+          "qty": 125,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24611638",
+          "shelf": "shelf 90",
+          "sewout_badge": "approved"
+        },
+        {
           "visual_id": "77154",
           "invoice_id": "24707910",
           "nickname": "631805 Robertson Fire 2026 - SEPT EMB - LC/RC - WHITE RC - 58591 -  (13 of 16)",
@@ -215,9 +215,9 @@
           "rush": false,
           "firm": false,
           "qty": 4,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24707916",
           "shelf": "shelf e3"
         },
