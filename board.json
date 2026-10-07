@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-07 13:33:39 CDT",
+  "generated_at_ct": "2026-10-07 13:39:56 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -27,10 +27,10 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 1,
-    "needs_barcode": 2,
+    "ready_to_sew": 2,
+    "needs_barcode": 0,
     "sewout": 2,
-    "on_machine": 8,
+    "on_machine": 9,
     "total": 13
   },
   "columns": {
@@ -52,27 +52,6 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24744103",
           "shelf": "shelf e3"
-        }
-      ]
-    },
-    "needs_barcode": {
-      "title": "Needs barcode",
-      "cards": [
-        {
-          "visual_id": "76327",
-          "invoice_id": "24510081",
-          "nickname": "DTF / EMB - PO 60915196B- 2026 ATTENDEE GIFT -1PC ",
-          "company": "Kaeser & Blair, INC",
-          "production_due": "2026-10-01",
-          "customer_due": "2026-10-01",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24510081",
-          "shelf": "shelf e3"
         },
         {
           "visual_id": "77381",
@@ -84,13 +63,17 @@
           "rush": false,
           "firm": false,
           "qty": 6,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24767764",
           "shelf": null
         }
       ]
+    },
+    "needs_barcode": {
+      "title": "Needs barcode",
+      "cards": []
     },
     "sewout": {
       "title": "Sewout",
@@ -188,6 +171,22 @@
           "url": "https://www.printavo.com/invoices/24611638",
           "shelf": "shelf 90",
           "sewout_badge": "approved"
+        },
+        {
+          "visual_id": "76327",
+          "invoice_id": "24510081",
+          "nickname": "DTF / EMB - PO 60915196B- 2026 ATTENDEE GIFT -1PC ",
+          "company": "Kaeser & Blair, INC",
+          "production_due": "2026-10-01",
+          "customer_due": "2026-10-01",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24510081",
+          "shelf": "shelf e3"
         },
         {
           "visual_id": "77154",
