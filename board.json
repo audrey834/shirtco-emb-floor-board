@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-07 10:35:28 CDT",
+  "generated_at_ct": "2026-10-07 10:46:28 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -30,54 +30,20 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 1,
-    "needs_barcode": 1,
+    "ready_to_sew": 0,
+    "needs_barcode": 0,
     "sewout": 4,
-    "on_machine": 9,
+    "on_machine": 11,
     "total": 15
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
-      "cards": [
-        {
-          "visual_id": "77339",
-          "invoice_id": "24754131",
-          "nickname": "RESTITCH //EMB HATS  FOREST GREEN - QTY 35 EA",
-          "company": "Common Cause",
-          "production_due": "2026-10-08",
-          "customer_due": "2026-10-09",
-          "rush": true,
-          "firm": false,
-          "qty": 35,
-          "status_id": "272353",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - RUSH",
-          "short_status": "Goods here \u00b7 RUSH",
-          "url": "https://www.printavo.com/invoices/24754131",
-          "shelf": "shelf 91"
-        }
-      ]
+      "cards": []
     },
     "needs_barcode": {
       "title": "Needs barcode",
-      "cards": [
-        {
-          "visual_id": "77154",
-          "invoice_id": "24707910",
-          "nickname": "631805 Robertson Fire 2026 - SEPT EMB - LC/RC - WHITE RC - 58591 -  (13 of 16)",
-          "company": "Robertson Fire Dept",
-          "production_due": "2026-10-08",
-          "customer_due": "2026-10-15",
-          "rush": false,
-          "firm": false,
-          "qty": 14,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24707910",
-          "shelf": "shelf 93"
-        }
-      ]
+      "cards": []
     },
     "sewout": {
       "title": "Sewout",
@@ -233,6 +199,22 @@
           "sewout_reason": "approval needed"
         },
         {
+          "visual_id": "77154",
+          "invoice_id": "24707910",
+          "nickname": "631805 Robertson Fire 2026 - SEPT EMB - LC/RC - WHITE RC - 58591 -  (13 of 16)",
+          "company": "Robertson Fire Dept",
+          "production_due": "2026-10-08",
+          "customer_due": "2026-10-15",
+          "rush": false,
+          "firm": false,
+          "qty": 14,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24707910",
+          "shelf": "shelf 93"
+        },
+        {
           "visual_id": "77157",
           "invoice_id": "24707916",
           "nickname": "631805 Robertson Fire 2026 - SEPT EMB - RIGHT HIP - 50 - 61956 -  (16 of 16)",
@@ -263,6 +245,22 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24744161",
           "shelf": "shelf e3"
+        },
+        {
+          "visual_id": "77339",
+          "invoice_id": "24754131",
+          "nickname": "RESTITCH //EMB HATS  FOREST GREEN - QTY 35 EA",
+          "company": "Common Cause",
+          "production_due": "2026-10-08",
+          "customer_due": "2026-10-09",
+          "rush": false,
+          "firm": false,
+          "qty": 35,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24754131",
+          "shelf": "shelf 91"
         },
         {
           "visual_id": "77222",
