@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-07 07:41:20 CDT",
+  "generated_at_ct": "2026-10-07 07:46:47 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -20,6 +20,7 @@
     "77153: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77151: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77133: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
+    "77121: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77110: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76899: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76758: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -33,10 +34,10 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 2,
+    "ready_to_sew": 1,
     "needs_barcode": 0,
     "sewout": 5,
-    "on_machine": 4,
+    "on_machine": 5,
     "total": 11
   },
   "columns": {
@@ -59,22 +60,6 @@
           "url": "https://www.printavo.com/invoices/24641611",
           "shelf": "shelf 92",
           "sewout_badge": "approved"
-        },
-        {
-          "visual_id": "77094",
-          "invoice_id": "24696920",
-          "nickname": "EMB HOODED APPAREL",
-          "company": "RAPIDFIRE",
-          "production_due": "2026-10-12",
-          "customer_due": "2026-10-14",
-          "rush": false,
-          "firm": false,
-          "qty": 28,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24696920",
-          "shelf": null
         }
       ]
     },
@@ -90,7 +75,7 @@
           "invoice_id": "23967902",
           "nickname": "EMB - NORTH COUNTY TRAINING INS 1/4 ZIPS JOBSHIRT - QTY 31 (3 OF 5)",
           "company": "Mid County Fire Department",
-          "production_due": "2026-10-01",
+          "production_due": "2026-09-30",
           "customer_due": "2026-10-01",
           "rush": false,
           "firm": false,
@@ -100,6 +85,25 @@
           "short_status": "DST+barcode \u00b7 no goods",
           "url": "https://www.printavo.com/invoices/23967902",
           "shelf": "shelf under",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
+          "visual_id": "75910",
+          "invoice_id": "24409140",
+          "nickname": "EMB - Auto Vitality UA Polos White - 5pc 1OF2 ",
+          "company": "",
+          "production_due": "2026-10-06",
+          "customer_due": "2026-10-07",
+          "rush": false,
+          "firm": false,
+          "qty": 5,
+          "status_id": "466183",
+          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
+          "short_status": "DST+barcode \u00b7 no goods",
+          "url": "https://www.printavo.com/invoices/24409140",
+          "shelf": null,
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
           "blocker": "needed"
@@ -118,25 +122,6 @@
           "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
           "short_status": "DST+barcode \u00b7 no goods",
           "url": "https://www.printavo.com/invoices/24656096",
-          "shelf": null,
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed",
-          "blocker": "needed"
-        },
-        {
-          "visual_id": "75910",
-          "invoice_id": "24409140",
-          "nickname": "EMB - Auto Vitality UA Polos White - 5pc 1OF2 ",
-          "company": "",
-          "production_due": "2026-10-07",
-          "customer_due": "2026-10-07",
-          "rush": false,
-          "firm": false,
-          "qty": 5,
-          "status_id": "466183",
-          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
-          "short_status": "DST+barcode \u00b7 no goods",
-          "url": "https://www.printavo.com/invoices/24409140",
           "shelf": null,
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
@@ -199,6 +184,22 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24685108",
           "shelf": "shelf 93"
+        },
+        {
+          "visual_id": "77094",
+          "invoice_id": "24696920",
+          "nickname": "EMB HOODED APPAREL",
+          "company": "RAPIDFIRE",
+          "production_due": "2026-10-12",
+          "customer_due": "2026-10-14",
+          "rush": false,
+          "firm": false,
+          "qty": 28,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24696920",
+          "shelf": null
         },
         {
           "visual_id": "77222",
