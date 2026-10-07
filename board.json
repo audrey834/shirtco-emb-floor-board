@@ -1,11 +1,10 @@
 {
-  "generated_at_ct": "2026-10-07 10:57:47 CDT",
+  "generated_at_ct": "2026-10-07 11:11:57 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 75674, 76129, 76869, 77110",
-    "77288: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
+    "Printavo Sewout AR approved: 74555, 75674, 76129, 77110",
     "77246: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77245: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77231: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -31,9 +30,9 @@
   ],
   "counts": {
     "ready_to_sew": 0,
-    "needs_barcode": 0,
+    "needs_barcode": 1,
     "sewout": 4,
-    "on_machine": 11,
+    "on_machine": 10,
     "total": 15
   },
   "columns": {
@@ -43,7 +42,24 @@
     },
     "needs_barcode": {
       "title": "Needs barcode",
-      "cards": []
+      "cards": [
+        {
+          "visual_id": "77288",
+          "invoice_id": "24744103",
+          "nickname": "EMB - AKWA Polos UBT/OCSEA - 2 PCS - PO #9949",
+          "company": "ADTEK PROMOTIONS",
+          "production_due": "2026-10-12",
+          "customer_due": "2026-10-15",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24744103",
+          "shelf": "shelf e3"
+        }
+      ]
     },
     "sewout": {
       "title": "Sewout",
@@ -53,7 +69,7 @@
           "invoice_id": "24409140",
           "nickname": "EMB - Auto Vitality UA Polos White - 5pc 1OF2 ",
           "company": "",
-          "production_due": "2026-10-06",
+          "production_due": "2026-10-07",
           "customer_due": "2026-10-07",
           "rush": false,
           "firm": false,
@@ -150,35 +166,18 @@
           "invoice_id": "23967902",
           "nickname": "EMB - NORTH COUNTY TRAINING INS 1/4 ZIPS JOBSHIRT - QTY 31 (3 OF 5)",
           "company": "Mid County Fire Department",
-          "production_due": "2026-09-30",
+          "production_due": "2026-10-01",
           "customer_due": "2026-10-01",
           "rush": false,
           "firm": false,
           "qty": 31,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/23967902",
           "shelf": "shelf under",
           "sewout_badge": "needed",
           "sewout_reason": "approval needed"
-        },
-        {
-          "visual_id": "76869",
-          "invoice_id": "24641611",
-          "nickname": "EMB - PO2005184 - Clune - 40PC",
-          "company": "All Things Swag",
-          "production_due": "2026-10-02",
-          "customer_due": "2026-10-06",
-          "rush": false,
-          "firm": false,
-          "qty": 41,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24641611",
-          "shelf": "shelf 92",
-          "sewout_badge": "approved"
         },
         {
           "visual_id": "76913",
@@ -240,9 +239,9 @@
           "rush": false,
           "firm": false,
           "qty": 3,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24744161",
           "shelf": "shelf e3"
         },
@@ -256,9 +255,9 @@
           "rush": false,
           "firm": false,
           "qty": 35,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24754131",
           "shelf": "shelf 91"
         },
