@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-10-07 14:11:30 CDT",
+  "generated_at_ct": "2026-10-07 14:16:27 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 75674, 76729, 77110",
+    "Printavo Sewout AR approved: 74555, 75674, 76129, 76729, 77110",
     "77246: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77245: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77231: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -21,6 +21,7 @@
     "76758: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76385: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76382: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
+    "76129: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "74555: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71572: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71324: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -165,9 +166,9 @@
           "rush": false,
           "firm": false,
           "qty": 125,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24611638",
           "shelf": "shelf 90",
           "sewout_badge": "approved"
