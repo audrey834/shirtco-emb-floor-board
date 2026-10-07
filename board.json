@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-07 09:27:02 CDT",
+  "generated_at_ct": "2026-10-07 09:40:54 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -33,8 +33,8 @@
   "counts": {
     "ready_to_sew": 0,
     "needs_barcode": 0,
-    "sewout": 6,
-    "on_machine": 10,
+    "sewout": 5,
+    "on_machine": 11,
     "total": 16
   },
   "columns": {
@@ -101,25 +101,6 @@
           "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
           "short_status": "DST+barcode \u00b7 no goods",
           "url": "https://www.printavo.com/invoices/24409140",
-          "shelf": null,
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed",
-          "blocker": "needed"
-        },
-        {
-          "visual_id": "76913",
-          "invoice_id": "24656096",
-          "nickname": "EMB - Cottleville Fire 1/4zip and Job shirt NAME/RANK- 2pc",
-          "company": "Cottleville Fire",
-          "production_due": "2026-10-06",
-          "customer_due": "2026-10-07",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "466183",
-          "status_name": "EMB - DST FILE UPLOADED - BARCODE UPLOADED",
-          "short_status": "DST+barcode \u00b7 no goods",
-          "url": "https://www.printavo.com/invoices/24656096",
           "shelf": null,
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
@@ -202,6 +183,24 @@
           "sewout_badge": "approved"
         },
         {
+          "visual_id": "76913",
+          "invoice_id": "24656096",
+          "nickname": "EMB - Cottleville Fire 1/4zip and Job shirt NAME/RANK- 2pc",
+          "company": "Cottleville Fire",
+          "production_due": "2026-10-06",
+          "customer_due": "2026-10-07",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24656096",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed"
+        },
+        {
           "visual_id": "77044",
           "invoice_id": "24685108",
           "nickname": "EMB - PO60930176B - Eventworks - 80PC",
@@ -275,9 +274,9 @@
           "rush": false,
           "firm": false,
           "qty": 2,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24725977",
           "shelf": "shelf e3"
         },
@@ -343,10 +342,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 5,
+    "needed": 4,
     "sent": 1,
     "approved": 0,
     "status_based": 1,
-    "override": 5
+    "override": 4
   }
 }
