@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-07 08:37:59 CDT",
+  "generated_at_ct": "2026-10-07 08:51:28 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -9,7 +9,6 @@
     "77277: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77246: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77245: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
-    "77233: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77231: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77226: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77223: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -35,10 +34,10 @@
   ],
   "counts": {
     "ready_to_sew": 0,
-    "needs_barcode": 0,
+    "needs_barcode": 1,
     "sewout": 6,
     "on_machine": 6,
-    "total": 12
+    "total": 13
   },
   "columns": {
     "ready_to_sew": {
@@ -47,7 +46,24 @@
     },
     "needs_barcode": {
       "title": "Needs barcode",
-      "cards": []
+      "cards": [
+        {
+          "visual_id": "77233",
+          "invoice_id": "24725977",
+          "nickname": "B386628 WASHINGTON UNIVERSITY LAW - VOL 104 - Batched 10/05/2026 EMB-LC-76817 - (2 of 3)",
+          "company": "WASHINGTON UNIVERSITY SCHOOL OF LAW",
+          "production_due": "2026-10-09",
+          "customer_due": "2026-10-16",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24725977",
+          "shelf": "shelf e3"
+        }
+      ]
     },
     "sewout": {
       "title": "Sewout",
