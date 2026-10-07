@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-07 09:01:34 CDT",
+  "generated_at_ct": "2026-10-07 09:12:23 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -32,11 +32,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 2,
+    "ready_to_sew": 1,
     "needs_barcode": 1,
     "sewout": 6,
     "on_machine": 6,
-    "total": 15
+    "total": 14
   },
   "columns": {
     "ready_to_sew": {
@@ -56,22 +56,6 @@
           "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - RUSH",
           "short_status": "Goods here \u00b7 RUSH",
           "url": "https://www.printavo.com/invoices/24744161",
-          "shelf": "shelf e3"
-        },
-        {
-          "visual_id": "77233",
-          "invoice_id": "24725977",
-          "nickname": "B386628 WASHINGTON UNIVERSITY LAW - VOL 104 - Batched 10/05/2026 EMB-LC-76817 - (2 of 3)",
-          "company": "WASHINGTON UNIVERSITY SCHOOL OF LAW",
-          "production_due": "2026-10-09",
-          "customer_due": "2026-10-16",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24725977",
           "shelf": "shelf e3"
         }
       ]
@@ -252,20 +236,20 @@
           "shelf": "shelf 93"
         },
         {
-          "visual_id": "77094",
-          "invoice_id": "24696920",
-          "nickname": "EMB HOODED APPAREL",
-          "company": "RAPIDFIRE",
-          "production_due": "2026-10-12",
-          "customer_due": "2026-10-14",
+          "visual_id": "77233",
+          "invoice_id": "24725977",
+          "nickname": "B386628 WASHINGTON UNIVERSITY LAW - VOL 104 - Batched 10/05/2026 EMB-LC-76817 - (2 of 3)",
+          "company": "WASHINGTON UNIVERSITY SCHOOL OF LAW",
+          "production_due": "2026-10-09",
+          "customer_due": "2026-10-16",
           "rush": false,
           "firm": false,
-          "qty": 28,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24696920",
-          "shelf": null
+          "qty": 2,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24725977",
+          "shelf": "shelf e3"
         },
         {
           "visual_id": "77222",
