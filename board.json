@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-07 17:14:33 CDT",
+  "generated_at_ct": "2026-10-07 17:18:26 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -139,24 +139,6 @@
           "sewout_badge": "approved"
         },
         {
-          "visual_id": "74102",
-          "invoice_id": "23967902",
-          "nickname": "EMB - NORTH COUNTY TRAINING INS 1/4 ZIPS JOBSHIRT - QTY 31 (3 OF 5)",
-          "company": "Mid County Fire Department",
-          "production_due": "2026-09-30",
-          "customer_due": "2026-10-01",
-          "rush": false,
-          "firm": false,
-          "qty": 31,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/23967902",
-          "shelf": "shelf under",
-          "sewout_badge": "needed",
-          "sewout_reason": "approval needed"
-        },
-        {
           "visual_id": "76729",
           "invoice_id": "24611638",
           "nickname": "EMB - PO60924114C - Plante Moran - 125PC",
@@ -172,6 +154,24 @@
           "url": "https://www.printavo.com/invoices/24611638",
           "shelf": "shelf 90",
           "sewout_badge": "approved"
+        },
+        {
+          "visual_id": "74102",
+          "invoice_id": "23967902",
+          "nickname": "EMB - NORTH COUNTY TRAINING INS 1/4 ZIPS JOBSHIRT - QTY 31 (3 OF 5)",
+          "company": "Mid County Fire Department",
+          "production_due": "2026-10-01",
+          "customer_due": "2026-10-01",
+          "rush": false,
+          "firm": false,
+          "qty": 31,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/23967902",
+          "shelf": "shelf under",
+          "sewout_badge": "needed",
+          "sewout_reason": "approval needed"
         },
         {
           "visual_id": "77154",
