@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-07 12:04:04 CDT",
+  "generated_at_ct": "2026-10-07 12:11:10 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -61,7 +61,7 @@
           "invoice_id": "24744103",
           "nickname": "EMB - AKWA Polos UBT/OCSEA - 2 PCS - PO #9949",
           "company": "ADTEK PROMOTIONS",
-          "production_due": "2026-10-13",
+          "production_due": "2026-10-12",
           "customer_due": "2026-10-15",
           "rush": false,
           "firm": false,
@@ -105,7 +105,7 @@
           "invoice_id": "24693441",
           "nickname": "EMB - POOLSIDE LIVING WATERFALL LOGO  hat QTY 48 (2 OF 2)",
           "company": "Poolside Living",
-          "production_due": "2026-10-09",
+          "production_due": "2026-10-08",
           "customer_due": "2026-10-09",
           "rush": false,
           "firm": false,
@@ -133,7 +133,7 @@
           "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
           "short_status": "Sewout sent",
           "url": "https://www.printavo.com/invoices/23816348",
-          "shelf": null,
+          "shelf": "slot ___",
           "sewout_badge": "sent",
           "blocker": "sent"
         }
@@ -194,6 +194,22 @@
           "shelf": "shelf 93"
         },
         {
+          "visual_id": "77157",
+          "invoice_id": "24707916",
+          "nickname": "631805 Robertson Fire 2026 - SEPT EMB - RIGHT HIP - 50 - 61956 -  (16 of 16)",
+          "company": "Robertson Fire Dept",
+          "production_due": "2026-10-08",
+          "customer_due": "2026-10-15",
+          "rush": false,
+          "firm": false,
+          "qty": 4,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24707916",
+          "shelf": "shelf e3"
+        },
+        {
           "visual_id": "77289",
           "invoice_id": "24744161",
           "nickname": "RESTITCH EMB/ AIR ALL/ 3 PC ",
@@ -226,27 +242,11 @@
           "shelf": "shelf 91"
         },
         {
-          "visual_id": "77157",
-          "invoice_id": "24707916",
-          "nickname": "631805 Robertson Fire 2026 - SEPT EMB - RIGHT HIP - 50 - 61956 -  (16 of 16)",
-          "company": "Robertson Fire Dept",
-          "production_due": "2026-10-09",
-          "customer_due": "2026-10-15",
-          "rush": false,
-          "firm": false,
-          "qty": 4,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24707916",
-          "shelf": "shelf e3"
-        },
-        {
           "visual_id": "77222",
           "invoice_id": "24724813",
           "nickname": "B376866 Maryland Heights Fire 2026 - Batched 10/05/2026 EMB - HATS - 53491 - (2 of 6)",
           "company": "Maryland Heights Fire Department",
-          "production_due": "2026-10-13",
+          "production_due": "2026-10-12",
           "customer_due": "2026-10-19",
           "rush": false,
           "firm": false,
@@ -262,7 +262,7 @@
           "invoice_id": "24724822",
           "nickname": "B376866 Maryland Heights Fire 2026 - Batched 10/05/2026 EMB - LC / FB - WHITE - JACKET/COAT - 53562 -  (5 of 6)",
           "company": "Maryland Heights Fire Department",
-          "production_due": "2026-10-13",
+          "production_due": "2026-10-12",
           "customer_due": "2026-10-19",
           "rush": false,
           "firm": false,
@@ -278,7 +278,7 @@
           "invoice_id": "24725979",
           "nickname": "B386628 WASHINGTON UNIVERSITY LAW - VOL 104 - Batched 10/05/2026 EMB-BEANIE-76816",
           "company": "WASHINGTON UNIVERSITY SCHOOL OF LAW",
-          "production_due": "2026-10-13",
+          "production_due": "2026-10-12",
           "customer_due": "2026-10-12",
           "rush": false,
           "firm": false,
