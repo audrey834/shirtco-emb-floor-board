@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-10-07 11:11:57 CDT",
+  "generated_at_ct": "2026-10-07 11:24:34 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 75674, 76129, 77110",
+    "Printavo Sewout AR approved: 74555, 75674, 76129, 76729, 77110",
     "77246: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77245: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77231: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -29,16 +29,34 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 0,
+    "ready_to_sew": 1,
     "needs_barcode": 1,
-    "sewout": 4,
+    "sewout": 3,
     "on_machine": 10,
     "total": 15
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
-      "cards": []
+      "cards": [
+        {
+          "visual_id": "76729",
+          "invoice_id": "24611638",
+          "nickname": "EMB - PO60924114C - Plante Moran - 125PC",
+          "company": "Kaeser & Blair, INC",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-10-02",
+          "rush": false,
+          "firm": false,
+          "qty": 125,
+          "status_id": "338846",
+          "status_name": "EMB - SEWOUT APPROVED",
+          "short_status": "Sewout approved",
+          "url": "https://www.printavo.com/invoices/24611638",
+          "shelf": "shelf 90",
+          "sewout_badge": "approved"
+        }
+      ]
     },
     "needs_barcode": {
       "title": "Needs barcode",
@@ -69,7 +87,7 @@
           "invoice_id": "24409140",
           "nickname": "EMB - Auto Vitality UA Polos White - 5pc 1OF2 ",
           "company": "",
-          "production_due": "2026-10-07",
+          "production_due": "2026-10-06",
           "customer_due": "2026-10-07",
           "rush": false,
           "firm": false,
@@ -119,25 +137,6 @@
           "shelf": null,
           "sewout_badge": "sent",
           "blocker": "sent"
-        },
-        {
-          "visual_id": "76729",
-          "invoice_id": "24611638",
-          "nickname": "EMB - PO60924114C - Plante Moran - 125PC",
-          "company": "Kaeser & Blair, INC",
-          "production_due": "2026-09-30",
-          "customer_due": "2026-10-02",
-          "rush": false,
-          "firm": false,
-          "qty": 125,
-          "status_id": "338845",
-          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
-          "short_status": "Sewout sent",
-          "url": "https://www.printavo.com/invoices/24611638",
-          "shelf": "shelf 90",
-          "sewout_badge": "sent",
-          "sewout_reason": "new art + approval needed",
-          "blocker": "sent"
         }
       ]
     },
@@ -166,7 +165,7 @@
           "invoice_id": "23967902",
           "nickname": "EMB - NORTH COUNTY TRAINING INS 1/4 ZIPS JOBSHIRT - QTY 31 (3 OF 5)",
           "company": "Mid County Fire Department",
-          "production_due": "2026-10-01",
+          "production_due": "2026-09-30",
           "customer_due": "2026-10-01",
           "rush": false,
           "firm": false,
@@ -324,9 +323,9 @@
   "sewout_breakdown": {
     "declined": 0,
     "needed": 2,
-    "sent": 2,
+    "sent": 1,
     "approved": 0,
-    "status_based": 2,
+    "status_based": 1,
     "override": 2
   }
 }
