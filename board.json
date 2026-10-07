@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-07 11:33:09 CDT",
+  "generated_at_ct": "2026-10-07 11:44:39 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -29,8 +29,8 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 1,
-    "needs_barcode": 1,
+    "ready_to_sew": 2,
+    "needs_barcode": 0,
     "sewout": 3,
     "on_machine": 10,
     "total": 15
@@ -55,12 +55,7 @@
           "url": "https://www.printavo.com/invoices/24611638",
           "shelf": "shelf 90",
           "sewout_badge": "approved"
-        }
-      ]
-    },
-    "needs_barcode": {
-      "title": "Needs barcode",
-      "cards": [
+        },
         {
           "visual_id": "77288",
           "invoice_id": "24744103",
@@ -71,13 +66,17 @@
           "rush": false,
           "firm": false,
           "qty": 2,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24744103",
           "shelf": "shelf e3"
         }
       ]
+    },
+    "needs_barcode": {
+      "title": "Needs barcode",
+      "cards": []
     },
     "sewout": {
       "title": "Sewout",
