@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-10-07 12:20:35 CDT",
+  "generated_at_ct": "2026-10-07 12:27:51 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 75674, 76129, 76729, 77110",
+    "Printavo Sewout AR approved: 74555, 75674, 76729, 77110",
     "77246: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77245: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77231: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -22,7 +22,6 @@
     "76385: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76382: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76327: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
-    "76129: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "74555: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71572: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71324: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
