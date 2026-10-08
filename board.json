@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-08 13:35:57 CDT",
+  "generated_at_ct": "2026-10-08 14:41:13 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -26,86 +26,20 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 3,
-    "needs_barcode": 1,
+    "ready_to_sew": 0,
+    "needs_barcode": 0,
     "sewout": 3,
-    "on_machine": 5,
-    "total": 12
+    "on_machine": 7,
+    "total": 10
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
-      "cards": [
-        {
-          "visual_id": "77353",
-          "invoice_id": "24761846",
-          "nickname": "B384971 St. Charles City Fire Department Apparel 2026 - Batched 10/07/2026 EMB - HAT - LEFT SIDE/ BACK - TRUCK 35 - 53555 -  (1 of 6)",
-          "company": "St. Charles City Fire Department",
-          "production_due": "2026-10-14",
-          "customer_due": "2026-10-21",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24761846",
-          "shelf": "shelf 91"
-        },
-        {
-          "visual_id": "77355",
-          "invoice_id": "24761850",
-          "nickname": "B384971 St. Charles City Fire Department Apparel 2026 - Batched 10/07/2026 EMB - HATS - PUFF FF/FB - 94 LOGO - 64397 -  (3 of 6)",
-          "company": "St. Charles City Fire Department",
-          "production_due": "2026-10-14",
-          "customer_due": "2026-10-21",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24761850",
-          "shelf": "shelf 91"
-        },
-        {
-          "visual_id": "77356",
-          "invoice_id": "24761852",
-          "nickname": "B384971 St. Charles City Fire Department Apparel 2026 - Batched 10/07/2026 EMB - HAT - LEFT SIDE/ BACK - ENGINE 50 - 53555 -  (4 of 6)",
-          "company": "St. Charles City Fire Department",
-          "production_due": "2026-10-14",
-          "customer_due": "2026-10-21",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "Goods+DST+barcode",
-          "url": "https://www.printavo.com/invoices/24761852",
-          "shelf": "shelf 91"
-        }
-      ]
+      "cards": []
     },
     "needs_barcode": {
       "title": "Needs barcode",
-      "cards": [
-        {
-          "visual_id": "77121",
-          "invoice_id": "24703982",
-          "nickname": "EMB TECHNOLOGY TEAM QUARTER ZIPS ",
-          "company": "Heartland Coca Cola Angie Fumagalli",
-          "production_due": "2026-10-12",
-          "customer_due": "2026-10-13",
-          "rush": false,
-          "firm": false,
-          "qty": 19,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24703982",
-          "shelf": "shelf 94"
-        }
-      ]
+      "cards": []
     },
     "sewout": {
       "title": "Sewout",
@@ -189,22 +123,6 @@
           "sewout_badge": "approved"
         },
         {
-          "visual_id": "77156",
-          "invoice_id": "24707914",
-          "nickname": "631805 Robertson Fire 2026 - SEPT EMB - LEFT HIP - 50 - 61956 -  (15 of 16)",
-          "company": "Robertson Fire Dept",
-          "production_due": "2026-10-08",
-          "customer_due": "2026-10-15",
-          "rush": false,
-          "firm": false,
-          "qty": 12,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24707914",
-          "shelf": "shelf 93"
-        },
-        {
           "visual_id": "76677",
           "invoice_id": "24596406",
           "nickname": "EMB - MISSOURI COALITION POLO - QTY 16",
@@ -214,12 +132,28 @@
           "rush": false,
           "firm": false,
           "qty": 16,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24596406",
           "shelf": "shelf 91",
           "sewout_badge": "approved"
+        },
+        {
+          "visual_id": "77121",
+          "invoice_id": "24703982",
+          "nickname": "EMB TECHNOLOGY TEAM QUARTER ZIPS ",
+          "company": "Heartland Coca Cola Angie Fumagalli",
+          "production_due": "2026-10-12",
+          "customer_due": "2026-10-13",
+          "rush": false,
+          "firm": false,
+          "qty": 19,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24703982",
+          "shelf": "shelf 94"
         },
         {
           "visual_id": "77225",
@@ -252,6 +186,38 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24702185",
           "shelf": "SHELF 93"
+        },
+        {
+          "visual_id": "77353",
+          "invoice_id": "24761846",
+          "nickname": "B384971 St. Charles City Fire Department Apparel 2026 - Batched 10/07/2026 EMB - HAT - LEFT SIDE/ BACK - TRUCK 35 - 53555 -  (1 of 6)",
+          "company": "St. Charles City Fire Department",
+          "production_due": "2026-10-14",
+          "customer_due": "2026-10-21",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24761846",
+          "shelf": "shelf 91"
+        },
+        {
+          "visual_id": "77355",
+          "invoice_id": "24761850",
+          "nickname": "B384971 St. Charles City Fire Department Apparel 2026 - Batched 10/07/2026 EMB - HATS - PUFF FF/FB - 94 LOGO - 64397 -  (3 of 6)",
+          "company": "St. Charles City Fire Department",
+          "production_due": "2026-10-14",
+          "customer_due": "2026-10-21",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "Staged",
+          "url": "https://www.printavo.com/invoices/24761850",
+          "shelf": "shelf 91"
         }
       ]
     }
