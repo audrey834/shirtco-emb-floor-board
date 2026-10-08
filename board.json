@@ -1,20 +1,17 @@
 {
-  "generated_at_ct": "2026-10-08 14:41:13 CDT",
+  "generated_at_ct": "2026-10-08 15:47:37 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 74555, 76129, 76677, 76729, 77110",
+    "Printavo Sewout AR approved: 74555, 76129, 76729, 77110",
     "77246: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77245: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77231: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77226: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
-    "77223: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77155: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77153: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77151: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
-    "77133: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
-    "77110: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76899: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76758: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76385: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -26,16 +23,50 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 0,
+    "ready_to_sew": 2,
     "needs_barcode": 0,
-    "sewout": 3,
-    "on_machine": 7,
-    "total": 10
+    "sewout": 4,
+    "on_machine": 2,
+    "total": 8
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
-      "cards": []
+      "cards": [
+        {
+          "visual_id": "77110",
+          "invoice_id": "24702255",
+          "nickname": "EMB - PO2005195 - Treeline - 20PC",
+          "company": "All Things Swag",
+          "production_due": "2026-10-09",
+          "customer_due": "2026-10-09",
+          "rush": false,
+          "firm": false,
+          "qty": 20,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24702255",
+          "shelf": "shelf 94",
+          "sewout_badge": "approved"
+        },
+        {
+          "visual_id": "77223",
+          "invoice_id": "24724820",
+          "nickname": "B376866 Maryland Heights Fire 2026 - Batched 10/05/2026 EMB - LC/RC - WHITE OUTLINE - 53562 - (3 of 6)",
+          "company": "Maryland Heights Fire Department",
+          "production_due": "2026-10-13",
+          "customer_due": "2026-10-19",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24724820",
+          "shelf": "shelf e3"
+        }
+      ]
     },
     "needs_barcode": {
       "title": "Needs barcode",
@@ -49,7 +80,7 @@
           "invoice_id": "24753120",
           "nickname": "EMB - Newport Mesa Hats - 300 PCS",
           "company": "SUNSET SCREEN PRINTING",
-          "production_due": "2026-10-12",
+          "production_due": "2026-10-13",
           "customer_due": "2026-10-13",
           "rush": false,
           "firm": false,
@@ -61,6 +92,25 @@
           "shelf": null,
           "sewout_badge": "needed",
           "sewout_reason": "approval needed",
+          "blocker": "needed"
+        },
+        {
+          "visual_id": "77382",
+          "invoice_id": "24767995",
+          "nickname": "EMB // TLG/ PETERBILT // 5pc ",
+          "company": "Vestis MC# 617",
+          "production_due": "2026-10-14",
+          "customer_due": "2026-10-14",
+          "rush": false,
+          "firm": false,
+          "qty": 5,
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24767995",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "new art + approval needed",
           "blocker": "needed"
         },
         {
@@ -86,7 +136,7 @@
           "invoice_id": "24124560",
           "nickname": "EMB - BRINKMANN JACKETS - QTY 19",
           "company": "BRINKMANN CONSTRUCTORS",
-          "production_due": "2026-10-09",
+          "production_due": "2026-10-10",
           "customer_due": "2026-10-14",
           "rush": false,
           "firm": false,
@@ -123,28 +173,11 @@
           "sewout_badge": "approved"
         },
         {
-          "visual_id": "76677",
-          "invoice_id": "24596406",
-          "nickname": "EMB - MISSOURI COALITION POLO - QTY 16",
-          "company": "Missouri Coalition MC5",
-          "production_due": "2026-10-09",
-          "customer_due": "2026-10-14",
-          "rush": false,
-          "firm": false,
-          "qty": 16,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24596406",
-          "shelf": "shelf 91",
-          "sewout_badge": "approved"
-        },
-        {
           "visual_id": "77121",
           "invoice_id": "24703982",
           "nickname": "EMB TECHNOLOGY TEAM QUARTER ZIPS ",
           "company": "Heartland Coca Cola Angie Fumagalli",
-          "production_due": "2026-10-12",
+          "production_due": "2026-10-13",
           "customer_due": "2026-10-13",
           "rush": false,
           "firm": false,
@@ -154,70 +187,6 @@
           "short_status": "Staged",
           "url": "https://www.printavo.com/invoices/24703982",
           "shelf": "shelf 94"
-        },
-        {
-          "visual_id": "77225",
-          "invoice_id": "24724822",
-          "nickname": "B376866 Maryland Heights Fire 2026 - Batched 10/05/2026 EMB - LC / FB - WHITE - JACKET/COAT - 53562 -  (5 of 6)",
-          "company": "Maryland Heights Fire Department",
-          "production_due": "2026-10-12",
-          "customer_due": "2026-10-19",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24724822",
-          "shelf": "shelf e5"
-        },
-        {
-          "visual_id": "77109",
-          "invoice_id": "24702185",
-          "nickname": "EMB LOU FUSZ ATHLETIC WEST ADIDAS CAPS ",
-          "company": "LOU FUSZ ATHLETIC ",
-          "production_due": "2026-10-13",
-          "customer_due": "2026-10-14",
-          "rush": false,
-          "firm": false,
-          "qty": 60,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24702185",
-          "shelf": "SHELF 93"
-        },
-        {
-          "visual_id": "77353",
-          "invoice_id": "24761846",
-          "nickname": "B384971 St. Charles City Fire Department Apparel 2026 - Batched 10/07/2026 EMB - HAT - LEFT SIDE/ BACK - TRUCK 35 - 53555 -  (1 of 6)",
-          "company": "St. Charles City Fire Department",
-          "production_due": "2026-10-14",
-          "customer_due": "2026-10-21",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24761846",
-          "shelf": "shelf 91"
-        },
-        {
-          "visual_id": "77355",
-          "invoice_id": "24761850",
-          "nickname": "B384971 St. Charles City Fire Department Apparel 2026 - Batched 10/07/2026 EMB - HATS - PUFF FF/FB - 94 LOGO - 64397 -  (3 of 6)",
-          "company": "St. Charles City Fire Department",
-          "production_due": "2026-10-14",
-          "customer_due": "2026-10-21",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "Staged",
-          "url": "https://www.printavo.com/invoices/24761850",
-          "shelf": "shelf 91"
         }
       ]
     }
@@ -233,10 +202,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 1,
+    "needed": 2,
     "sent": 2,
     "approved": 0,
     "status_based": 2,
-    "override": 1
+    "override": 2
   }
 }
