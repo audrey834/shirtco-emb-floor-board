@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-28 14:45:06 CDT",
+  "generated_at_ct": "2026-10-28 14:46:29 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -16,17 +16,18 @@
     "78017: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77988: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77804: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
+    "77422: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76899: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71572: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71324: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 3,
+    "ready_to_sew": 2,
     "needs_barcode": 6,
     "sewout": 4,
     "on_machine": 5,
-    "total": 18
+    "total": 17
   },
   "columns": {
     "ready_to_sew": {
@@ -64,23 +65,6 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24996622",
           "shelf": "shelf 91"
-        },
-        {
-          "visual_id": "77422",
-          "invoice_id": "24779947",
-          "nickname": "EMB - PO61007168C - UVA Law & Business Society - 83PC",
-          "company": "Kaeser & Blair, INC",
-          "production_due": "2026-11-04",
-          "customer_due": "2026-11-06",
-          "rush": false,
-          "firm": false,
-          "qty": 83,
-          "status_id": "338846",
-          "status_name": "EMB - SEWOUT APPROVED",
-          "short_status": "Sewout approved",
-          "url": "https://www.printavo.com/invoices/24779947",
-          "shelf": null,
-          "sewout_badge": "approved"
         }
       ]
     },
