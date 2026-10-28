@@ -1,10 +1,10 @@
 {
-  "generated_at_ct": "2026-10-28 13:27:04 CDT",
+  "generated_at_ct": "2026-10-28 13:34:27 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
-    "Printavo Sewout AR approved: 77923",
+    "Printavo Sewout AR approved: 77923, 78086",
     "78126: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "78125: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "78120: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -21,11 +21,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 2,
+    "ready_to_sew": 3,
     "needs_barcode": 6,
     "sewout": 4,
-    "on_machine": 4,
-    "total": 16
+    "on_machine": 5,
+    "total": 18
   },
   "columns": {
     "ready_to_sew": {
@@ -36,16 +36,17 @@
           "invoice_id": "24961249",
           "nickname": "EMB - PO 61022072C UVA ECONOMICS VISORS - 24PC",
           "company": "Kaeser & Blair, INC",
-          "production_due": "2026-10-28",
+          "production_due": "2026-10-29",
           "customer_due": "2026-10-29",
           "rush": false,
           "firm": false,
           "qty": 24,
-          "status_id": "227037",
-          "status_name": "EMB - DST FILE UPLOADED - GOODS HERE - BARCODE ADDED",
-          "short_status": "Goods+DST+barcode",
+          "status_id": "338846",
+          "status_name": "EMB - SEWOUT APPROVED",
+          "short_status": "Sewout approved",
           "url": "https://www.printavo.com/invoices/24961249",
-          "shelf": "shelf 96"
+          "shelf": "shelf 96",
+          "sewout_badge": "approved"
         },
         {
           "visual_id": "78220",
@@ -62,6 +63,22 @@
           "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24996622",
           "shelf": "shelf 91"
+        },
+        {
+          "visual_id": "78150",
+          "invoice_id": "24975542",
+          "nickname": "EMB - CNN DAD HATS - QTY 24",
+          "company": "Circle News Network",
+          "production_due": "2026-11-09",
+          "customer_due": "2026-11-13",
+          "rush": false,
+          "firm": false,
+          "qty": 24,
+          "status_id": "227037",
+          "status_name": "EMB - DST FILE UPLOADED - GOODS HERE - BARCODE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24975542",
+          "shelf": "shelf 86"
         }
       ]
     },
@@ -117,22 +134,6 @@
           "shelf": "shelf e5"
         },
         {
-          "visual_id": "78238",
-          "invoice_id": "25001406",
-          "nickname": "B389960 Maryland Heights Fire 2026 - Batched 10/26/2026 EMB - LC / FB - WHITE - JACKET/COAT - 53562 - (4 of 6)",
-          "company": "Maryland Heights Fire Department",
-          "production_due": "2026-11-02",
-          "customer_due": "2026-11-09",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - GOODS HERE - NEEDS BARCODE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/25001406",
-          "shelf": "shelf e1"
-        },
-        {
           "visual_id": "78011",
           "invoice_id": "24940082",
           "nickname": "WMB CBWP ADIDAS JACKETS 12PCS",
@@ -149,11 +150,27 @@
           "shelf": "shelf e5"
         },
         {
+          "visual_id": "78238",
+          "invoice_id": "25001406",
+          "nickname": "B389960 Maryland Heights Fire 2026 - Batched 10/26/2026 EMB - LC / FB - WHITE - JACKET/COAT - 53562 - (4 of 6)",
+          "company": "Maryland Heights Fire Department",
+          "production_due": "2026-11-03",
+          "customer_due": "2026-11-09",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - GOODS HERE - NEEDS BARCODE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/25001406",
+          "shelf": "shelf e1"
+        },
+        {
           "visual_id": "78188",
           "invoice_id": "24987583",
           "nickname": "673427 Warrenton Fire Department Apparel - OCT  2026 EMB - HAT - WARRENTON FIRE EMBROIDERED ENGINE -28661 - (4 of 5)",
           "company": "Warrenton Fire Department",
-          "production_due": "2026-11-06",
+          "production_due": "2026-11-07",
           "customer_due": "2026-11-13",
           "rush": false,
           "firm": false,
@@ -174,7 +191,7 @@
           "invoice_id": "24917145",
           "nickname": "EMB/ ACOUSTICAL CEILINGS/ 1 CUST  FULL ZIP ",
           "company": "ACOUSTICAL CEILINGS",
-          "production_due": "2026-10-29",
+          "production_due": "2026-10-30",
           "customer_due": "2026-10-29",
           "rush": false,
           "firm": false,
@@ -207,24 +224,6 @@
           "blocker": "sent"
         },
         {
-          "visual_id": "77794",
-          "invoice_id": "24878605",
-          "nickname": "EMB - Minihan OmegaAir Hats - 24 PCS",
-          "company": "",
-          "production_due": "2026-10-28",
-          "customer_due": "2026-10-30",
-          "rush": false,
-          "firm": false,
-          "qty": 24,
-          "status_id": "338845",
-          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
-          "short_status": "Sewout sent",
-          "url": "https://www.printavo.com/invoices/24878605",
-          "shelf": "shelf 92",
-          "sewout_badge": "sent",
-          "blocker": "sent"
-        },
-        {
           "visual_id": "77748",
           "invoice_id": "24865028",
           "nickname": "EMB - Primagen DC Caps -150PC ",
@@ -241,6 +240,24 @@
           "shelf": null,
           "sewout_badge": "sent",
           "blocker": "sent"
+        },
+        {
+          "visual_id": "77794",
+          "invoice_id": "24878605",
+          "nickname": "EMB - Minihan OmegaAir Hats - 24 PCS",
+          "company": "",
+          "production_due": "2026-10-29",
+          "customer_due": "2026-10-30",
+          "rush": false,
+          "firm": false,
+          "qty": 24,
+          "status_id": "338845",
+          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
+          "short_status": "Sewout sent",
+          "url": "https://www.printavo.com/invoices/24878605",
+          "shelf": "shelf 92",
+          "sewout_badge": "sent",
+          "blocker": "sent"
         }
       ]
     },
@@ -252,7 +269,7 @@
           "invoice_id": "24920564",
           "nickname": "EMB - OUTTA POCKET RACING HATS - 60PCS ",
           "company": "",
-          "production_due": "2026-10-26",
+          "production_due": "2026-10-27",
           "customer_due": "2026-10-27",
           "rush": false,
           "firm": false,
@@ -269,7 +286,7 @@
           "invoice_id": "24933795",
           "nickname": "662005 Wright City Fire Department 2026  EMB - LC/RC/LS OR CUFF -  NON-UNION - 42956 - (3 of 4)",
           "company": "Wright City Fire Department",
-          "production_due": "2026-10-26",
+          "production_due": "2026-10-27",
           "customer_due": "2026-11-02",
           "rush": false,
           "firm": false,
@@ -279,6 +296,24 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24933795",
           "shelf": "shelf 91"
+        },
+        {
+          "visual_id": "76933",
+          "invoice_id": "24661457",
+          "nickname": "EMB - Candace FSHS Mock Neck Sweatshirts - 500 PCS",
+          "company": "Pure Choice Apparel",
+          "production_due": "2026-10-29",
+          "customer_due": "2026-10-30",
+          "rush": false,
+          "firm": false,
+          "qty": 500,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "Sewing",
+          "url": "https://www.printavo.com/invoices/24661457",
+          "shelf": "shelf under",
+          "sewout_badge": "needed",
+          "sewout_reason": "new art + approval needed"
         },
         {
           "visual_id": "78156",
