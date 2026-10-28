@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-28 15:41:55 CDT",
+  "generated_at_ct": "2026-10-28 15:48:11 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -27,8 +27,8 @@
     "ready_to_sew": 4,
     "needs_barcode": 6,
     "sewout": 4,
-    "on_machine": 5,
-    "total": 19
+    "on_machine": 4,
+    "total": 18
   },
   "columns": {
     "ready_to_sew": {
@@ -332,22 +332,6 @@
           "short_status": "Sewing",
           "url": "https://www.printavo.com/invoices/24976722",
           "shelf": "shelf under"
-        },
-        {
-          "visual_id": "78175",
-          "invoice_id": "24986822",
-          "nickname": "645975 SCCHE Band Store 2026 EMB - LC - SCCHE BAND POLOS- 19914 - (1 of 2)",
-          "company": "St. Charles Home Educators",
-          "production_due": "2026-10-29",
-          "customer_due": "2026-11-05",
-          "rush": false,
-          "firm": false,
-          "qty": 47,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24986822",
-          "shelf": "shelf 95"
         },
         {
           "visual_id": "78179",
