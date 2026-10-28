@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-28 15:13:03 CDT",
+  "generated_at_ct": "2026-10-28 15:16:13 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -24,11 +24,11 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 3,
+    "ready_to_sew": 4,
     "needs_barcode": 5,
     "sewout": 4,
     "on_machine": 5,
-    "total": 17
+    "total": 18
   },
   "columns": {
     "ready_to_sew": {
@@ -50,6 +50,22 @@
           "url": "https://www.printavo.com/invoices/24961249",
           "shelf": "shelf 96",
           "sewout_badge": "approved"
+        },
+        {
+          "visual_id": "78201",
+          "invoice_id": "24990781",
+          "nickname": "EMB LOCAL 562 PLAID LONG SLEEVE  BUTTON FRONT",
+          "company": "",
+          "production_due": "2026-10-30",
+          "customer_due": "2026-10-30",
+          "rush": false,
+          "firm": false,
+          "qty": 2,
+          "status_id": "227037",
+          "status_name": "EMB - DST FILE UPLOADED - GOODS HERE - BARCODE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24990781",
+          "shelf": null
         },
         {
           "visual_id": "78220",
