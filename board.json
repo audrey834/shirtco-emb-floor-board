@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-28 13:36:57 CDT",
+  "generated_at_ct": "2026-10-28 13:42:34 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -23,9 +23,9 @@
   "counts": {
     "ready_to_sew": 3,
     "needs_barcode": 6,
-    "sewout": 4,
+    "sewout": 5,
     "on_machine": 5,
-    "total": 18
+    "total": 19
   },
   "columns": {
     "ready_to_sew": {
@@ -41,9 +41,9 @@
           "rush": false,
           "firm": false,
           "qty": 24,
-          "status_id": "338846",
-          "status_name": "EMB - SEWOUT APPROVED",
-          "short_status": "Sewout approved",
+          "status_id": "227037",
+          "status_name": "EMB - DST FILE UPLOADED - GOODS HERE - BARCODE ADDED",
+          "short_status": "Goods+DST+barcode",
           "url": "https://www.printavo.com/invoices/24961249",
           "shelf": "shelf 96",
           "sewout_badge": "approved"
@@ -206,6 +206,25 @@
           "blocker": "needed"
         },
         {
+          "visual_id": "77422",
+          "invoice_id": "24779947",
+          "nickname": "EMB - PO61007168C - UVA Law & Business Society - 83PC",
+          "company": "Kaeser & Blair, INC",
+          "production_due": "2026-11-04",
+          "customer_due": "2026-11-06",
+          "rush": false,
+          "firm": false,
+          "qty": 83,
+          "status_id": "466183",
+          "status_name": "EMB - DST FILE UPLOADED - BARCODE ADDED",
+          "short_status": "DST+barcode \u00b7 no goods",
+          "url": "https://www.printavo.com/invoices/24779947",
+          "shelf": null,
+          "sewout_badge": "needed",
+          "sewout_reason": "new art + approval needed",
+          "blocker": "needed"
+        },
+        {
           "visual_id": "73544",
           "invoice_id": "23816348",
           "nickname": "SCRN/DTF - Shirt Co, Hat Co, Dtfs.co Employee Shirts - 224 pc",
@@ -361,10 +380,10 @@
   ],
   "sewout_breakdown": {
     "declined": 0,
-    "needed": 1,
+    "needed": 2,
     "sent": 3,
     "approved": 0,
     "status_based": 3,
-    "override": 1
+    "override": 2
   }
 }
