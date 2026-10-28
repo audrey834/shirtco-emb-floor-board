@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-28 14:04:49 CDT",
+  "generated_at_ct": "2026-10-28 14:14:24 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -15,6 +15,7 @@
     "78017: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77988: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "77804: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
+    "77748: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "76899: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71572: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "71324: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -23,9 +24,9 @@
   "counts": {
     "ready_to_sew": 3,
     "needs_barcode": 6,
-    "sewout": 5,
+    "sewout": 4,
     "on_machine": 5,
-    "total": 19
+    "total": 18
   },
   "columns": {
     "ready_to_sew": {
@@ -259,24 +260,6 @@
           "shelf": "shelf 92",
           "sewout_badge": "sent",
           "blocker": "sent"
-        },
-        {
-          "visual_id": "77748",
-          "invoice_id": "24865028",
-          "nickname": "EMB - Primagen DC Caps -150PC ",
-          "company": "Primagen DC ",
-          "production_due": "2026-10-29",
-          "customer_due": "2026-11-02",
-          "rush": false,
-          "firm": false,
-          "qty": 150,
-          "status_id": "338845",
-          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
-          "short_status": "Sewout sent",
-          "url": "https://www.printavo.com/invoices/24865028",
-          "shelf": null,
-          "sewout_badge": "sent",
-          "blocker": "sent"
         }
       ]
     },
@@ -381,9 +364,9 @@
   "sewout_breakdown": {
     "declined": 0,
     "needed": 2,
-    "sent": 3,
+    "sent": 2,
     "approved": 0,
-    "status_based": 3,
+    "status_based": 2,
     "override": 2
   }
 }
