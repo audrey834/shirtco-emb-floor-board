@@ -1,11 +1,10 @@
 {
-  "generated_at_ct": "2026-10-28 11:24:30 CDT",
+  "generated_at_ct": "2026-10-28 11:29:09 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
     "Manual sewout-approved overrides: 76011",
     "Printavo Sewout AR approved: 77923",
-    "78175: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "78126: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "78125: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
     "78120: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)",
@@ -22,10 +21,10 @@
   ],
   "counts": {
     "ready_to_sew": 1,
-    "needs_barcode": 7,
+    "needs_barcode": 8,
     "sewout": 4,
     "on_machine": 4,
-    "total": 16
+    "total": 17
   },
   "columns": {
     "ready_to_sew": {
@@ -52,6 +51,22 @@
     "needs_barcode": {
       "title": "Needs barcode",
       "cards": [
+        {
+          "visual_id": "78175",
+          "invoice_id": "24986822",
+          "nickname": "645975 SCCHE Band Store 2026 EMB - LC - SCCHE BAND POLOS- 19914 - (1 of 2)",
+          "company": "St. Charles Home Educators",
+          "production_due": "2026-10-29",
+          "customer_due": "2026-11-05",
+          "rush": false,
+          "firm": false,
+          "qty": 47,
+          "status_id": "462838",
+          "status_name": "EMB - DST FILE UPLOADED - GOODS HERE - NEEDS BARCODE",
+          "short_status": "Needs barcode",
+          "url": "https://www.printavo.com/invoices/24986822",
+          "shelf": "shelf 95"
+        },
         {
           "visual_id": "77988",
           "invoice_id": "24934505",
