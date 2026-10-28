@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-10-28 11:17:36 CDT",
+  "generated_at_ct": "2026-10-28 11:24:30 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "Missive ok: 0 declined, 1 approved sewout visual id(s) [approved: 76011]",
@@ -21,35 +21,52 @@
     "71157: 466183 DST+barcode \u00b7 no goods skipped (sewout not required or already approved; not Ready)"
   ],
   "counts": {
-    "ready_to_sew": 0,
-    "needs_barcode": 8,
+    "ready_to_sew": 1,
+    "needs_barcode": 7,
     "sewout": 4,
-    "on_machine": 5,
-    "total": 17
+    "on_machine": 4,
+    "total": 16
   },
   "columns": {
     "ready_to_sew": {
       "title": "Ready to sew",
-      "cards": []
-    },
-    "needs_barcode": {
-      "title": "Needs barcode",
       "cards": [
         {
           "visual_id": "78086",
           "invoice_id": "24961249",
           "nickname": "EMB - PO 61022072C UVA ECONOMICS VISORS - 24PC",
           "company": "Kaeser & Blair, INC",
-          "production_due": "2026-10-29",
+          "production_due": "2026-10-28",
           "customer_due": "2026-10-29",
           "rush": false,
           "firm": false,
           "qty": 24,
+          "status_id": "227037",
+          "status_name": "EMB - DST FILE UPLOADED - GOODS HERE - BARCODE ADDED",
+          "short_status": "Goods+DST+barcode",
+          "url": "https://www.printavo.com/invoices/24961249",
+          "shelf": "shelf 96"
+        }
+      ]
+    },
+    "needs_barcode": {
+      "title": "Needs barcode",
+      "cards": [
+        {
+          "visual_id": "77988",
+          "invoice_id": "24934505",
+          "nickname": "EMB - ATALANTA TRUCKER HATS - QTY 50",
+          "company": "Dolce Vita Lifestyle Concierge",
+          "production_due": "2026-10-30",
+          "customer_due": "2026-11-06",
+          "rush": false,
+          "firm": false,
+          "qty": 50,
           "status_id": "462838",
           "status_name": "EMB - DST FILE UPLOADED - GOODS HERE - NEEDS BARCODE",
           "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24961249",
-          "shelf": "shelf 96"
+          "url": "https://www.printavo.com/invoices/24934505",
+          "shelf": "shelf 85"
         },
         {
           "visual_id": "78179",
@@ -100,22 +117,6 @@
           "shelf": "shelf 91"
         },
         {
-          "visual_id": "77988",
-          "invoice_id": "24934505",
-          "nickname": "EMB - ATALANTA TRUCKER HATS - QTY 50",
-          "company": "Dolce Vita Lifestyle Concierge",
-          "production_due": "2026-10-31",
-          "customer_due": "2026-11-06",
-          "rush": false,
-          "firm": false,
-          "qty": 50,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - GOODS HERE - NEEDS BARCODE",
-          "short_status": "Needs barcode",
-          "url": "https://www.printavo.com/invoices/24934505",
-          "shelf": "shelf 85"
-        },
-        {
           "visual_id": "78010",
           "invoice_id": "24940017",
           "nickname": "WMB CBWP ADIDAS JACKETS 1PC",
@@ -152,7 +153,7 @@
           "invoice_id": "24987583",
           "nickname": "673427 Warrenton Fire Department Apparel - OCT  2026 EMB - HAT - WARRENTON FIRE EMBROIDERED ENGINE -28661 - (4 of 5)",
           "company": "Warrenton Fire Department",
-          "production_due": "2026-11-07",
+          "production_due": "2026-11-06",
           "customer_due": "2026-11-13",
           "rush": false,
           "firm": false,
@@ -173,7 +174,7 @@
           "invoice_id": "24917145",
           "nickname": "EMB/ ACOUSTICAL CEILINGS/ 1 CUST  FULL ZIP ",
           "company": "ACOUSTICAL CEILINGS",
-          "production_due": "2026-10-30",
+          "production_due": "2026-10-29",
           "customer_due": "2026-10-29",
           "rush": false,
           "firm": false,
@@ -206,6 +207,24 @@
           "blocker": "sent"
         },
         {
+          "visual_id": "77794",
+          "invoice_id": "24878605",
+          "nickname": "EMB - Minihan OmegaAir Hats - 24 PCS",
+          "company": "",
+          "production_due": "2026-10-28",
+          "customer_due": "2026-10-30",
+          "rush": false,
+          "firm": false,
+          "qty": 24,
+          "status_id": "338845",
+          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
+          "short_status": "Sewout sent",
+          "url": "https://www.printavo.com/invoices/24878605",
+          "shelf": "shelf 92",
+          "sewout_badge": "sent",
+          "blocker": "sent"
+        },
+        {
           "visual_id": "77748",
           "invoice_id": "24865028",
           "nickname": "EMB - Primagen DC Caps -150PC ",
@@ -222,24 +241,6 @@
           "shelf": null,
           "sewout_badge": "sent",
           "blocker": "sent"
-        },
-        {
-          "visual_id": "77794",
-          "invoice_id": "24878605",
-          "nickname": "EMB - Minihan OmegaAir Hats - 24 PCS",
-          "company": "",
-          "production_due": "2026-10-29",
-          "customer_due": "2026-10-30",
-          "rush": false,
-          "firm": false,
-          "qty": 24,
-          "status_id": "338845",
-          "status_name": "EMB - SEWOUT APPROVAL SENT (EMAIL AND TEXT)",
-          "short_status": "Sewout sent",
-          "url": "https://www.printavo.com/invoices/24878605",
-          "shelf": "shelf 92",
-          "sewout_badge": "sent",
-          "blocker": "sent"
         }
       ]
     },
@@ -251,7 +252,7 @@
           "invoice_id": "24920564",
           "nickname": "EMB - OUTTA POCKET RACING HATS - 60PCS ",
           "company": "",
-          "production_due": "2026-10-27",
+          "production_due": "2026-10-26",
           "customer_due": "2026-10-27",
           "rush": false,
           "firm": false,
@@ -268,7 +269,7 @@
           "invoice_id": "24933795",
           "nickname": "662005 Wright City Fire Department 2026  EMB - LC/RC/LS OR CUFF -  NON-UNION - 42956 - (3 of 4)",
           "company": "Wright City Fire Department",
-          "production_due": "2026-10-27",
+          "production_due": "2026-10-26",
           "customer_due": "2026-11-02",
           "rush": false,
           "firm": false,
@@ -280,27 +281,11 @@
           "shelf": "shelf 91"
         },
         {
-          "visual_id": "78115",
-          "invoice_id": "24968814",
-          "nickname": "EMB CAMO HUNTERS CAPS ",
-          "company": "COOPERS AMERICAN PUB & GRILL",
-          "production_due": "2026-10-28",
-          "customer_due": "2026-10-29",
-          "rush": false,
-          "firm": false,
-          "qty": 24,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "Sewing",
-          "url": "https://www.printavo.com/invoices/24968814",
-          "shelf": "shelf 91"
-        },
-        {
           "visual_id": "78079",
           "invoice_id": "24960330",
           "nickname": "647289 Pattonville Fire Fall  2026 EMB - LC/RC WHITE - 50177 -  (3 of 6)",
           "company": "Pattonville Fire Department",
-          "production_due": "2026-10-29",
+          "production_due": "2026-10-28",
           "customer_due": "2026-11-04",
           "rush": false,
           "firm": false,
